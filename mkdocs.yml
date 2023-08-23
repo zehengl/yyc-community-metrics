@@ -1,0 +1,38 @@
+site_name: yyc-community-metrics
+nav:
+  - Home: index.md
+theme:
+  name: material
+  favicon: https://cdn1.iconfinder.com/data/icons/flat-and-simple-part-1/128/location-512.png
+  logo: https://cdn1.iconfinder.com/data/icons/flat-and-simple-part-1/128/location-512.png
+  font:
+    text: Roboto
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  features:
+    - header.autohide
+    - navigation.top
+plugins:
+  - search
+  - tags
+  - glightbox:
+      auto_caption: true
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      type: timeago
+      enable_creation_date: true
+markdown_extensions:
+  - attr_list
+  - md_in_html
