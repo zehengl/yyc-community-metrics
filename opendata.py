@@ -41,3 +41,8 @@ def get_community_district_boundaries(offset=25000, force=False):
 def get_school_locations(offset=25000, force=False):
     df = download("fd9t-tdn2", offset, force)
     return df
+
+
+def get_bikeways(offset=25000, force=False):
+    df = download("jjqk-9b73", offset, force)
+    return df

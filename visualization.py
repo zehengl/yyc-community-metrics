@@ -4,7 +4,11 @@ import seaborn as sns
 from shapely.geometry import shape
 from shapely.ops import transform
 from tqdm import tqdm
-from opendata import get_community_district_boundaries, get_school_locations
+from opendata import (
+    get_bikeways,
+    get_community_district_boundaries,
+    get_school_locations,
+)
 
 
 # %%
@@ -29,6 +33,22 @@ for g in tqdm(communities["multipolygon"], desc="Counting Number of Schools"):
     count = schools["the_geom"].apply(lambda p: g.contains(p)).sum()
     counts.append(count)
 communities["schools"] = counts
+
+
+# %%
+bikeways = get_bikeways()
+bikeways = bikeways[~bikeways["multilinestring"].isna()]
+bikeways = bikeways[bikeways["status"] != "INACTIVE"]
+bikeways["multilinestring"] = bikeways["multilinestring"].apply(lambda g: shape(g))
+lengths = []
+for g in tqdm(communities["multipolygon"], desc="Counting Length of BikeWays"):
+    length = (
+        bikeways["multilinestring"]
+        .apply(lambda p: transform(project, g.intersection(p)).length)
+        .sum()
+    )
+    lengths.append(length)
+communities["bikeways"] = lengths
 
 
 # %%
