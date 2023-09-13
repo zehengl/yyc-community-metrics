@@ -19,7 +19,7 @@ project = pyproj.Transformer.from_crs(wgs84, utm, always_xy=True).transform
 
 # %%
 communities = get_community_district_boundaries()
-communities["multipolygon"] = communities["multipolygon"].apply(lambda g: shape(g))
+communities["multipolygon"] = communities["multipolygon"].apply(shape)
 communities["area"] = communities["multipolygon"].apply(
     lambda g: transform(project, g).area
 )
@@ -27,10 +27,10 @@ communities["area"] = communities["multipolygon"].apply(
 
 # %%
 schools = get_school_locations()
-schools["the_geom"] = schools["the_geom"].apply(lambda g: shape(g))
+schools["the_geom"] = schools["the_geom"].apply(shape)
 counts = []
 for g in tqdm(communities["multipolygon"], desc="Counting Number of Schools"):
-    count = schools["the_geom"].apply(lambda p: g.contains(p)).sum()
+    count = schools["the_geom"].apply(g.contains).sum()
     counts.append(count)
 communities["schools"] = counts
 
@@ -39,7 +39,7 @@ communities["schools"] = counts
 bikeways = get_bikeways()
 bikeways = bikeways[~bikeways["multilinestring"].isna()]
 bikeways = bikeways[bikeways["status"] != "INACTIVE"]
-bikeways["multilinestring"] = bikeways["multilinestring"].apply(lambda g: shape(g))
+bikeways["multilinestring"] = bikeways["multilinestring"].apply(shape)
 lengths = []
 for g in tqdm(communities["multipolygon"], desc="Counting Length of BikeWays"):
     length = (
@@ -75,5 +75,10 @@ ax = sns.barplot(
 
 # %%
 ax = sns.histplot(data=communities, x="schools")
+
+
+# %%
+ax = sns.boxplot(data=communities, y="bikeways", x="sector")
+ax.set_xticklabels(ax.get_xticklabels(), rotation=45)
 
 # %%
