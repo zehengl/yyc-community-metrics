@@ -1,21 +1,25 @@
 # %%
+from pathlib import Path
+
 import pyproj
 import seaborn as sns
 from shapely.geometry import shape
 from shapely.ops import transform
 from tqdm import tqdm
+
 from opendata import (
     get_bikeways,
     get_community_district_boundaries,
     get_school_locations,
 )
 
-
 # %%
 wgs84 = pyproj.CRS("EPSG:4326")
 utm = pyproj.CRS("EPSG:3776")
 project = pyproj.Transformer.from_crs(wgs84, utm, always_xy=True).transform
 
+output = Path("output")
+output.mkdir(exist_ok=True)
 
 # %%
 communities = get_community_district_boundaries()
@@ -49,6 +53,20 @@ for g in tqdm(communities["multipolygon"], desc="Counting Length of BikeWays"):
     )
     lengths.append(length)
 communities["bikeways"] = lengths
+
+
+# %%
+cols = [
+    col
+    for col in communities
+    if col not in ["class_code", "comm_code", "srg", "multipolygon"]
+]
+communities = communities[cols]
+
+
+# %%
+communities.to_json(output / "data.json", orient="records", indent=2)
+communities.to_csv(output / "data.csv", index=False)
 
 
 # %%
