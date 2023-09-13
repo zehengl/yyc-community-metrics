@@ -27,6 +27,7 @@ communities["multipolygon"] = communities["multipolygon"].apply(shape)
 communities["area"] = communities["multipolygon"].apply(
     lambda g: transform(project, g).area
 )
+communities["area"] = communities["area"].round(3)
 
 
 # %%
@@ -53,6 +54,7 @@ for g in tqdm(communities["multipolygon"], desc="Counting Length of BikeWays"):
     )
     lengths.append(length)
 communities["bikeways"] = lengths
+communities["bikeways"] = communities["bikeways"].round(3)
 
 
 # %%
@@ -65,8 +67,31 @@ communities = communities[cols]
 
 
 # %%
-communities.to_json(output / "data.json", orient="records", indent=2)
-communities.to_csv(output / "data.csv", index=False)
+def format_name(name):
+    if type(name) is not str:
+        return name
+    name = "/".join(p.capitalize() for p in name.split("/"))
+    name = " ".join(p.capitalize() for p in name.split())
+    return name
+
+
+communities["name"] = communities["name"].apply(format_name)
+communities["sector"] = communities["sector"].apply(format_name)
+communities["comm_structure"] = communities["comm_structure"].apply(format_name)
+communities
+
+
+# %%
+communities.to_json(
+    output / "data.json",
+    orient="records",
+    indent=2,
+    double_precision=3,
+)
+communities.to_csv(
+    output / "data.csv",
+    index=False,
+)
 
 
 # %%
