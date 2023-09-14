@@ -9,6 +9,7 @@ from tqdm import tqdm
 
 from opendata import (
     get_bikeways,
+    get_bus_stops,
     get_community_district_boundaries,
     get_school_locations,
 )
@@ -56,6 +57,15 @@ for g in tqdm(communities["multipolygon"], desc="Counting Length of BikeWays"):
 communities["bikeways"] = lengths
 communities["bikeways"] = communities["bikeways"].round(3)
 
+# %%
+bus_stops = get_bus_stops()
+bus_stops = bus_stops[bus_stops["status"] != "ACTIVE"]
+bus_stops["point"] = bus_stops["point"].apply(shape)
+counts = []
+for g in tqdm(communities["multipolygon"], desc="Counting Number of Bus Stops"):
+    count = bus_stops["point"].apply(g.contains).sum()
+    counts.append(count)
+communities["bus_stops"] = counts
 
 # %%
 cols = [
@@ -78,6 +88,7 @@ def format_name(name):
 communities["name"] = communities["name"].apply(format_name)
 communities["sector"] = communities["sector"].apply(format_name)
 communities["comm_structure"] = communities["comm_structure"].apply(format_name)
+communities = communities.sort_values("name")
 communities
 
 

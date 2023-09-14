@@ -46,3 +46,8 @@ def get_school_locations(offset=25000, force=False):
 def get_bikeways(offset=25000, force=False):
     df = download("jjqk-9b73", offset, force)
     return df
+
+
+def get_bus_stops(offset=25000, force=False):
+    df = download("muzh-c9qc", offset, force)
+    return df
