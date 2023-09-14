@@ -1,311 +1,311 @@
-class,name,sector,comm_structure,area,schools,bikeways
-Industrial,Eastfield,East,Employment,1124688.068,0,0.0
-Industrial,Mayland,Northeast,Employment,1227202.588,2,1549.769
-Residual Sub Area,09h,East,Undeveloped,561989.773,0,0.0
-Residential,Lewisburg,North,Building Out,2593581.566,0,0.0
-Residential,Erlton,Centre,Inner City,505377.348,0,0.0
-Residential,Coach Hill,West,1980s/1990s,1075400.643,0,1253.102
-Residential,Diamond Cove,South,1980s/1990s,488930.125,0,2364.017
-Residential,Thorncliffe,North,1950s,3270199.438,3,2130.112
-Residential,Forest Heights,East,1960s/1970s,1502425.996,1,1716.831
-Residential,Haysboro,South,1950s,2667760.025,7,1683.434
-Industrial,Shepard Industrial,Southeast,Employment,4219837.752,0,0.0
-Residential,Cityscape,Northeast,Building Out,2308550.694,0,0.0
-Industrial,Stoney 1,North,Employment,6238270.447,0,499.893
-Residual Sub Area,13h,South,Undeveloped,202232.977,0,0.0
-Residential,Belmont,South,Building Out,2855932.703,0,0.0
-Residential,Dover,East,1960s/1970s,4152106.483,6,7508.149
-Residential,Martindale,Northeast,1980s/1990s,2688036.331,5,1939.308
-Residential,Walden,South,Building Out,2459041.007,0,0.0
-Residential,Alpine Park,South,Building Out,4176581.833,0,0.0
-Industrial,Stoney 2,Northeast,Employment,3945456.479,0,0.0
-Industrial,Great Plains,East,Employment,4242990.351,0,0.0
-Residential,Varsity,Northwest,1960s/1970s,6848983.438,7,10420.503
-Residential,Collingwood,Northwest,1950s,1558977.434,3,1109.07
-Residential,Queensland,South,1960s/1970s,1556384.823,2,3016.523
-Residential,Woodlands,South,1980s/1990s,2800208.001,2,5463.068
-Residential,Oakridge,South,1960s/1970s,2419703.468,1,3052.137
-Residential,Southwood,South,1960s/1970s,2661115.17,4,3676.684
-Residential,Rosedale,Centre,Inner City,666251.746,1,2780.922
-Residential,Applewood Park,East,2000s,1569095.291,0,215.156
-Residential,Rideau Park,Centre,Inner City,267082.26,1,1203.167
-Residential,Arbour Lake,Northwest,2000s,4393279.967,3,7528.417
-Residual Sub Area,02f,Northwest,Other,3294912.592,0,0.0
-Residential,Belvedere,East,Building Out,3665861.109,0,0.0
-Industrial,Royal Vista,Northwest,,1312264.001,2,0.0
-Residential,Twinhills,East,Building Out,1994381.93,0,0.0
-Industrial,Highfield,Centre,Employment,2746255.758,0,550.331
-Residential,Copperfield,Southeast,Building Out,4591106.806,2,0.0
-Residential,Signal Hill,West,1980s/1990s,5556776.123,1,7550.098
-Residential,Cambrian Heights,Centre,1950s,864003.16,3,1192.924
-Residential,Britannia,Centre,1950s,503175.224,0,1740.426
-Industrial,Foothills,East,Employment,7650234.502,0,0.0
-Industrial,Glendeer Business Park,South,Employment,263721.62,0,0.0
-Industrial,Meridian,Northeast,Employment,1382367.614,1,1072.505
-Industrial,Greenview Industrial Park,Centre,Employment,2138068.672,0,1023.836
-Residential,Woodbine,South,1980s/1990s,3180403.92,2,767.864
-Residential,Hidden Valley,North,1980s/1990s,4305259.98,3,7505.522
-Residential,Rundle,Northeast,1960s/1970s,2641182.995,5,4393.124
-Residential,Erin Woods,East,1980s/1990s,1588422.449,1,1721.205
-Residential,Pineridge,Northeast,1960s/1970s,2640571.667,5,5338.539
-Residential,Highwood,Centre,1950s,948712.419,3,1386.013
-Residential,Mayland Heights,Northeast,1960s/1970s,2021813.533,4,4031.806
-Residential,Macewan Glen,North,1980s/1990s,1418088.131,0,3481.913
-Residential,Deer Ridge,South,1980s/1990s,1417414.065,1,3689.843
-Residential,Mount Pleasant,Centre,Inner City,1864861.446,5,3172.664
-Residential,Scarboro/ Sunalta West,Centre,1950s,352695.297,0,484.452
-Industrial,Ogden Shops,East,Employment,2219726.71,0,0.0
-Major Park,Canada Olympic Park,West,Other,881801.341,1,0.0
-Residential,Southview,East,1950s,1591748.24,1,1535.257
-Residential,Edgemont,Northwest,1980s/1990s,6619605.299,3,5762.685
-Residential,Red Carpet,East,1960s/1970s,540057.277,0,0.0
-Residential,Currie Barracks,West,Building Out,982961.329,6,1049.737
-Residential,Sunnyside,Centre,Inner City,1022198.036,1,4495.655
-Residential,Capitol Hill,Centre,1950s,1418526.811,2,2184.948
-Residential,Upper Mount Royal,Centre,Inner City,1275819.439,2,2936.75
-Industrial,Saddle Ridge Industrial,Northeast,Employment,2538475.589,0,0.0
-Residential,Saddle Ridge,Northeast,2000s,5594499.196,4,776.902
-Industrial,Mccall,Northeast,Employment,2389763.438,0,0.0
-Residential,Beddington Heights,North,1960s/1970s,3199553.523,3,3950.153
-Industrial,Golden Triangle,East,Employment,507452.721,0,0.0
-Residential,Patterson,West,1980s/1990s,2048890.935,0,1021.056
-Residential,South Calgary,Centre,Inner City,885511.803,1,1506.077
-Residential,Coral Springs,Northeast,2000s,1817232.692,1,336.894
-Residential,Eau Claire,Centre,Centre City,516054.88,0,2289.022
-Residential,Mckenzie Lake,Southeast,1980s/1990s,5063256.152,3,5163.537
-Residential,Mission,Centre,Inner City,534970.436,3,1953.031
-Residential,Glenbrook,West,1950s,1947133.293,5,2063.057
-Residential,Tuxedo Park,Centre,Inner City,1322795.557,3,3063.96
-Residential,Downtown East Village,Centre,Centre City,520808.068,0,1586.458
-Residential,Lincoln Park,West,1950s,1490290.887,1,512.135
-Residential,Strathcona Park,West,1980s/1990s,2686853.137,3,5272.222
-Residential,Christie Park,West,1980s/1990s,813866.045,0,1035.572
-Residential,Shaganappi,Centre,1950s,1479726.371,1,4175.164
-Residential,North Haven Upper,North,1960s/1970s,269102.903,0,647.824
-Residential,Inglewood,Centre,Inner City,2500218.189,2,4790.415
-Residential,Somerset,South,1980s/1990s,2344435.084,1,24.235
-Residential,Sandstone Valley,North,1980s/1990s,1800389.705,2,3646.718
-Residential,Hounsfield Heights/briar Hill,Centre,1950s,1178022.222,2,4459.144
-Residential,Sundance,South,1980s/1990s,4021272.772,6,6262.259
-Residential,Aspen Woods,West,Building Out,3822659.686,4,705.798
-Industrial,East Fairview Industrial,South,Employment,2311750.957,0,998.426
-Residential,University Of Calgary,Northwest,Other,1501292.552,0,56.848
-Residential,West Hillhurst,Centre,Inner City,2362234.273,2,6507.437
-Residential,Rosscarrock,West,1950s,1062225.912,3,3506.568
-Residential,Killarney/glengarry,Centre,1950s,1843506.535,2,4623.174
-Residential,Canyon Meadows,South,1960s/1970s,3077644.234,4,10194.111
-Residential,Fairview,South,1950s,1320717.992,2,0.0
-Residential,Bel-aire,Centre,1960s/1970s,337019.09,1,0.0
-Residential,Monterey Park,Northeast,2000s,3445038.755,1,211.086
-Residential,Discovery Ridge,West,2000s,3598436.433,0,0.0
-Residential,Highland Park,Centre,1950s,1369970.201,3,3249.059
-Residential,Huntington Hills,North,1960s/1970s,4769256.644,10,6598.633
-Major Park,Nose Hill Park,Northwest,Parks,11605487.26,0,753.166
-Residual Sub Area,01k,Northwest,Undeveloped,5287996.615,0,0.0
-Residual Sub Area,09d,Centre,Undeveloped,403553.843,0,0.0
-Industrial,Westwinds,Northeast,Employment,1950630.132,2,1268.5
-Residential,Greenview,Centre,1960s/1970s,453362.701,1,0.0
-Residential,Sage Hill,North,Building Out,3721806.392,0,0.0
-Residential,Downtown Commercial Core,Centre,Centre City,1328673.312,1,4109.329
-Residential,Midnapore,South,1960s/1970s,2890911.481,3,6153.01
-Residential,St. Andrews Heights,Centre,1950s,1160432.685,2,2704.423
-Residential,Elbow Park,Centre,Inner City,1786275.819,2,4568.783
-Residential,Deer Run,South,1980s/1990s,1868211.555,1,6456.507
-Residential,Bayview,South,1960s/1970s,423977.236,0,4.617
-Residential,Wildwood,West,1950s,2566059.4,1,4159.286
-Residential,Millrise,South,1980s/1990s,1782146.004,1,1752.356
-Residual Sub Area,12k,Southeast,Undeveloped,793481.491,0,0.0
-Residential,Hotchkiss,Southeast,Building Out,3133528.253,0,0.0
-Residential,Haskayne,Northwest,Building Out,5825499.168,0,0.0
-Residual Sub Area,05g,Northeast,Undeveloped,529642.646,0,0.0
-Residential,Homestead,Northeast,Building Out,1611744.639,0,0.0
-Residential,Seton,Southeast,Building Out,4577428.422,1,0.0
-Residential,Cranston,Southeast,Building Out,8260551.353,5,0.0
-Residential,Renfrew,Centre,Inner City,2660581.903,4,5004.484
-Residential,Acadia,South,1960s/1970s,3906035.079,12,4981.373
-Residential,Country Hills,North,1980s/1990s,1888403.521,0,24.564
-Residential,Bonavista Downs,South,1960s/1970s,537808.41,0,483.122
-Residential,Westgate,West,1950s,1150951.089,2,4202.224
-Residential,Legacy,South,Building Out,6081494.893,1,0.0
-Residential,Carrington,North,Building Out,2988163.207,0,0.0
-Residential,Ambleton,North,Building Out,673934.834,0,0.0
-Residential,Symons Valley Ranch,North,Building Out,149376.095,0,0.0
-Residential,Glacier Ridge,North,,4622239.393,0,0.0
-Residential,Keystone Hills,North,Building Out,1199810.622,0,436.164
-Residential,Redstone,Northeast,2000s,1952704.969,0,0.0
-Industrial,Stoney 4,Northeast,Employment,4334212.605,0,406.162
-Industrial,Alyth/bonnybrook,Centre,Employment,3801518.026,0,647.809
-Residential,West Springs,West,Building Out,4073994.155,3,152.336
-Industrial,Deerfoot Business Centre,Northeast,Employment,1966742.324,0,0.0
-Residential,Pump Hill,South,1960s/1970s,945383.444,2,595.828
-Industrial,East Shepard Industrial,Southeast,Employment,17299630.152,0,0.0
-Residential,Glendale,West,1950s,1363685.129,4,4600.537
-Industrial,South Foothills,Southeast,Employment,3638984.617,0,0.0
-Industrial,Stoney 3,Northeast,Employment,1316598.827,0,0.0
-Residential,Crescent Heights,Centre,Inner City,1625198.889,2,6147.009
-Residential,Lake Bonavista,South,1960s/1970s,5205631.679,6,12253.745
-Residential,Douglasdale/glen,Southeast,1980s/1990s,6437736.536,2,5701.173
-Residential,Valley Ridge,West,2000s,3317266.526,0,3619.812
-Residential,University District,Northwest,Other,1152808.869,2,18.301
-Residential,Garrison Woods,Centre,Inner City,777739.912,3,1268.272
-Residential,Scenic Acres,Northwest,1980s/1990s,4380853.442,3,8322.267
-Residential,Hawkwood,Northwest,1980s/1990s,3207819.663,2,5228.116
-Residential,Silver Springs,Northwest,1960s/1970s,4978769.067,3,8041.91
-Residual Sub Area,05d,Northeast,Undeveloped,1451672.848,0,0.0
-Residential,Skyview Ranch,Northeast,2000s,2310111.495,2,0.0
-Industrial,Stonegate Landing,Northeast,Employment,5435204.24,0,0.0
-Residential,Cornerstone,Northeast,2000s,7642068.566,0,0.0
-Industrial,Forest Lawn Industrial,East,Employment,1538896.926,0,502.678
-Major Park,Fish Creek Park,South,Parks,15576249.253,0,179.598
-Residential,Pine Creek,South,Building Out,2492547.914,0,0.0
-Residential,Mahogany,Southeast,Building Out,6328295.149,2,0.0
-Residential,Rangeview,Southeast,Building Out,4836536.31,0,0.0
-Residential,Ranchlands,Northwest,1960s/1970s,2347751.936,3,1579.076
-Residential,Livingston,North,Building Out,5663625.343,0,0.0
-Residential,Hamptons,Northwest,2000s,3501665.582,1,7611.368
-Residential,Citadel,Northwest,1980s/1990s,2732549.688,3,1885.304
-Industrial,Horizon,Northeast,Employment,2314807.675,3,2860.37
-Industrial,Valleyfield,East,Employment,1208850.995,0,0.0
-Residual Sub Area,01b,Northwest,Undeveloped,1993903.639,0,0.0
-Industrial,Section 23,Southeast,Employment,3115904.459,0,0.0
-Residential,Roxboro,Centre,Inner City,271774.767,0,2092.828
-Residential,Shawnessy,South,1980s/1990s,3657527.417,4,2603.857
-Residential,Richmond,Centre,1950s,1905635.174,3,5634.672
-Residential,University Heights,Northwest,1960s/1970s,817199.304,2,710.898
-Residential,Falconridge,Northeast,1980s/1990s,2156332.884,5,4280.761
-Residential,Chinook Park,South,1950s,582628.303,0,294.207
-Industrial,North Airways,Northeast,Employment,1209892.912,1,3261.315
-Industrial,Skyline East,Northeast,Employment,540742.935,0,0.0
-Residential,Wolf Willow,South,Building Out,2859960.318,0,0.0
-Residential,Yorkville,South,Building Out,1317816.817,0,0.0
-Residual Sub Area,13i,South,Undeveloped,78724.008,0,0.0
-Industrial,Aurora Business Park,North,Employment,2399699.166,0,0.0
-Residential,Forest Lawn,East,1950s,2316962.981,5,4733.291
-Residential,Willow Park,South,1960s/1970s,3398343.173,3,6397.831
-Residential,Winston Heights/mountview,Centre,1950s,3013799.549,2,2714.089
-Residential,Abbeydale,Northeast,2000s,1677463.759,3,0.0
-Residential,Montgomery,Northwest,1950s,2951497.487,1,11505.255
-Residential,Harvest Hills,North,1980s/1990s,2178905.816,1,5225.79
-Residential,Ogden,Southeast,1950s,4096376.523,4,3391.596
-Residential,Penbrooke Meadows,East,1960s/1970s,2062073.881,4,1854.962
-Residential,Shawnee Slopes,South,1980s/1990s,1241541.883,0,286.672
-Industrial,Sunridge,Northeast,Employment,2261630.722,0,4722.911
-Residential,Banff Trail,Centre,1950s,1451655.619,2,7271.186
-Residential,Springbank Hill,West,Building Out,6333860.249,6,13.107
-Industrial,Franklin,Northeast,Employment,1464539.564,0,2459.1
-Residential,Parkhill,Centre,1950s,657447.836,0,947.133
-Residential,North Haven,North,1960s/1970s,845598.61,1,930.649
-Residential,Bridgeland/riverside,Centre,Inner City,3049346.303,4,3884.087
-Residential,Lakeview,West,1960s/1970s,2221433.207,3,2971.181
-Residential,Vista Heights,Northeast,1960s/1970s,1140013.395,1,1147.322
-Residential,Glamorgan,West,1950s,1955758.488,2,2022.892
-Industrial,Skyline West,North,Employment,826226.181,0,0.0
-Industrial,South Airways,Northeast,Employment,1891791.786,2,4089.915
-Industrial,Pegasus,Northeast,Employment,255280.762,0,1066.337
-Residential,Elboya,Centre,1950s,720729.093,2,2180.442
-Residential,Cliff Bungalow,Centre,Inner City,362725.761,2,1540.959
-Residential,Riverbend,Southeast,1980s/1990s,4081197.914,2,925.312
-Residential,Chinatown,Centre,Centre City,247558.328,2,1300.086
-Residential,Temple,Northeast,1960s/1970s,2624813.473,4,4997.511
-Residential,Braeside,South,1960s/1970s,1960857.113,1,3503.005
-Residential,Windsor Park,Centre,1950s,1276229.129,1,856.641
-Residential,Bowness,Northwest,1950s,5607854.855,11,18369.608
-Residential,Whitehorn,Northeast,1960s/1970s,2645924.051,4,6516.422
-Industrial,Calgary International Airport,Northeast,Other,20584665.154,1,0.0
-Residential,Parkdale,Centre,1950s,1050299.964,2,2613.692
-Residential,Rosemont,Centre,1950s,449751.947,1,777.048
-Residential,Maple Ridge,South,1960s/1970s,2772708.019,2,967.881
-Residential,Brentwood,Northwest,1960s/1970s,2890589.211,7,4690.023
-Residential,Scarboro,Centre,Inner City,453685.448,1,2464.06
-Residential,Point Mckay,Centre,1960s/1970s,383872.475,0,217.625
-Residential,Rutland Park,West,1950s,680971.834,1,1078.529
-Residential,Ramsay,Centre,Inner City,984256.761,3,3470.515
-Residential,Marlborough,Northeast,1960s/1970s,2654754.069,6,4348.342
-Residential,Manchester,Centre,Employment,474124.651,0,0.0
-Residential,Garrison Green,West,Building Out,374200.952,0,0.0
-Residential,Marlborough Park,Northeast,1960s/1970s,2487249.167,4,3735.01
-Residential,Spruce Cliff,West,1950s,1083297.95,2,1750.072
-Residential,Parkland,South,1960s/1970s,1801787.291,2,7037.472
-Residential,Castleridge,Northeast,1980s/1990s,1212143.408,2,2163.849
-Residential,Dalhousie,Northwest,1960s/1970s,3335930.992,4,1645.282
-Residential,Palliser,South,1960s/1970s,984317.652,1,2243.86
-Residential,Albert Park/radisson Heights,East,1950s,2506196.138,5,5944.907
-Residential,North Glenmore Park,West,1950s,1155903.639,5,2580.157
-Residential,Altadore,Centre,Inner City,2134079.904,4,7350.108
-Residential,Queens Park Village,Centre,1950s,621406.453,0,61.655
-Residential,Charleswood,Northwest,1950s,1830349.623,2,2582.438
-Residential,Cedarbrae,South,1960s/1970s,2069561.224,2,2653.605
-Residential,Silverado,South,Building Out,5809694.062,3,0.0
-Residential,Osprey Hill,West,2000s,210142.299,0,0.0
-Residential,Crestmont,West,2000s,1645182.31,0,0.0
-Residential,Kincora,North,2000s,2270992.61,0,0.0
-Residential,Greenwood/greenbriar,Northwest,1960s/1970s,1157483.187,0,21.063
-Residential,Downtown West End,Centre,Centre City,364685.153,0,854.985
-Residential,Lower Mount Royal,Centre,Inner City,282656.152,0,1733.451
-Residential,Bankview,Centre,Inner City,686656.7,0,2302.406
-Residential,Beltline,Centre,Centre City,2944517.337,4,13016.536
-Residential,Hillhurst,Centre,Inner City,2068838.797,3,3826.766
-Residential,Sunalta,Centre,Inner City,940775.257,1,2980.194
-Residual Sub Area,09q,East,Other,6784525.538,0,7.224
-Industrial,Starfield,East,Employment,6004991.237,0,0.0
-Industrial,Starfield East,East,Employment,1639250.487,0,0.0
-Industrial,Great Plains East,East,Employment,1070828.147,0,0.0
-Residual Sub Area,02e,Northwest,Other,2618348.806,1,0.0
-Residual Sub Area,02c,North,Undeveloped,1478308.658,0,0.0
-Residential,Nolan Hill,North,2020s,2046190.262,0,0.0
-Residential,Coventry Hills,North,2000s,4083743.083,4,5056.142
-Residential,Medicine Hill,West,2000s,1211507.269,0,0.0
-Residential,Royal Oak,Northwest,2010s,3562126.621,2,167.673
-Residual Sub Area,06a,West,Undeveloped,2834900.459,0,0.0
-Residual Sub Area,13f,South,Undeveloped,2679096.972,0,0.0
-Residual Sub Area,01i,West,Undeveloped,141907.115,0,0.0
-Residual Sub Area,12b,Southeast,Undeveloped,8060196.291,0,0.0
-Residential,Taradale,Northeast,2000s,2843879.425,3,1336.379
-Residential,Country Hills Village,North,2000s,952024.746,1,0.0
-Residual Sub Area,10e,Northeast,Undeveloped,1877720.779,0,0.0
-Residual Sub Area,13m,South,Undeveloped,2846858.431,0,0.0
-Residual Sub Area,01f,Northwest,Undeveloped,883998.193,0,0.0
-Residual Sub Area,06b,West,Undeveloped,495267.79,1,0.0
-Residual Sub Area,03w,North,Other,12952352.935,0,0.0
-Residual Sub Area,02b,North,Undeveloped,2664758.907,0,0.0
-Residual Sub Area,02k,North,Undeveloped,2631273.526,2,0.0
-Residential,Evanston,North,2010s,4881544.217,3,0.0
-Residual Sub Area,02l,North,Undeveloped,8962473.206,0,0.0
-Residual Sub Area,12j,Southeast,Undeveloped,17274373.224,0,0.0
-Residual Sub Area,12c,Southeast,Undeveloped,1652885.35,0,0.0
-Residual Sub Area,10d,Northeast,Undeveloped,831496.629,0,0.0
-Residual Sub Area,09o,East,Undeveloped,6154042.214,1,0.0
-Residual Sub Area,12a,Southeast,Undeveloped,11634961.34,0,0.0
-Residual Sub Area,12l,Southeast,Undeveloped,2578795.49,0,0.0
-Residential,Cougar Ridge,West,2000s,2218386.442,2,0.0
-Residual Sub Area,13c,South,Undeveloped,2660849.434,0,0.0
-Residual Sub Area,13e,South,Undeveloped,2688678.562,0,0.0
-Residential,Rocky Ridge,Northwest,2000s,2807970.99,0,173.726
-Residential,Tuscany,Northwest,2000s,6835440.425,4,9154.354
-Residual Sub Area,05e,Northeast,Undeveloped,3133717.183,0,0.0
-Residential,Chaparral,South,2010s,5384604.708,2,0.0
-Residential,New Brighton,Southeast,2010s,2846547.411,3,0.0
-Residential,Mckenzie Towne,Southeast,2010s,4817520.667,3,0.0
-Residential,Panorama Hills,North,2010s,6334713.901,4,0.0
-Residual Sub Area,13g,South,Undeveloped,5310759.848,0,0.0
-Residential,Sherwood,North,2010s,2393329.173,1,0.0
-Residential,Bridlewood,South,2000s,3236849.455,4,0.0
-Residual Sub Area,13j,South,Undeveloped,1332171.011,0,0.0
-Residual Sub Area,12i,Southeast,Undeveloped,6003881.243,0,0.0
-Residential,Evergreen,South,2000s,4645080.15,4,0.0
-Residual Sub Area,01h,West,Undeveloped,2531543.994,0,0.0
-Residual Sub Area,13a,South,Undeveloped,2654015.492,0,0.0
-Residual Sub Area,09p,East,Undeveloped,6511291.473,0,0.0
-Residual Sub Area,06c,West,Undeveloped,457825.658,0,0.0
-Residual Sub Area,05f,Northeast,Undeveloped,1080770.112,0,0.0
-Residential,Auburn Bay,Southeast,Building Out,4516620.23,5,0.0
-Residual Sub Area,01c,West,Other,644025.27,0,0.0
-Residential,Mayfair,Centre,1950s,289431.134,0,749.946
-Industrial,Manchester Industrial,Centre,Employment,4574197.281,1,0.0
-Industrial,Fairview Industrial,South,Employment,1278810.717,3,0.0
-Industrial,Burns Industrial,Centre,Employment,2898844.268,1,1466.185
-Residential,Eagle Ridge,South,1960s/1970s,374936.404,0,618.034
-Major Park,Glenmore Park,South,Parks,10160135.029,1,1355.725
-Residential,Meadowlark Park,Centre,1950s,632947.681,0,1414.688
-Residential,Kelvin Grove,South,1960s/1970s,769612.451,6,654.88
-Residential,Kingsland,South,1950s,1339728.842,1,2305.969
+class,name,sector,comm_structure,area,schools,bikeways,bus_stops
+Residual Sub Area,01b,Northwest,Undeveloped,1993903.639,0,0.0,0
+Residual Sub Area,01c,West,Other,644025.27,0,0.0,0
+Residual Sub Area,01f,Northwest,Undeveloped,883998.193,0,0.0,0
+Residual Sub Area,01h,West,Undeveloped,2531543.994,0,0.0,0
+Residual Sub Area,01i,West,Undeveloped,141907.115,0,0.0,0
+Residual Sub Area,01k,Northwest,Undeveloped,5287996.615,0,0.0,0
+Residual Sub Area,02b,North,Undeveloped,2664758.907,0,0.0,0
+Residual Sub Area,02c,North,Undeveloped,1478308.658,0,0.0,0
+Residual Sub Area,02e,Northwest,Other,2618348.806,1,0.0,0
+Residual Sub Area,02f,Northwest,Other,3294912.592,0,0.0,3
+Residual Sub Area,02k,North,Undeveloped,2631273.526,2,0.0,0
+Residual Sub Area,02l,North,Undeveloped,8962473.206,0,0.0,0
+Residual Sub Area,03w,North,Other,12952352.935,0,0.0,0
+Residual Sub Area,05d,Northeast,Undeveloped,1451672.848,0,0.0,0
+Residual Sub Area,05e,Northeast,Undeveloped,3133717.183,0,0.0,0
+Residual Sub Area,05f,Northeast,Undeveloped,1080770.112,0,0.0,0
+Residual Sub Area,05g,Northeast,Undeveloped,529642.646,0,0.0,0
+Residual Sub Area,06a,West,Undeveloped,2834900.459,0,0.0,0
+Residual Sub Area,06b,West,Undeveloped,495267.79,1,0.0,0
+Residual Sub Area,06c,West,Undeveloped,457825.658,0,0.0,0
+Residual Sub Area,09d,Centre,Undeveloped,403553.843,0,0.0,0
+Residual Sub Area,09h,East,Undeveloped,561989.773,0,0.0,0
+Residual Sub Area,09o,East,Undeveloped,6154042.214,1,0.0,1
+Residual Sub Area,09p,East,Undeveloped,6511291.473,0,0.0,0
+Residual Sub Area,09q,East,Other,6784525.538,0,7.224,1
+Residual Sub Area,10d,Northeast,Undeveloped,831496.629,0,0.0,0
+Residual Sub Area,10e,Northeast,Undeveloped,1877720.779,0,0.0,0
+Residual Sub Area,12a,Southeast,Undeveloped,11634961.34,0,0.0,0
+Residual Sub Area,12b,Southeast,Undeveloped,8060196.291,0,0.0,1
+Residual Sub Area,12c,Southeast,Undeveloped,1652885.35,0,0.0,0
+Residual Sub Area,12i,Southeast,Undeveloped,6003881.243,0,0.0,0
+Residual Sub Area,12j,Southeast,Undeveloped,17274373.224,0,0.0,0
+Residual Sub Area,12k,Southeast,Undeveloped,793481.491,0,0.0,0
+Residual Sub Area,12l,Southeast,Undeveloped,2578795.49,0,0.0,0
+Residual Sub Area,13a,South,Undeveloped,2654015.492,0,0.0,0
+Residual Sub Area,13c,South,Undeveloped,2660849.434,0,0.0,0
+Residual Sub Area,13e,South,Undeveloped,2688678.562,0,0.0,0
+Residual Sub Area,13f,South,Undeveloped,2679096.972,0,0.0,0
+Residual Sub Area,13g,South,Undeveloped,5310759.848,0,0.0,0
+Residual Sub Area,13h,South,Undeveloped,202232.977,0,0.0,0
+Residual Sub Area,13i,South,Undeveloped,78724.008,0,0.0,0
+Residual Sub Area,13j,South,Undeveloped,1332171.011,0,0.0,0
+Residual Sub Area,13m,South,Undeveloped,2846858.431,0,0.0,0
+Residential,Abbeydale,Northeast,2000s,1677463.759,3,0.0,1
+Residential,Acadia,South,1960s/1970s,3906035.079,12,4981.373,13
+Residential,Albert Park/radisson Heights,East,1950s,2506196.138,5,5944.907,7
+Residential,Alpine Park,South,Building Out,4176581.833,0,0.0,0
+Residential,Altadore,Centre,Inner City,2134079.904,4,7350.108,0
+Industrial,Alyth/bonnybrook,Centre,Employment,3801518.026,0,647.809,2
+Residential,Ambleton,North,Building Out,673934.834,0,0.0,0
+Residential,Applewood Park,East,2000s,1569095.291,0,215.156,0
+Residential,Arbour Lake,Northwest,2000s,4393279.967,3,7528.417,10
+Residential,Aspen Woods,West,Building Out,3822659.686,4,705.798,0
+Residential,Auburn Bay,Southeast,Building Out,4516620.23,5,0.0,1
+Industrial,Aurora Business Park,North,Employment,2399699.166,0,0.0,0
+Residential,Banff Trail,Centre,1950s,1451655.619,2,7271.186,4
+Residential,Bankview,Centre,Inner City,686656.7,0,2302.406,1
+Residential,Bayview,South,1960s/1970s,423977.236,0,4.617,0
+Residential,Beddington Heights,North,1960s/1970s,3199553.523,3,3950.153,25
+Residential,Bel-aire,Centre,1960s/1970s,337019.09,1,0.0,0
+Residential,Belmont,South,Building Out,2855932.703,0,0.0,0
+Residential,Beltline,Centre,Centre City,2944517.337,4,13016.536,19
+Residential,Belvedere,East,Building Out,3665861.109,0,0.0,1
+Residential,Bonavista Downs,South,1960s/1970s,537808.41,0,483.122,0
+Residential,Bowness,Northwest,1950s,5607854.855,11,18369.608,23
+Residential,Braeside,South,1960s/1970s,1960857.113,1,3503.005,0
+Residential,Brentwood,Northwest,1960s/1970s,2890589.211,7,4690.023,8
+Residential,Bridgeland/riverside,Centre,Inner City,3049346.303,4,3884.087,5
+Residential,Bridlewood,South,2000s,3236849.455,4,0.0,0
+Residential,Britannia,Centre,1950s,503175.224,0,1740.426,0
+Industrial,Burns Industrial,Centre,Employment,2898844.268,1,1466.185,3
+Industrial,Calgary International Airport,Northeast,Other,20584665.154,1,0.0,19
+Residential,Cambrian Heights,Centre,1950s,864003.16,3,1192.924,1
+Major Park,Canada Olympic Park,West,Other,881801.341,1,0.0,5
+Residential,Canyon Meadows,South,1960s/1970s,3077644.234,4,10194.111,4
+Residential,Capitol Hill,Centre,1950s,1418526.811,2,2184.948,5
+Residential,Carrington,North,Building Out,2988163.207,0,0.0,1
+Residential,Castleridge,Northeast,1980s/1990s,1212143.408,2,2163.849,3
+Residential,Cedarbrae,South,1960s/1970s,2069561.224,2,2653.605,0
+Residential,Chaparral,South,2010s,5384604.708,2,0.0,2
+Residential,Charleswood,Northwest,1950s,1830349.623,2,2582.438,4
+Residential,Chinatown,Centre,Centre City,247558.328,2,1300.086,4
+Residential,Chinook Park,South,1950s,582628.303,0,294.207,2
+Residential,Christie Park,West,1980s/1990s,813866.045,0,1035.572,4
+Residential,Citadel,Northwest,1980s/1990s,2732549.688,3,1885.304,1
+Residential,Cityscape,Northeast,Building Out,2308550.694,0,0.0,2
+Residential,Cliff Bungalow,Centre,Inner City,362725.761,2,1540.959,0
+Residential,Coach Hill,West,1980s/1990s,1075400.643,0,1253.102,0
+Residential,Collingwood,Northwest,1950s,1558977.434,3,1109.07,1
+Residential,Copperfield,Southeast,Building Out,4591106.806,2,0.0,1
+Residential,Coral Springs,Northeast,2000s,1817232.692,1,336.894,0
+Residential,Cornerstone,Northeast,2000s,7642068.566,0,0.0,20
+Residential,Cougar Ridge,West,2000s,2218386.442,2,0.0,0
+Residential,Country Hills,North,1980s/1990s,1888403.521,0,24.564,0
+Residential,Country Hills Village,North,2000s,952024.746,1,0.0,11
+Residential,Coventry Hills,North,2000s,4083743.083,4,5056.142,0
+Residential,Cranston,Southeast,Building Out,8260551.353,5,0.0,7
+Residential,Crescent Heights,Centre,Inner City,1625198.889,2,6147.009,5
+Residential,Crestmont,West,2000s,1645182.31,0,0.0,3
+Residential,Currie Barracks,West,Building Out,982961.329,6,1049.737,4
+Residential,Dalhousie,Northwest,1960s/1970s,3335930.992,4,1645.282,4
+Residential,Deer Ridge,South,1980s/1990s,1417414.065,1,3689.843,0
+Residential,Deer Run,South,1980s/1990s,1868211.555,1,6456.507,0
+Industrial,Deerfoot Business Centre,Northeast,Employment,1966742.324,0,0.0,0
+Residential,Diamond Cove,South,1980s/1990s,488930.125,0,2364.017,0
+Residential,Discovery Ridge,West,2000s,3598436.433,0,0.0,0
+Residential,Douglasdale/glen,Southeast,1980s/1990s,6437736.536,2,5701.173,20
+Residential,Dover,East,1960s/1970s,4152106.483,6,7508.149,7
+Residential,Downtown Commercial Core,Centre,Centre City,1328673.312,1,4109.329,122
+Residential,Downtown East Village,Centre,Centre City,520808.068,0,1586.458,15
+Residential,Downtown West End,Centre,Centre City,364685.153,0,854.985,17
+Residential,Eagle Ridge,South,1960s/1970s,374936.404,0,618.034,4
+Industrial,East Fairview Industrial,South,Employment,2311750.957,0,998.426,1
+Industrial,East Shepard Industrial,Southeast,Employment,17299630.152,0,0.0,20
+Industrial,Eastfield,East,Employment,1124688.068,0,0.0,5
+Residential,Eau Claire,Centre,Centre City,516054.88,0,2289.022,7
+Residential,Edgemont,Northwest,1980s/1990s,6619605.299,3,5762.685,1
+Residential,Elbow Park,Centre,Inner City,1786275.819,2,4568.783,7
+Residential,Elboya,Centre,1950s,720729.093,2,2180.442,0
+Residential,Erin Woods,East,1980s/1990s,1588422.449,1,1721.205,1
+Residential,Erlton,Centre,Inner City,505377.348,0,0.0,0
+Residential,Evanston,North,2010s,4881544.217,3,0.0,4
+Residential,Evergreen,South,2000s,4645080.15,4,0.0,0
+Residential,Fairview,South,1950s,1320717.992,2,0.0,1
+Industrial,Fairview Industrial,South,Employment,1278810.717,3,0.0,6
+Residential,Falconridge,Northeast,1980s/1990s,2156332.884,5,4280.761,0
+Major Park,Fish Creek Park,South,Parks,15576249.253,0,179.598,2
+Industrial,Foothills,East,Employment,7650234.502,0,0.0,45
+Residential,Forest Heights,East,1960s/1970s,1502425.996,1,1716.831,1
+Residential,Forest Lawn,East,1950s,2316962.981,5,4733.291,18
+Industrial,Forest Lawn Industrial,East,Employment,1538896.926,0,502.678,0
+Industrial,Franklin,Northeast,Employment,1464539.564,0,2459.1,3
+Residential,Garrison Green,West,Building Out,374200.952,0,0.0,4
+Residential,Garrison Woods,Centre,Inner City,777739.912,3,1268.272,0
+Residential,Glacier Ridge,North,,4622239.393,0,0.0,0
+Residential,Glamorgan,West,1950s,1955758.488,2,2022.892,3
+Residential,Glenbrook,West,1950s,1947133.293,5,2063.057,0
+Residential,Glendale,West,1950s,1363685.129,4,4600.537,1
+Industrial,Glendeer Business Park,South,Employment,263721.62,0,0.0,0
+Major Park,Glenmore Park,South,Parks,10160135.029,1,1355.725,1
+Industrial,Golden Triangle,East,Employment,507452.721,0,0.0,0
+Industrial,Great Plains,East,Employment,4242990.351,0,0.0,0
+Industrial,Great Plains East,East,Employment,1070828.147,0,0.0,0
+Residential,Greenview,Centre,1960s/1970s,453362.701,1,0.0,0
+Industrial,Greenview Industrial Park,Centre,Employment,2138068.672,0,1023.836,4
+Residential,Greenwood/greenbriar,Northwest,1960s/1970s,1157483.187,0,21.063,6
+Residential,Hamptons,Northwest,2000s,3501665.582,1,7611.368,1
+Residential,Harvest Hills,North,1980s/1990s,2178905.816,1,5225.79,0
+Residential,Haskayne,Northwest,Building Out,5825499.168,0,0.0,0
+Residential,Hawkwood,Northwest,1980s/1990s,3207819.663,2,5228.116,2
+Residential,Haysboro,South,1950s,2667760.025,7,1683.434,12
+Residential,Hidden Valley,North,1980s/1990s,4305259.98,3,7505.522,2
+Industrial,Highfield,Centre,Employment,2746255.758,0,550.331,9
+Residential,Highland Park,Centre,1950s,1369970.201,3,3249.059,0
+Residential,Highwood,Centre,1950s,948712.419,3,1386.013,0
+Residential,Hillhurst,Centre,Inner City,2068838.797,3,3826.766,10
+Residential,Homestead,Northeast,Building Out,1611744.639,0,0.0,0
+Industrial,Horizon,Northeast,Employment,2314807.675,3,2860.37,7
+Residential,Hotchkiss,Southeast,Building Out,3133528.253,0,0.0,0
+Residential,Hounsfield Heights/briar Hill,Centre,1950s,1178022.222,2,4459.144,5
+Residential,Huntington Hills,North,1960s/1970s,4769256.644,10,6598.633,7
+Residential,Inglewood,Centre,Inner City,2500218.189,2,4790.415,21
+Residential,Kelvin Grove,South,1960s/1970s,769612.451,6,654.88,1
+Residential,Keystone Hills,North,Building Out,1199810.622,0,436.164,0
+Residential,Killarney/glengarry,Centre,1950s,1843506.535,2,4623.174,2
+Residential,Kincora,North,2000s,2270992.61,0,0.0,1
+Residential,Kingsland,South,1950s,1339728.842,1,2305.969,7
+Residential,Lake Bonavista,South,1960s/1970s,5205631.679,6,12253.745,9
+Residential,Lakeview,West,1960s/1970s,2221433.207,3,2971.181,4
+Residential,Legacy,South,Building Out,6081494.893,1,0.0,3
+Residential,Lewisburg,North,Building Out,2593581.566,0,0.0,0
+Residential,Lincoln Park,West,1950s,1490290.887,1,512.135,20
+Residential,Livingston,North,Building Out,5663625.343,0,0.0,0
+Residential,Lower Mount Royal,Centre,Inner City,282656.152,0,1733.451,2
+Residential,Macewan Glen,North,1980s/1990s,1418088.131,0,3481.913,0
+Residential,Mahogany,Southeast,Building Out,6328295.149,2,0.0,2
+Residential,Manchester,Centre,Employment,474124.651,0,0.0,0
+Industrial,Manchester Industrial,Centre,Employment,4574197.281,1,0.0,29
+Residential,Maple Ridge,South,1960s/1970s,2772708.019,2,967.881,0
+Residential,Marlborough,Northeast,1960s/1970s,2654754.069,6,4348.342,3
+Residential,Marlborough Park,Northeast,1960s/1970s,2487249.167,4,3735.01,3
+Residential,Martindale,Northeast,1980s/1990s,2688036.331,5,1939.308,3
+Residential,Mayfair,Centre,1950s,289431.134,0,749.946,0
+Industrial,Mayland,Northeast,Employment,1227202.588,2,1549.769,2
+Residential,Mayland Heights,Northeast,1960s/1970s,2021813.533,4,4031.806,1
+Industrial,Mccall,Northeast,Employment,2389763.438,0,0.0,0
+Residential,Mckenzie Lake,Southeast,1980s/1990s,5063256.152,3,5163.537,0
+Residential,Mckenzie Towne,Southeast,2010s,4817520.667,3,0.0,4
+Residential,Meadowlark Park,Centre,1950s,632947.681,0,1414.688,3
+Residential,Medicine Hill,West,2000s,1211507.269,0,0.0,1
+Industrial,Meridian,Northeast,Employment,1382367.614,1,1072.505,1
+Residential,Midnapore,South,1960s/1970s,2890911.481,3,6153.01,5
+Residential,Millrise,South,1980s/1990s,1782146.004,1,1752.356,10
+Residential,Mission,Centre,Inner City,534970.436,3,1953.031,3
+Residential,Monterey Park,Northeast,2000s,3445038.755,1,211.086,8
+Residential,Montgomery,Northwest,1950s,2951497.487,1,11505.255,20
+Residential,Mount Pleasant,Centre,Inner City,1864861.446,5,3172.664,9
+Residential,New Brighton,Southeast,2010s,2846547.411,3,0.0,2
+Residential,Nolan Hill,North,2020s,2046190.262,0,0.0,0
+Industrial,North Airways,Northeast,Employment,1209892.912,1,3261.315,2
+Residential,North Glenmore Park,West,1950s,1155903.639,5,2580.157,4
+Residential,North Haven,North,1960s/1970s,845598.61,1,930.649,0
+Residential,North Haven Upper,North,1960s/1970s,269102.903,0,647.824,0
+Major Park,Nose Hill Park,Northwest,Parks,11605487.26,0,753.166,0
+Residential,Oakridge,South,1960s/1970s,2419703.468,1,3052.137,3
+Residential,Ogden,Southeast,1950s,4096376.523,4,3391.596,18
+Industrial,Ogden Shops,East,Employment,2219726.71,0,0.0,0
+Residential,Osprey Hill,West,2000s,210142.299,0,0.0,0
+Residential,Palliser,South,1960s/1970s,984317.652,1,2243.86,7
+Residential,Panorama Hills,North,2010s,6334713.901,4,0.0,1
+Residential,Parkdale,Centre,1950s,1050299.964,2,2613.692,5
+Residential,Parkhill,Centre,1950s,657447.836,0,947.133,5
+Residential,Parkland,South,1960s/1970s,1801787.291,2,7037.472,0
+Residential,Patterson,West,1980s/1990s,2048890.935,0,1021.056,7
+Industrial,Pegasus,Northeast,Employment,255280.762,0,1066.337,5
+Residential,Penbrooke Meadows,East,1960s/1970s,2062073.881,4,1854.962,8
+Residential,Pine Creek,South,Building Out,2492547.914,0,0.0,0
+Residential,Pineridge,Northeast,1960s/1970s,2640571.667,5,5338.539,4
+Residential,Point Mckay,Centre,1960s/1970s,383872.475,0,217.625,1
+Residential,Pump Hill,South,1960s/1970s,945383.444,2,595.828,2
+Residential,Queens Park Village,Centre,1950s,621406.453,0,61.655,0
+Residential,Queensland,South,1960s/1970s,1556384.823,2,3016.523,0
+Residential,Ramsay,Centre,Inner City,984256.761,3,3470.515,4
+Residential,Ranchlands,Northwest,1960s/1970s,2347751.936,3,1579.076,0
+Residential,Rangeview,Southeast,Building Out,4836536.31,0,0.0,0
+Residential,Red Carpet,East,1960s/1970s,540057.277,0,0.0,4
+Residential,Redstone,Northeast,2000s,1952704.969,0,0.0,7
+Residential,Renfrew,Centre,Inner City,2660581.903,4,5004.484,2
+Residential,Richmond,Centre,1950s,1905635.174,3,5634.672,13
+Residential,Rideau Park,Centre,Inner City,267082.26,1,1203.167,0
+Residential,Riverbend,Southeast,1980s/1990s,4081197.914,2,925.312,15
+Residential,Rocky Ridge,Northwest,2000s,2807970.99,0,173.726,2
+Residential,Rosedale,Centre,Inner City,666251.746,1,2780.922,5
+Residential,Rosemont,Centre,1950s,449751.947,1,777.048,0
+Residential,Rosscarrock,West,1950s,1062225.912,3,3506.568,12
+Residential,Roxboro,Centre,Inner City,271774.767,0,2092.828,0
+Residential,Royal Oak,Northwest,2010s,3562126.621,2,167.673,0
+Industrial,Royal Vista,Northwest,,1312264.001,2,0.0,5
+Residential,Rundle,Northeast,1960s/1970s,2641182.995,5,4393.124,6
+Residential,Rutland Park,West,1950s,680971.834,1,1078.529,0
+Residential,Saddle Ridge,Northeast,2000s,5594499.196,4,776.902,28
+Industrial,Saddle Ridge Industrial,Northeast,Employment,2538475.589,0,0.0,6
+Residential,Sage Hill,North,Building Out,3721806.392,0,0.0,6
+Residential,Sandstone Valley,North,1980s/1990s,1800389.705,2,3646.718,3
+Residential,Scarboro,Centre,Inner City,453685.448,1,2464.06,0
+Residential,Scarboro/ Sunalta West,Centre,1950s,352695.297,0,484.452,1
+Residential,Scenic Acres,Northwest,1980s/1990s,4380853.442,3,8322.267,0
+Industrial,Section 23,Southeast,Employment,3115904.459,0,0.0,5
+Residential,Seton,Southeast,Building Out,4577428.422,1,0.0,3
+Residential,Shaganappi,Centre,1950s,1479726.371,1,4175.164,10
+Residential,Shawnee Slopes,South,1980s/1990s,1241541.883,0,286.672,2
+Residential,Shawnessy,South,1980s/1990s,3657527.417,4,2603.857,17
+Industrial,Shepard Industrial,Southeast,Employment,4219837.752,0,0.0,16
+Residential,Sherwood,North,2010s,2393329.173,1,0.0,1
+Residential,Signal Hill,West,1980s/1990s,5556776.123,1,7550.098,32
+Residential,Silver Springs,Northwest,1960s/1970s,4978769.067,3,8041.91,0
+Residential,Silverado,South,Building Out,5809694.062,3,0.0,0
+Industrial,Skyline East,Northeast,Employment,540742.935,0,0.0,0
+Industrial,Skyline West,North,Employment,826226.181,0,0.0,0
+Residential,Skyview Ranch,Northeast,2000s,2310111.495,2,0.0,26
+Residential,Somerset,South,1980s/1990s,2344435.084,1,24.235,2
+Industrial,South Airways,Northeast,Employment,1891791.786,2,4089.915,2
+Residential,South Calgary,Centre,Inner City,885511.803,1,1506.077,1
+Industrial,South Foothills,Southeast,Employment,3638984.617,0,0.0,0
+Residential,Southview,East,1950s,1591748.24,1,1535.257,4
+Residential,Southwood,South,1960s/1970s,2661115.17,4,3676.684,20
+Residential,Springbank Hill,West,Building Out,6333860.249,6,13.107,3
+Residential,Spruce Cliff,West,1950s,1083297.95,2,1750.072,3
+Residential,St. Andrews Heights,Centre,1950s,1160432.685,2,2704.423,6
+Industrial,Starfield,East,Employment,6004991.237,0,0.0,2
+Industrial,Starfield East,East,Employment,1639250.487,0,0.0,0
+Industrial,Stonegate Landing,Northeast,Employment,5435204.24,0,0.0,0
+Industrial,Stoney 1,North,Employment,6238270.447,0,499.893,1
+Industrial,Stoney 2,Northeast,Employment,3945456.479,0,0.0,1
+Industrial,Stoney 3,Northeast,Employment,1316598.827,0,0.0,2
+Industrial,Stoney 4,Northeast,Employment,4334212.605,0,406.162,0
+Residential,Strathcona Park,West,1980s/1990s,2686853.137,3,5272.222,0
+Residential,Sunalta,Centre,Inner City,940775.257,1,2980.194,11
+Residential,Sundance,South,1980s/1990s,4021272.772,6,6262.259,9
+Residential,Sunnyside,Centre,Inner City,1022198.036,1,4495.655,7
+Industrial,Sunridge,Northeast,Employment,2261630.722,0,4722.911,4
+Residential,Symons Valley Ranch,North,Building Out,149376.095,0,0.0,0
+Residential,Taradale,Northeast,2000s,2843879.425,3,1336.379,0
+Residential,Temple,Northeast,1960s/1970s,2624813.473,4,4997.511,3
+Residential,Thorncliffe,North,1950s,3270199.438,3,2130.112,1
+Residential,Tuscany,Northwest,2000s,6835440.425,4,9154.354,0
+Residential,Tuxedo Park,Centre,Inner City,1322795.557,3,3063.96,1
+Residential,Twinhills,East,Building Out,1994381.93,0,0.0,0
+Residential,University District,Northwest,Other,1152808.869,2,18.301,5
+Residential,University Heights,Northwest,1960s/1970s,817199.304,2,710.898,2
+Residential,University Of Calgary,Northwest,Other,1501292.552,0,56.848,6
+Residential,Upper Mount Royal,Centre,Inner City,1275819.439,2,2936.75,0
+Residential,Valley Ridge,West,2000s,3317266.526,0,3619.812,0
+Industrial,Valleyfield,East,Employment,1208850.995,0,0.0,0
+Residential,Varsity,Northwest,1960s/1970s,6848983.438,7,10420.503,34
+Residential,Vista Heights,Northeast,1960s/1970s,1140013.395,1,1147.322,0
+Residential,Walden,South,Building Out,2459041.007,0,0.0,1
+Residential,West Hillhurst,Centre,Inner City,2362234.273,2,6507.437,13
+Residential,West Springs,West,Building Out,4073994.155,3,152.336,7
+Residential,Westgate,West,1950s,1150951.089,2,4202.224,7
+Industrial,Westwinds,Northeast,Employment,1950630.132,2,1268.5,14
+Residential,Whitehorn,Northeast,1960s/1970s,2645924.051,4,6516.422,12
+Residential,Wildwood,West,1950s,2566059.4,1,4159.286,1
+Residential,Willow Park,South,1960s/1970s,3398343.173,3,6397.831,1
+Residential,Windsor Park,Centre,1950s,1276229.129,1,856.641,1
+Residential,Winston Heights/mountview,Centre,1950s,3013799.549,2,2714.089,1
+Residential,Wolf Willow,South,Building Out,2859960.318,0,0.0,0
+Residential,Woodbine,South,1980s/1990s,3180403.92,2,767.864,0
+Residential,Woodlands,South,1980s/1990s,2800208.001,2,5463.068,3
+Residential,Yorkville,South,Building Out,1317816.817,0,0.0,0
