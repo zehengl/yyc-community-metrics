@@ -12,6 +12,7 @@ from opendata import (
     get_bus_stops,
     get_community_district_boundaries,
     get_school_locations,
+    get_tree_canopy_2022,
 )
 
 # %%
@@ -68,6 +69,21 @@ for g in tqdm(communities["multipolygon"], desc="Counting Number of Bus Stops"):
 communities["bus_stops"] = counts
 
 # %%
+tree_canopy = get_tree_canopy_2022()
+tree_canopy = tree_canopy[~tree_canopy["multipolygon"].isna()]
+tree_canopy["multipolygon"] = tree_canopy["multipolygon"].apply(shape)
+areas = []
+for g in tqdm(communities["multipolygon"], desc="Counting 2022 Tree Canopy Areas"):
+    area = (
+        tree_canopy["multipolygon"]
+        .apply(lambda r: transform(project, g.intersection(r)).area)
+        .sum()
+    )
+    areas.append(area)
+communities["tree_canopy_2022"] = areas
+communities["tree_canopy_2022"] = communities["tree_canopy_2022"].round(3)
+
+# %%
 cols = [
     col
     for col in communities
@@ -78,10 +94,12 @@ communities = communities[cols]
 
 # %%
 def format_name(name):
-    if type(name) is not str:
+    if type(name) is not str or name[0].isdigit():
         return name
-    name = "/".join(p.capitalize() for p in name.split("/"))
-    name = " ".join(p.capitalize() for p in name.split())
+    name = "/".join(
+        " ".join(t.capitalize() for t in p.split()) for p in name.split("/")
+    )
+
     return name
 
 

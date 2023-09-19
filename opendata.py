@@ -51,3 +51,8 @@ def get_bikeways(offset=25000, force=False):
 def get_bus_stops(offset=25000, force=False):
     df = download("muzh-c9qc", offset, force)
     return df
+
+
+def get_tree_canopy_2022(offset=25000, force=False):
+    df = download("mn2n-4z98", offset, force)
+    return df
