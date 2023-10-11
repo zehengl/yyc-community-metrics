@@ -34,10 +34,10 @@ communities["area"] = communities["area"].round(3)
 
 # %%
 schools = get_school_locations()
-schools["the_geom"] = schools["the_geom"].apply(shape)
+schools["point"] = schools["point"].apply(shape)
 counts = []
 for g in tqdm(communities["multipolygon"], desc="Counting Number of Schools"):
-    count = schools["the_geom"].apply(g.contains).sum()
+    count = schools["point"].apply(g.contains).sum()
     counts.append(count)
 communities["schools"] = counts
 
