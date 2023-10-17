@@ -8,6 +8,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":113186.868
   },
   {
@@ -19,6 +22,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":120774.38
   },
   {
@@ -30,6 +36,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":71385.429
   },
   {
@@ -41,6 +50,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":377337.734
   },
   {
@@ -52,6 +64,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":74278.673
   },
   {
@@ -63,6 +78,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":2,
+    "recreation_facilities":2,
     "tree_canopy_2022":379658.486
   },
   {
@@ -74,6 +92,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":60848.378
   },
   {
@@ -85,6 +106,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":18068.676
   },
   {
@@ -96,6 +120,9 @@
     "schools":1,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":161720.575
   },
   {
@@ -107,6 +134,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":3,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":102790.546
   },
   {
@@ -118,6 +148,9 @@
     "schools":2,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":13723.51
   },
   {
@@ -129,6 +162,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":154957.21
   },
   {
@@ -140,6 +176,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":147364.166
   },
   {
@@ -151,6 +190,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":17462.085
   },
   {
@@ -162,6 +204,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":10128.833
   },
   {
@@ -173,6 +218,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":864.474
   },
   {
@@ -184,6 +232,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":6373.295
   },
   {
@@ -195,6 +246,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":193749.177
   },
   {
@@ -206,6 +260,9 @@
     "schools":1,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":192294.084
   },
   {
@@ -217,6 +274,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":84578.392
   },
   {
@@ -228,6 +288,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":25490.288
   },
   {
@@ -239,6 +302,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":63813.522
   },
   {
@@ -250,6 +316,9 @@
     "schools":1,
     "bikeways":0.0,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":158691.439
   },
   {
@@ -261,6 +330,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":116160.916
   },
   {
@@ -272,6 +344,9 @@
     "schools":0,
     "bikeways":7.224,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":108989.434
   },
   {
@@ -283,6 +358,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":3904.263
   },
   {
@@ -294,6 +372,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":13208.386
   },
   {
@@ -305,6 +386,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":87752.195
   },
   {
@@ -316,6 +400,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":72641.416
   },
   {
@@ -327,6 +414,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":36726.904
   },
   {
@@ -338,6 +428,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":255961.537
   },
   {
@@ -349,6 +442,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":204904.961
   },
   {
@@ -360,6 +456,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":26249.839
   },
   {
@@ -371,6 +470,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":11040.404
   },
   {
@@ -382,6 +484,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":138258.732
   },
   {
@@ -393,6 +498,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":198827.154
   },
   {
@@ -404,6 +512,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":14893.075
   },
   {
@@ -415,6 +526,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":127942.292
   },
   {
@@ -426,6 +540,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":212106.757
   },
   {
@@ -437,6 +554,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":204.346
   },
   {
@@ -448,6 +568,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":443.66
   },
   {
@@ -459,6 +582,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":52315.007
   },
   {
@@ -470,39 +596,51 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":305790.351
   },
   {
     "class":"Residential",
     "name":"Abbeydale",
     "sector":"Northeast",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":1677463.759,
     "schools":3,
     "bikeways":0.0,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":135929.975
   },
   {
     "class":"Residential",
     "name":"Acadia",
     "sector":"South",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":3906035.079,
     "schools":12,
     "bikeways":4981.373,
     "bus_stops":13,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":3,
     "tree_canopy_2022":498659.995
   },
   {
     "class":"Residential",
     "name":"Albert Park\/Radisson Heights",
     "sector":"East",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":2506196.138,
     "schools":5,
     "bikeways":5944.907,
     "bus_stops":7,
+    "lrt_stations":1,
+    "public_art":2,
+    "recreation_facilities":2,
     "tree_canopy_2022":204381.306
   },
   {
@@ -514,6 +652,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":67976.706
   },
   {
@@ -525,6 +666,9 @@
     "schools":4,
     "bikeways":7350.108,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":368371.818
   },
   {
@@ -536,6 +680,9 @@
     "schools":0,
     "bikeways":647.809,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":107495.631
   },
   {
@@ -547,28 +694,37 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":292.765
   },
   {
     "class":"Residential",
     "name":"Applewood Park",
     "sector":"East",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":1569095.291,
     "schools":0,
     "bikeways":215.156,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":77273.27
   },
   {
     "class":"Residential",
     "name":"Arbour Lake",
     "sector":"Northwest",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":4393279.967,
     "schools":3,
     "bikeways":7528.417,
     "bus_stops":10,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":2,
     "tree_canopy_2022":221607.748
   },
   {
@@ -580,6 +736,9 @@
     "schools":4,
     "bikeways":705.798,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":564559.857
   },
   {
@@ -591,6 +750,9 @@
     "schools":5,
     "bikeways":0.0,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":127701.271
   },
   {
@@ -602,17 +764,23 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":143449.457
   },
   {
     "class":"Residential",
     "name":"Banff Trail",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1451655.619,
     "schools":2,
     "bikeways":7271.186,
     "bus_stops":4,
+    "lrt_stations":2,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":249702.035
   },
   {
@@ -624,39 +792,51 @@
     "schools":0,
     "bikeways":2302.406,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":137100.44
   },
   {
     "class":"Residential",
     "name":"Bayview",
     "sector":"South",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":423977.236,
     "schools":0,
     "bikeways":4.617,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":99933.767
   },
   {
     "class":"Residential",
     "name":"Beddington Heights",
     "sector":"North",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":3199553.523,
     "schools":3,
     "bikeways":3950.153,
     "bus_stops":25,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":370836.455
   },
   {
     "class":"Residential",
     "name":"Bel-aire",
     "sector":"Centre",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":337019.09,
     "schools":1,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":96955.42
   },
   {
@@ -668,6 +848,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":104000.462
   },
   {
@@ -679,6 +862,9 @@
     "schools":4,
     "bikeways":13016.536,
     "bus_stops":19,
+    "lrt_stations":1,
+    "public_art":5,
+    "recreation_facilities":0,
     "tree_canopy_2022":176816.31
   },
   {
@@ -690,50 +876,65 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":101520.441
   },
   {
     "class":"Residential",
     "name":"Bonavista Downs",
     "sector":"South",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":537808.41,
     "schools":0,
     "bikeways":483.122,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":54327.084
   },
   {
     "class":"Residential",
     "name":"Bowness",
     "sector":"Northwest",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":5607854.855,
     "schools":11,
     "bikeways":18369.608,
     "bus_stops":23,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":4,
     "tree_canopy_2022":1182962.708
   },
   {
     "class":"Residential",
     "name":"Braeside",
     "sector":"South",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":1960857.113,
     "schools":1,
     "bikeways":3503.005,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":309758.646
   },
   {
     "class":"Residential",
     "name":"Brentwood",
     "sector":"Northwest",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":2890589.211,
     "schools":7,
     "bikeways":4690.023,
     "bus_stops":8,
+    "lrt_stations":1,
+    "public_art":0,
+    "recreation_facilities":2,
     "tree_canopy_2022":482958.547
   },
   {
@@ -745,28 +946,37 @@
     "schools":4,
     "bikeways":3884.087,
     "bus_stops":5,
+    "lrt_stations":2,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":418676.55
   },
   {
     "class":"Residential",
     "name":"Bridlewood",
     "sector":"South",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":3236849.455,
     "schools":4,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":130332.099
   },
   {
     "class":"Residential",
     "name":"Britannia",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":503175.224,
     "schools":0,
     "bikeways":1740.426,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":105266.872
   },
   {
@@ -778,6 +988,9 @@
     "schools":1,
     "bikeways":1466.185,
     "bus_stops":3,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":228123.45
   },
   {
@@ -789,17 +1002,23 @@
     "schools":1,
     "bikeways":0.0,
     "bus_stops":19,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":55854.256
   },
   {
     "class":"Residential",
     "name":"Cambrian Heights",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":864003.16,
     "schools":3,
     "bikeways":1192.924,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":167762.25
   },
   {
@@ -811,28 +1030,37 @@
     "schools":1,
     "bikeways":0.0,
     "bus_stops":5,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":78608.443
   },
   {
     "class":"Residential",
     "name":"Canyon Meadows",
     "sector":"South",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":3077644.234,
     "schools":4,
     "bikeways":10194.111,
     "bus_stops":4,
+    "lrt_stations":1,
+    "public_art":1,
+    "recreation_facilities":1,
     "tree_canopy_2022":494432.655
   },
   {
     "class":"Residential",
     "name":"Capitol Hill",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1418526.811,
     "schools":2,
     "bikeways":2184.948,
     "bus_stops":5,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":279803.341
   },
   {
@@ -844,50 +1072,65 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":9706.224
   },
   {
     "class":"Residential",
     "name":"Castleridge",
     "sector":"Northeast",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":1212143.408,
     "schools":2,
     "bikeways":2163.849,
     "bus_stops":3,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":110583.292
   },
   {
     "class":"Residential",
     "name":"Cedarbrae",
     "sector":"South",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":2069561.224,
     "schools":2,
     "bikeways":2653.605,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":231602.109
   },
   {
     "class":"Residential",
     "name":"Chaparral",
     "sector":"South",
-    "comm_structure":"2010S",
+    "comm_structure":"2010s",
     "area":5384604.708,
     "schools":2,
     "bikeways":0.0,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":239640.948
   },
   {
     "class":"Residential",
     "name":"Charleswood",
     "sector":"Northwest",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1830349.623,
     "schools":2,
     "bikeways":2582.438,
     "bus_stops":4,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":2,
     "tree_canopy_2022":419146.538
   },
   {
@@ -899,39 +1142,51 @@
     "schools":2,
     "bikeways":1300.086,
     "bus_stops":4,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":31383.682
   },
   {
     "class":"Residential",
     "name":"Chinook Park",
     "sector":"South",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":582628.303,
     "schools":0,
     "bikeways":294.207,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":143114.359
   },
   {
     "class":"Residential",
     "name":"Christie Park",
     "sector":"West",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":813866.045,
     "schools":0,
     "bikeways":1035.572,
     "bus_stops":4,
+    "lrt_stations":1,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":162209.043
   },
   {
     "class":"Residential",
     "name":"Citadel",
     "sector":"Northwest",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":2732549.688,
     "schools":3,
     "bikeways":1885.304,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":177422.781
   },
   {
@@ -943,6 +1198,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":6354.183
   },
   {
@@ -954,28 +1212,37 @@
     "schools":2,
     "bikeways":1540.959,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":3,
+    "recreation_facilities":0,
     "tree_canopy_2022":69964.406
   },
   {
     "class":"Residential",
     "name":"Coach Hill",
     "sector":"West",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":1075400.643,
     "schools":0,
     "bikeways":1253.102,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":183455.26
   },
   {
     "class":"Residential",
     "name":"Collingwood",
     "sector":"Northwest",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1558977.434,
     "schools":3,
     "bikeways":1109.07,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":2,
+    "recreation_facilities":1,
     "tree_canopy_2022":289526.991
   },
   {
@@ -987,72 +1254,93 @@
     "schools":2,
     "bikeways":0.0,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":88578.919
   },
   {
     "class":"Residential",
     "name":"Coral Springs",
     "sector":"Northeast",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":1817232.692,
     "schools":1,
     "bikeways":336.894,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":57921.948
   },
   {
     "class":"Residential",
     "name":"Cornerstone",
     "sector":"Northeast",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":7642068.566,
     "schools":0,
     "bikeways":0.0,
     "bus_stops":20,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":23081.264
   },
   {
     "class":"Residential",
     "name":"Cougar Ridge",
     "sector":"West",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":2218386.442,
     "schools":2,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":447412.406
   },
   {
     "class":"Residential",
     "name":"Country Hills",
     "sector":"North",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":1888403.521,
     "schools":0,
     "bikeways":24.564,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":95143.783
   },
   {
     "class":"Residential",
     "name":"Country Hills Village",
     "sector":"North",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":952024.746,
     "schools":1,
     "bikeways":0.0,
     "bus_stops":11,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":1,
     "tree_canopy_2022":25198.599
   },
   {
     "class":"Residential",
     "name":"Coventry Hills",
     "sector":"North",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":4083743.083,
     "schools":4,
     "bikeways":5056.142,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":186029.028
   },
   {
@@ -1064,6 +1352,9 @@
     "schools":5,
     "bikeways":0.0,
     "bus_stops":7,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":533951.756
   },
   {
@@ -1075,17 +1366,23 @@
     "schools":2,
     "bikeways":6147.009,
     "bus_stops":5,
+    "lrt_stations":0,
+    "public_art":2,
+    "recreation_facilities":1,
     "tree_canopy_2022":336066.846
   },
   {
     "class":"Residential",
     "name":"Crestmont",
     "sector":"West",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":1645182.31,
     "schools":0,
     "bikeways":0.0,
     "bus_stops":3,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":431122.545
   },
   {
@@ -1097,39 +1394,51 @@
     "schools":6,
     "bikeways":1049.737,
     "bus_stops":4,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":50971.18
   },
   {
     "class":"Residential",
     "name":"Dalhousie",
     "sector":"Northwest",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":3335930.992,
     "schools":4,
     "bikeways":1645.282,
     "bus_stops":4,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":557919.807
   },
   {
     "class":"Residential",
     "name":"Deer Ridge",
     "sector":"South",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":1417414.065,
     "schools":1,
     "bikeways":3689.843,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":173518.206
   },
   {
     "class":"Residential",
     "name":"Deer Run",
     "sector":"South",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":1868211.555,
     "schools":1,
     "bikeways":6456.507,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":266214.856
   },
   {
@@ -1141,50 +1450,65 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":73126.293
   },
   {
     "class":"Residential",
     "name":"Diamond Cove",
     "sector":"South",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":488930.125,
     "schools":0,
     "bikeways":2364.017,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":92109.574
   },
   {
     "class":"Residential",
     "name":"Discovery Ridge",
     "sector":"West",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":3598436.433,
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":980493.492
   },
   {
     "class":"Residential",
     "name":"Douglasdale\/Glen",
     "sector":"Southeast",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":6437736.536,
     "schools":2,
     "bikeways":5701.173,
     "bus_stops":20,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":1,
     "tree_canopy_2022":651369.777
   },
   {
     "class":"Residential",
     "name":"Dover",
     "sector":"East",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":4152106.483,
     "schools":6,
     "bikeways":7508.149,
     "bus_stops":7,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":491467.319
   },
   {
@@ -1196,6 +1520,9 @@
     "schools":1,
     "bikeways":4109.329,
     "bus_stops":122,
+    "lrt_stations":9,
+    "public_art":28,
+    "recreation_facilities":1,
     "tree_canopy_2022":64635.05
   },
   {
@@ -1207,6 +1534,9 @@
     "schools":0,
     "bikeways":1586.458,
     "bus_stops":15,
+    "lrt_stations":0,
+    "public_art":2,
+    "recreation_facilities":0,
     "tree_canopy_2022":29118.032
   },
   {
@@ -1218,17 +1548,23 @@
     "schools":0,
     "bikeways":854.985,
     "bus_stops":17,
+    "lrt_stations":2,
+    "public_art":5,
+    "recreation_facilities":1,
     "tree_canopy_2022":28257.979
   },
   {
     "class":"Residential",
     "name":"Eagle Ridge",
     "sector":"South",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":374936.404,
     "schools":0,
     "bikeways":618.034,
     "bus_stops":4,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":81122.54
   },
   {
@@ -1240,6 +1576,9 @@
     "schools":0,
     "bikeways":998.426,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":135497.935
   },
   {
@@ -1251,6 +1590,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":20,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":110169.068
   },
   {
@@ -1262,6 +1604,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":5,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":16835.716
   },
   {
@@ -1273,17 +1618,23 @@
     "schools":0,
     "bikeways":2289.022,
     "bus_stops":7,
+    "lrt_stations":0,
+    "public_art":4,
+    "recreation_facilities":1,
     "tree_canopy_2022":125428.012
   },
   {
     "class":"Residential",
     "name":"Edgemont",
     "sector":"Northwest",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":6619605.299,
     "schools":3,
     "bikeways":5762.685,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":953943.123
   },
   {
@@ -1295,28 +1646,37 @@
     "schools":2,
     "bikeways":4568.783,
     "bus_stops":7,
+    "lrt_stations":0,
+    "public_art":4,
+    "recreation_facilities":0,
     "tree_canopy_2022":542092.685
   },
   {
     "class":"Residential",
     "name":"Elboya",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":720729.093,
     "schools":2,
     "bikeways":2180.442,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":145220.143
   },
   {
     "class":"Residential",
     "name":"Erin Woods",
     "sector":"East",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":1588422.449,
     "schools":1,
     "bikeways":1721.205,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":125273.76
   },
   {
@@ -1328,39 +1688,51 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":106488.096
   },
   {
     "class":"Residential",
     "name":"Evanston",
     "sector":"North",
-    "comm_structure":"2010S",
+    "comm_structure":"2010s",
     "area":4881544.217,
     "schools":3,
     "bikeways":0.0,
     "bus_stops":4,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":84055.495
   },
   {
     "class":"Residential",
     "name":"Evergreen",
     "sector":"South",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":4645080.15,
     "schools":4,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":265605.793
   },
   {
     "class":"Residential",
     "name":"Fairview",
     "sector":"South",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1320717.992,
     "schools":2,
     "bikeways":0.0,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":229943.802
   },
   {
@@ -1372,17 +1744,23 @@
     "schools":3,
     "bikeways":0.0,
     "bus_stops":6,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":50028.596
   },
   {
     "class":"Residential",
     "name":"Falconridge",
     "sector":"Northeast",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":2156332.884,
     "schools":5,
     "bikeways":4280.761,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":153439.979
   },
   {
@@ -1394,6 +1772,9 @@
     "schools":0,
     "bikeways":179.598,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":3904233.358
   },
   {
@@ -1405,28 +1786,37 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":45,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":234981.832
   },
   {
     "class":"Residential",
     "name":"Forest Heights",
     "sector":"East",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":1502425.996,
     "schools":1,
     "bikeways":1716.831,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":171743.83
   },
   {
     "class":"Residential",
     "name":"Forest Lawn",
     "sector":"East",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":2316962.981,
     "schools":5,
     "bikeways":4733.291,
     "bus_stops":18,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":4,
     "tree_canopy_2022":236700.838
   },
   {
@@ -1438,6 +1828,9 @@
     "schools":0,
     "bikeways":502.678,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":28601.745
   },
   {
@@ -1449,6 +1842,9 @@
     "schools":0,
     "bikeways":2459.1,
     "bus_stops":3,
+    "lrt_stations":1,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":40286.392
   },
   {
@@ -1460,6 +1856,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":4,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":28151.925
   },
   {
@@ -1471,6 +1870,9 @@
     "schools":3,
     "bikeways":1268.272,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":78238.817
   },
   {
@@ -1482,39 +1884,51 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":15179.803
   },
   {
     "class":"Residential",
     "name":"Glamorgan",
     "sector":"West",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1955758.488,
     "schools":2,
     "bikeways":2022.892,
     "bus_stops":3,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":290470.736
   },
   {
     "class":"Residential",
     "name":"Glenbrook",
     "sector":"West",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1947133.293,
     "schools":5,
     "bikeways":2063.057,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":261879.257
   },
   {
     "class":"Residential",
     "name":"Glendale",
     "sector":"West",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1363685.129,
     "schools":4,
     "bikeways":4600.537,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":3,
     "tree_canopy_2022":263360.505
   },
   {
@@ -1526,6 +1940,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":8032.287
   },
   {
@@ -1537,6 +1954,9 @@
     "schools":1,
     "bikeways":1355.725,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":7,
     "tree_canopy_2022":1530038.837
   },
   {
@@ -1548,6 +1968,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":12208.671
   },
   {
@@ -1559,6 +1982,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":1,
     "tree_canopy_2022":34622.366
   },
   {
@@ -1570,17 +1996,23 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":5150.709
   },
   {
     "class":"Residential",
     "name":"Greenview",
     "sector":"Centre",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":453362.701,
     "schools":1,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":53362.71
   },
   {
@@ -1592,39 +2024,51 @@
     "schools":0,
     "bikeways":1023.836,
     "bus_stops":4,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":52388.816
   },
   {
     "class":"Residential",
     "name":"Greenwood\/Greenbriar",
     "sector":"Northwest",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":1157483.187,
     "schools":0,
     "bikeways":21.063,
     "bus_stops":6,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":144557.332
   },
   {
     "class":"Residential",
     "name":"Hamptons",
     "sector":"Northwest",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":3501665.582,
     "schools":1,
     "bikeways":7611.368,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":372539.889
   },
   {
     "class":"Residential",
     "name":"Harvest Hills",
     "sector":"North",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":2178905.816,
     "schools":1,
     "bikeways":5225.79,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":164118.954
   },
   {
@@ -1636,39 +2080,51 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":374014.016
   },
   {
     "class":"Residential",
     "name":"Hawkwood",
     "sector":"Northwest",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":3207819.663,
     "schools":2,
     "bikeways":5228.116,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":376113.302
   },
   {
     "class":"Residential",
     "name":"Haysboro",
     "sector":"South",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":2667760.025,
     "schools":7,
     "bikeways":1683.434,
     "bus_stops":12,
+    "lrt_stations":1,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":409358.989
   },
   {
     "class":"Residential",
     "name":"Hidden Valley",
     "sector":"North",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":4305259.98,
     "schools":3,
     "bikeways":7505.522,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":253897.654
   },
   {
@@ -1680,28 +2136,37 @@
     "schools":0,
     "bikeways":550.331,
     "bus_stops":9,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":105850.864
   },
   {
     "class":"Residential",
     "name":"Highland Park",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1369970.201,
     "schools":3,
     "bikeways":3249.059,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":225714.038
   },
   {
     "class":"Residential",
     "name":"Highwood",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":948712.419,
     "schools":3,
     "bikeways":1386.013,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":201959.135
   },
   {
@@ -1713,6 +2178,9 @@
     "schools":3,
     "bikeways":3826.766,
     "bus_stops":10,
+    "lrt_stations":1,
+    "public_art":1,
+    "recreation_facilities":1,
     "tree_canopy_2022":335528.168
   },
   {
@@ -1724,6 +2192,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":1803.821
   },
   {
@@ -1735,6 +2206,9 @@
     "schools":3,
     "bikeways":2860.37,
     "bus_stops":7,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":72225.262
   },
   {
@@ -1746,28 +2220,37 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":18984.985
   },
   {
     "class":"Residential",
     "name":"Hounsfield Heights\/Briar Hill",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1178022.222,
     "schools":2,
     "bikeways":4459.144,
     "bus_stops":5,
+    "lrt_stations":1,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":237351.077
   },
   {
     "class":"Residential",
     "name":"Huntington Hills",
     "sector":"North",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":4769256.644,
     "schools":10,
     "bikeways":6598.633,
     "bus_stops":7,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":4,
     "tree_canopy_2022":513250.016
   },
   {
@@ -1779,17 +2262,23 @@
     "schools":2,
     "bikeways":4790.415,
     "bus_stops":21,
+    "lrt_stations":0,
+    "public_art":3,
+    "recreation_facilities":0,
     "tree_canopy_2022":480810.036
   },
   {
     "class":"Residential",
     "name":"Kelvin Grove",
     "sector":"South",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":769612.451,
     "schools":6,
     "bikeways":654.88,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":137480.602
   },
   {
@@ -1801,61 +2290,79 @@
     "schools":0,
     "bikeways":436.164,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":175.87
   },
   {
     "class":"Residential",
     "name":"Killarney\/Glengarry",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1843506.535,
     "schools":2,
     "bikeways":4623.174,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":2,
+    "recreation_facilities":1,
     "tree_canopy_2022":290602.456
   },
   {
     "class":"Residential",
     "name":"Kincora",
     "sector":"North",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":2270992.61,
     "schools":0,
     "bikeways":0.0,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":58772.312
   },
   {
     "class":"Residential",
     "name":"Kingsland",
     "sector":"South",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1339728.842,
     "schools":1,
     "bikeways":2305.969,
     "bus_stops":7,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":2,
     "tree_canopy_2022":172314.994
   },
   {
     "class":"Residential",
     "name":"Lake Bonavista",
     "sector":"South",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":5205631.679,
     "schools":6,
     "bikeways":12253.745,
     "bus_stops":9,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":3,
     "tree_canopy_2022":750796.98
   },
   {
     "class":"Residential",
     "name":"Lakeview",
     "sector":"West",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":2221433.207,
     "schools":3,
     "bikeways":2971.181,
     "bus_stops":4,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":453384.147
   },
   {
@@ -1867,6 +2374,9 @@
     "schools":1,
     "bikeways":0.0,
     "bus_stops":3,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":776444.714
   },
   {
@@ -1878,17 +2388,23 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":1686.561
   },
   {
     "class":"Residential",
     "name":"Lincoln Park",
     "sector":"West",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1490290.887,
     "schools":1,
     "bikeways":512.135,
     "bus_stops":20,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":103275.86
   },
   {
@@ -1900,6 +2416,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":11134.062
   },
   {
@@ -1911,17 +2430,23 @@
     "schools":0,
     "bikeways":1733.451,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":34706.419
   },
   {
     "class":"Residential",
     "name":"Macewan Glen",
     "sector":"North",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":1418088.131,
     "schools":0,
     "bikeways":3481.913,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":157103.177
   },
   {
@@ -1933,6 +2458,9 @@
     "schools":2,
     "bikeways":0.0,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":74797.086
   },
   {
@@ -1944,6 +2472,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":22302.825
   },
   {
@@ -1955,61 +2486,79 @@
     "schools":1,
     "bikeways":0.0,
     "bus_stops":29,
+    "lrt_stations":3,
+    "public_art":4,
+    "recreation_facilities":0,
     "tree_canopy_2022":249298.755
   },
   {
     "class":"Residential",
     "name":"Maple Ridge",
     "sector":"South",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":2772708.019,
     "schools":2,
     "bikeways":967.881,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":1,
     "tree_canopy_2022":311119.54
   },
   {
     "class":"Residential",
     "name":"Marlborough",
     "sector":"Northeast",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":2654754.069,
     "schools":6,
     "bikeways":4348.342,
     "bus_stops":3,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":243854.034
   },
   {
     "class":"Residential",
     "name":"Marlborough Park",
     "sector":"Northeast",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":2487249.167,
     "schools":4,
     "bikeways":3735.01,
     "bus_stops":3,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":211673.432
   },
   {
     "class":"Residential",
     "name":"Martindale",
     "sector":"Northeast",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":2688036.331,
     "schools":5,
     "bikeways":1939.308,
     "bus_stops":3,
+    "lrt_stations":1,
+    "public_art":1,
+    "recreation_facilities":4,
     "tree_canopy_2022":121831.892
   },
   {
     "class":"Residential",
     "name":"Mayfair",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":289431.134,
     "schools":0,
     "bikeways":749.946,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":80232.577
   },
   {
@@ -2021,17 +2570,23 @@
     "schools":2,
     "bikeways":1549.769,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":46156.296
   },
   {
     "class":"Residential",
     "name":"Mayland Heights",
     "sector":"Northeast",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":2021813.533,
     "schools":4,
     "bikeways":4031.806,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":233444.551
   },
   {
@@ -2043,50 +2598,65 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":119295.875
   },
   {
     "class":"Residential",
     "name":"Mckenzie Lake",
     "sector":"Southeast",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":5063256.152,
     "schools":3,
     "bikeways":5163.537,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":608592.487
   },
   {
     "class":"Residential",
     "name":"Mckenzie Towne",
     "sector":"Southeast",
-    "comm_structure":"2010S",
+    "comm_structure":"2010s",
     "area":4817520.667,
     "schools":3,
     "bikeways":0.0,
     "bus_stops":4,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":272825.507
   },
   {
     "class":"Residential",
     "name":"Meadowlark Park",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":632947.681,
     "schools":0,
     "bikeways":1414.688,
     "bus_stops":3,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":68934.139
   },
   {
     "class":"Residential",
     "name":"Medicine Hill",
     "sector":"West",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":1211507.269,
     "schools":0,
     "bikeways":0.0,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":384907.845
   },
   {
@@ -2098,28 +2668,37 @@
     "schools":1,
     "bikeways":1072.505,
     "bus_stops":1,
+    "lrt_stations":1,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":36648.654
   },
   {
     "class":"Residential",
     "name":"Midnapore",
     "sector":"South",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":2890911.481,
     "schools":3,
     "bikeways":6153.01,
     "bus_stops":5,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":413407.153
   },
   {
     "class":"Residential",
     "name":"Millrise",
     "sector":"South",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":1782146.004,
     "schools":1,
     "bikeways":1752.356,
     "bus_stops":10,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":175655.245
   },
   {
@@ -2131,28 +2710,37 @@
     "schools":3,
     "bikeways":1953.031,
     "bus_stops":3,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":81376.866
   },
   {
     "class":"Residential",
     "name":"Monterey Park",
     "sector":"Northeast",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":3445038.755,
     "schools":1,
     "bikeways":211.086,
     "bus_stops":8,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":174235.351
   },
   {
     "class":"Residential",
     "name":"Montgomery",
     "sector":"Northwest",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":2951497.487,
     "schools":1,
     "bikeways":11505.255,
     "bus_stops":20,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":3,
     "tree_canopy_2022":354018.463
   },
   {
@@ -2164,28 +2752,37 @@
     "schools":5,
     "bikeways":3172.664,
     "bus_stops":9,
+    "lrt_stations":0,
+    "public_art":4,
+    "recreation_facilities":3,
     "tree_canopy_2022":367323.031
   },
   {
     "class":"Residential",
     "name":"New Brighton",
     "sector":"Southeast",
-    "comm_structure":"2010S",
+    "comm_structure":"2010s",
     "area":2846547.411,
     "schools":3,
     "bikeways":0.0,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":2,
     "tree_canopy_2022":92744.12
   },
   {
     "class":"Residential",
     "name":"Nolan Hill",
     "sector":"North",
-    "comm_structure":"2020S",
+    "comm_structure":"2020s",
     "area":2046190.262,
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":31022.288
   },
   {
@@ -2197,39 +2794,51 @@
     "schools":1,
     "bikeways":3261.315,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":47961.525
   },
   {
     "class":"Residential",
     "name":"North Glenmore Park",
     "sector":"West",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1155903.639,
     "schools":5,
     "bikeways":2580.157,
     "bus_stops":4,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":191119.39
   },
   {
     "class":"Residential",
     "name":"North Haven",
     "sector":"North",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":845598.61,
     "schools":1,
     "bikeways":930.649,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":124789.791
   },
   {
     "class":"Residential",
     "name":"North Haven Upper",
     "sector":"North",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":269102.903,
     "schools":0,
     "bikeways":647.824,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":37897.257
   },
   {
@@ -2241,28 +2850,37 @@
     "schools":0,
     "bikeways":753.166,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":992455.265
   },
   {
     "class":"Residential",
     "name":"Oakridge",
     "sector":"South",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":2419703.468,
     "schools":1,
     "bikeways":3052.137,
     "bus_stops":3,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":493067.671
   },
   {
     "class":"Residential",
     "name":"Ogden",
     "sector":"Southeast",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":4096376.523,
     "schools":4,
     "bikeways":3391.596,
     "bus_stops":18,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":3,
     "tree_canopy_2022":644475.574
   },
   {
@@ -2274,83 +2892,107 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":83173.469
   },
   {
     "class":"Residential",
     "name":"Osprey Hill",
     "sector":"West",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":210142.299,
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":62070.786
   },
   {
     "class":"Residential",
     "name":"Palliser",
     "sector":"South",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":984317.652,
     "schools":1,
     "bikeways":2243.86,
     "bus_stops":7,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":4,
     "tree_canopy_2022":175673.623
   },
   {
     "class":"Residential",
     "name":"Panorama Hills",
     "sector":"North",
-    "comm_structure":"2010S",
+    "comm_structure":"2010s",
     "area":6334713.901,
     "schools":4,
     "bikeways":0.0,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":247962.531
   },
   {
     "class":"Residential",
     "name":"Parkdale",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1050299.964,
     "schools":2,
     "bikeways":2613.692,
     "bus_stops":5,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":165051.65
   },
   {
     "class":"Residential",
     "name":"Parkhill",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":657447.836,
     "schools":0,
     "bikeways":947.133,
     "bus_stops":5,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":148766.101
   },
   {
     "class":"Residential",
     "name":"Parkland",
     "sector":"South",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":1801787.291,
     "schools":2,
     "bikeways":7037.472,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":296307.775
   },
   {
     "class":"Residential",
     "name":"Patterson",
     "sector":"West",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":2048890.935,
     "schools":0,
     "bikeways":1021.056,
     "bus_stops":7,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":449111.318
   },
   {
@@ -2362,17 +3004,23 @@
     "schools":0,
     "bikeways":1066.337,
     "bus_stops":5,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":9141.613
   },
   {
     "class":"Residential",
     "name":"Penbrooke Meadows",
     "sector":"East",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":2062073.881,
     "schools":4,
     "bikeways":1854.962,
     "bus_stops":8,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":171567.569
   },
   {
@@ -2384,61 +3032,79 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":88882.115
   },
   {
     "class":"Residential",
     "name":"Pineridge",
     "sector":"Northeast",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":2640571.667,
     "schools":5,
     "bikeways":5338.539,
     "bus_stops":4,
+    "lrt_stations":0,
+    "public_art":2,
+    "recreation_facilities":3,
     "tree_canopy_2022":275036.001
   },
   {
     "class":"Residential",
     "name":"Point Mckay",
     "sector":"Centre",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":383872.475,
     "schools":0,
     "bikeways":217.625,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":81616.853
   },
   {
     "class":"Residential",
     "name":"Pump Hill",
     "sector":"South",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":945383.444,
     "schools":2,
     "bikeways":595.828,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":226711.649
   },
   {
     "class":"Residential",
     "name":"Queens Park Village",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":621406.453,
     "schools":0,
     "bikeways":61.655,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":116452.307
   },
   {
     "class":"Residential",
     "name":"Queensland",
     "sector":"South",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":1556384.823,
     "schools":2,
     "bikeways":3016.523,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":196967.07
   },
   {
@@ -2450,17 +3116,23 @@
     "schools":3,
     "bikeways":3470.515,
     "bus_stops":4,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":155650.993
   },
   {
     "class":"Residential",
     "name":"Ranchlands",
     "sector":"Northwest",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":2347751.936,
     "schools":3,
     "bikeways":1579.076,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":396654.424
   },
   {
@@ -2472,28 +3144,37 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":9129.936
   },
   {
     "class":"Residential",
     "name":"Red Carpet",
     "sector":"East",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":540057.277,
     "schools":0,
     "bikeways":0.0,
     "bus_stops":4,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":28434.481
   },
   {
     "class":"Residential",
     "name":"Redstone",
     "sector":"Northeast",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":1952704.969,
     "schools":0,
     "bikeways":0.0,
     "bus_stops":7,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":16573.813
   },
   {
@@ -2505,17 +3186,23 @@
     "schools":4,
     "bikeways":5004.484,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":4,
     "tree_canopy_2022":358499.629
   },
   {
     "class":"Residential",
     "name":"Richmond",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1905635.174,
     "schools":3,
     "bikeways":5634.672,
     "bus_stops":13,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":292731.103
   },
   {
@@ -2527,28 +3214,37 @@
     "schools":1,
     "bikeways":1203.167,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":95454.445
   },
   {
     "class":"Residential",
     "name":"Riverbend",
     "sector":"Southeast",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":4081197.914,
     "schools":2,
     "bikeways":925.312,
     "bus_stops":15,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":1,
     "tree_canopy_2022":510239.306
   },
   {
     "class":"Residential",
     "name":"Rocky Ridge",
     "sector":"Northwest",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":2807970.99,
     "schools":0,
     "bikeways":173.726,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":262212.32
   },
   {
@@ -2560,28 +3256,37 @@
     "schools":1,
     "bikeways":2780.922,
     "bus_stops":5,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":169711.719
   },
   {
     "class":"Residential",
     "name":"Rosemont",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":449751.947,
     "schools":1,
     "bikeways":777.048,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":91766.812
   },
   {
     "class":"Residential",
     "name":"Rosscarrock",
     "sector":"West",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1062225.912,
     "schools":3,
     "bikeways":3506.568,
     "bus_stops":12,
+    "lrt_stations":1,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":94756.825
   },
   {
@@ -2593,17 +3298,23 @@
     "schools":0,
     "bikeways":2092.828,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":116035.914
   },
   {
     "class":"Residential",
     "name":"Royal Oak",
     "sector":"Northwest",
-    "comm_structure":"2010S",
+    "comm_structure":"2010s",
     "area":3562126.621,
     "schools":2,
     "bikeways":167.673,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":226763.115
   },
   {
@@ -2615,39 +3326,51 @@
     "schools":2,
     "bikeways":0.0,
     "bus_stops":5,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":60220.096
   },
   {
     "class":"Residential",
     "name":"Rundle",
     "sector":"Northeast",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":2641182.995,
     "schools":5,
     "bikeways":4393.124,
     "bus_stops":6,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":274022.733
   },
   {
     "class":"Residential",
     "name":"Rutland Park",
     "sector":"West",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":680971.834,
     "schools":1,
     "bikeways":1078.529,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":126958.089
   },
   {
     "class":"Residential",
     "name":"Saddle Ridge",
     "sector":"Northeast",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":5594499.196,
     "schools":4,
     "bikeways":776.902,
     "bus_stops":28,
+    "lrt_stations":1,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":110577.995
   },
   {
@@ -2659,6 +3382,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":6,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":61508.655
   },
   {
@@ -2670,17 +3396,23 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":6,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":62834.61
   },
   {
     "class":"Residential",
     "name":"Sandstone Valley",
     "sector":"North",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":1800389.705,
     "schools":2,
     "bikeways":3646.718,
     "bus_stops":3,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":175381.915
   },
   {
@@ -2692,28 +3424,37 @@
     "schools":1,
     "bikeways":2464.06,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":123028.564
   },
   {
     "class":"Residential",
     "name":"Scarboro\/Sunalta West",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":352695.297,
     "schools":0,
     "bikeways":484.452,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":72092.468
   },
   {
     "class":"Residential",
     "name":"Scenic Acres",
     "sector":"Northwest",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":4380853.442,
     "schools":3,
     "bikeways":8322.267,
     "bus_stops":0,
+    "lrt_stations":1,
+    "public_art":4,
+    "recreation_facilities":1,
     "tree_canopy_2022":460909.227
   },
   {
@@ -2725,6 +3466,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":5,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":42005.602
   },
   {
@@ -2736,39 +3480,51 @@
     "schools":1,
     "bikeways":0.0,
     "bus_stops":3,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":1,
     "tree_canopy_2022":30677.69
   },
   {
     "class":"Residential",
     "name":"Shaganappi",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1479726.371,
     "schools":1,
     "bikeways":4175.164,
     "bus_stops":10,
+    "lrt_stations":1,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":406477.559
   },
   {
     "class":"Residential",
     "name":"Shawnee Slopes",
     "sector":"South",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":1241541.883,
     "schools":0,
     "bikeways":286.672,
     "bus_stops":2,
+    "lrt_stations":1,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":125728.126
   },
   {
     "class":"Residential",
     "name":"Shawnessy",
     "sector":"South",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":3657527.417,
     "schools":4,
     "bikeways":2603.857,
     "bus_stops":17,
+    "lrt_stations":1,
+    "public_art":1,
+    "recreation_facilities":2,
     "tree_canopy_2022":300532.646
   },
   {
@@ -2780,39 +3536,51 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":16,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":68071.886
   },
   {
     "class":"Residential",
     "name":"Sherwood",
     "sector":"North",
-    "comm_structure":"2010S",
+    "comm_structure":"2010s",
     "area":2393329.173,
     "schools":1,
     "bikeways":0.0,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":43929.092
   },
   {
     "class":"Residential",
     "name":"Signal Hill",
     "sector":"West",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":5556776.123,
     "schools":1,
     "bikeways":7550.098,
     "bus_stops":32,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":2,
     "tree_canopy_2022":474050.072
   },
   {
     "class":"Residential",
     "name":"Silver Springs",
     "sector":"Northwest",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":4978769.067,
     "schools":3,
     "bikeways":8041.91,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":901326.746
   },
   {
@@ -2824,6 +3592,9 @@
     "schools":3,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":221061.906
   },
   {
@@ -2835,6 +3606,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":16599.303
   },
   {
@@ -2846,28 +3620,37 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":19664.208
   },
   {
     "class":"Residential",
     "name":"Skyview Ranch",
     "sector":"Northeast",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":2310111.495,
     "schools":2,
     "bikeways":0.0,
     "bus_stops":26,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":25031.875
   },
   {
     "class":"Residential",
     "name":"Somerset",
     "sector":"South",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":2344435.084,
     "schools":1,
     "bikeways":24.235,
     "bus_stops":2,
+    "lrt_stations":1,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":149363.89
   },
   {
@@ -2879,6 +3662,9 @@
     "schools":2,
     "bikeways":4089.915,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":67155.825
   },
   {
@@ -2890,6 +3676,9 @@
     "schools":1,
     "bikeways":1506.077,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":1,
     "tree_canopy_2022":128177.624
   },
   {
@@ -2901,28 +3690,37 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":66238.321
   },
   {
     "class":"Residential",
     "name":"Southview",
     "sector":"East",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1591748.24,
     "schools":1,
     "bikeways":1535.257,
     "bus_stops":4,
+    "lrt_stations":0,
+    "public_art":4,
+    "recreation_facilities":1,
     "tree_canopy_2022":224188.3
   },
   {
     "class":"Residential",
     "name":"Southwood",
     "sector":"South",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":2661115.17,
     "schools":4,
     "bikeways":3676.684,
     "bus_stops":20,
+    "lrt_stations":2,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":305620.317
   },
   {
@@ -2934,28 +3732,37 @@
     "schools":6,
     "bikeways":13.107,
     "bus_stops":3,
+    "lrt_stations":1,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":911201.433
   },
   {
     "class":"Residential",
     "name":"Spruce Cliff",
     "sector":"West",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1083297.95,
     "schools":2,
     "bikeways":1750.072,
     "bus_stops":3,
+    "lrt_stations":0,
+    "public_art":2,
+    "recreation_facilities":1,
     "tree_canopy_2022":342735.667
   },
   {
     "class":"Residential",
     "name":"St. Andrews Heights",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1160432.685,
     "schools":2,
     "bikeways":2704.423,
     "bus_stops":6,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":196534.578
   },
   {
@@ -2967,6 +3774,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":55782.737
   },
   {
@@ -2978,6 +3788,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":6751.166
   },
   {
@@ -2989,6 +3802,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":19222.281
   },
   {
@@ -3000,6 +3816,9 @@
     "schools":0,
     "bikeways":499.893,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":88233.004
   },
   {
@@ -3011,6 +3830,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":21931.724
   },
   {
@@ -3022,6 +3844,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":11511.717
   },
   {
@@ -3033,17 +3858,23 @@
     "schools":0,
     "bikeways":406.162,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":35895.677
   },
   {
     "class":"Residential",
     "name":"Strathcona Park",
     "sector":"West",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":2686853.137,
     "schools":3,
     "bikeways":5272.222,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":471742.949
   },
   {
@@ -3055,17 +3886,23 @@
     "schools":1,
     "bikeways":2980.194,
     "bus_stops":11,
+    "lrt_stations":1,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":105941.668
   },
   {
     "class":"Residential",
     "name":"Sundance",
     "sector":"South",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":4021272.772,
     "schools":6,
     "bikeways":6262.259,
     "bus_stops":9,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":394699.251
   },
   {
@@ -3077,6 +3914,9 @@
     "schools":1,
     "bikeways":4495.655,
     "bus_stops":7,
+    "lrt_stations":1,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":220522.121
   },
   {
@@ -3088,6 +3928,9 @@
     "schools":0,
     "bikeways":4722.911,
     "bus_stops":4,
+    "lrt_stations":1,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":60294.702
   },
   {
@@ -3099,50 +3942,65 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":2788.191
   },
   {
     "class":"Residential",
     "name":"Taradale",
     "sector":"Northeast",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":2843879.425,
     "schools":3,
     "bikeways":1336.379,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":76207.676
   },
   {
     "class":"Residential",
     "name":"Temple",
     "sector":"Northeast",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":2624813.473,
     "schools":4,
     "bikeways":4997.511,
     "bus_stops":3,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":253582.264
   },
   {
     "class":"Residential",
     "name":"Thorncliffe",
     "sector":"North",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":3270199.438,
     "schools":3,
     "bikeways":2130.112,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":489356.871
   },
   {
     "class":"Residential",
     "name":"Tuscany",
     "sector":"Northwest",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":6835440.425,
     "schools":4,
     "bikeways":9154.354,
     "bus_stops":0,
+    "lrt_stations":1,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":633722.475
   },
   {
@@ -3154,6 +4012,9 @@
     "schools":3,
     "bikeways":3063.96,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":199998.714
   },
   {
@@ -3165,6 +4026,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":6878.866
   },
   {
@@ -3176,17 +4040,23 @@
     "schools":2,
     "bikeways":18.301,
     "bus_stops":5,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":53515.171
   },
   {
     "class":"Residential",
     "name":"University Heights",
     "sector":"Northwest",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":817199.304,
     "schools":2,
     "bikeways":710.898,
     "bus_stops":2,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":198703.668
   },
   {
@@ -3198,6 +4068,9 @@
     "schools":0,
     "bikeways":56.848,
     "bus_stops":6,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":4,
     "tree_canopy_2022":252430.036
   },
   {
@@ -3209,17 +4082,23 @@
     "schools":2,
     "bikeways":2936.75,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":410124.242
   },
   {
     "class":"Residential",
     "name":"Valley Ridge",
     "sector":"West",
-    "comm_structure":"2000S",
+    "comm_structure":"2000s",
     "area":3317266.526,
     "schools":0,
     "bikeways":3619.812,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":649715.475
   },
   {
@@ -3231,28 +4110,37 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":32983.347
   },
   {
     "class":"Residential",
     "name":"Varsity",
     "sector":"Northwest",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":6848983.438,
     "schools":7,
     "bikeways":10420.503,
     "bus_stops":34,
+    "lrt_stations":1,
+    "public_art":1,
+    "recreation_facilities":1,
     "tree_canopy_2022":1314016.671
   },
   {
     "class":"Residential",
     "name":"Vista Heights",
     "sector":"Northeast",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":1140013.395,
     "schools":1,
     "bikeways":1147.322,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":68665.21
   },
   {
@@ -3264,6 +4152,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":89401.366
   },
   {
@@ -3275,6 +4166,9 @@
     "schools":2,
     "bikeways":6507.437,
     "bus_stops":13,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":2,
     "tree_canopy_2022":376307.48
   },
   {
@@ -3286,17 +4180,23 @@
     "schools":3,
     "bikeways":152.336,
     "bus_stops":7,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":479079.558
   },
   {
     "class":"Residential",
     "name":"Westgate",
     "sector":"West",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1150951.089,
     "schools":2,
     "bikeways":4202.224,
     "bus_stops":7,
+    "lrt_stations":1,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":193350.503
   },
   {
@@ -3308,61 +4208,79 @@
     "schools":2,
     "bikeways":1268.5,
     "bus_stops":14,
+    "lrt_stations":1,
+    "public_art":5,
+    "recreation_facilities":2,
     "tree_canopy_2022":53303.576
   },
   {
     "class":"Residential",
     "name":"Whitehorn",
     "sector":"Northeast",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":2645924.051,
     "schools":4,
     "bikeways":6516.422,
     "bus_stops":12,
+    "lrt_stations":1,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":288489.83
   },
   {
     "class":"Residential",
     "name":"Wildwood",
     "sector":"West",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":2566059.4,
     "schools":1,
     "bikeways":4159.286,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":971686.856
   },
   {
     "class":"Residential",
     "name":"Willow Park",
     "sector":"South",
-    "comm_structure":"1960S\/1970S",
+    "comm_structure":"1960s\/1970s",
     "area":3398343.173,
     "schools":3,
     "bikeways":6397.831,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":558896.312
   },
   {
     "class":"Residential",
     "name":"Windsor Park",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":1276229.129,
     "schools":1,
     "bikeways":856.641,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":1,
+    "recreation_facilities":0,
     "tree_canopy_2022":261155.328
   },
   {
     "class":"Residential",
     "name":"Winston Heights\/Mountview",
     "sector":"Centre",
-    "comm_structure":"1950S",
+    "comm_structure":"1950s",
     "area":3013799.549,
     "schools":2,
     "bikeways":2714.089,
     "bus_stops":1,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":2,
     "tree_canopy_2022":342620.274
   },
   {
@@ -3374,28 +4292,37 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":172644.576
   },
   {
     "class":"Residential",
     "name":"Woodbine",
     "sector":"South",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":3180403.92,
     "schools":2,
     "bikeways":767.864,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":1,
     "tree_canopy_2022":412154.877
   },
   {
     "class":"Residential",
     "name":"Woodlands",
     "sector":"South",
-    "comm_structure":"1980S\/1990S",
+    "comm_structure":"1980s\/1990s",
     "area":2800208.001,
     "schools":2,
     "bikeways":5463.068,
     "bus_stops":3,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":458679.25
   },
   {
@@ -3407,6 +4334,9 @@
     "schools":0,
     "bikeways":0.0,
     "bus_stops":0,
+    "lrt_stations":0,
+    "public_art":0,
+    "recreation_facilities":0,
     "tree_canopy_2022":9709.999
   }
 ]
