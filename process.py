@@ -11,6 +11,9 @@ from opendata import (
     get_bikeways,
     get_bus_stops,
     get_community_district_boundaries,
+    get_lrt_stations,
+    get_public_art,
+    get_recreation_facilities,
     get_school_locations,
     get_tree_canopy_2022,
 )
@@ -68,6 +71,39 @@ for g in tqdm(communities["multipolygon"], desc="Counting Number of Bus Stops"):
     counts.append(count)
 communities["bus_stops"] = counts
 
+
+# %%
+lrt_stations = get_lrt_stations()
+lrt_stations["the_geom"] = lrt_stations["the_geom"].apply(shape)
+counts = []
+for g in tqdm(communities["multipolygon"], desc="Counting Number of LRT Stations"):
+    count = lrt_stations["the_geom"].apply(g.contains).sum()
+    counts.append(count)
+communities["lrt_stations"] = counts
+
+
+# %%
+public_art = get_public_art()
+public_art["point"] = public_art["point"].apply(shape)
+counts = []
+for g in tqdm(communities["multipolygon"], desc="Counting Number of Public Art"):
+    count = public_art["point"].apply(g.contains).sum()
+    counts.append(count)
+communities["public_art"] = counts
+
+
+# %%
+recreation_facilities = get_recreation_facilities()
+recreation_facilities["point"] = recreation_facilities["point"].apply(shape)
+counts = []
+for g in tqdm(
+    communities["multipolygon"], desc="Counting Number of Recreation Facilities"
+):
+    count = recreation_facilities["point"].apply(g.contains).sum()
+    counts.append(count)
+communities["recreation_facilities"] = counts
+
+
 # %%
 tree_canopy = get_tree_canopy_2022()
 tree_canopy = tree_canopy[~tree_canopy["multipolygon"].isna()]
@@ -82,6 +118,7 @@ for g in tqdm(communities["multipolygon"], desc="Counting 2022 Tree Canopy Areas
     areas.append(area)
 communities["tree_canopy_2022"] = areas
 communities["tree_canopy_2022"] = communities["tree_canopy_2022"].round(3)
+
 
 # %%
 cols = [

@@ -56,3 +56,18 @@ def get_bus_stops(offset=25000, force=False):
 def get_tree_canopy_2022(offset=25000, force=False):
     df = download("mn2n-4z98", offset, force)
     return df
+
+
+def get_lrt_stations(offset=25000, force=False):
+    df = download("2axz-xm4q", offset, force)
+    return df
+
+
+def get_public_art(offset=25000, force=False):
+    df = download("2kp2-hsy7", offset, force)
+    return df
+
+
+def get_recreation_facilities(offset=25000, force=False):
+    df = download("hxfu-6d96", offset, force)
+    return df
