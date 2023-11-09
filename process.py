@@ -9,6 +9,7 @@ from opendata import (
     get_bus_stops,
     get_community_district_boundaries,
     get_lrt_stations,
+    get_off_leash_areas,
     get_public_art,
     get_recreation_facilities,
     get_school_locations,
@@ -46,10 +47,13 @@ recreation_facilities = get_recreation_facilities()
 tree_canopy = get_tree_canopy_2022()
 
 # %%
-tracks_lrt = get_tracks_lrt(force=True)
+tracks_lrt = get_tracks_lrt()
 
 # %%
-tracks_railway = get_tracks_railway(force=True)
+tracks_railway = get_tracks_railway()
+
+# %%
+off_leash_areas = get_off_leash_areas()
 
 # %%
 for src in [
@@ -62,6 +66,7 @@ for src in [
     tree_canopy,
     tracks_lrt,
     tracks_railway,
+    off_leash_areas,
 ]:
     communities = pd.merge(communities, src, on="name")
 

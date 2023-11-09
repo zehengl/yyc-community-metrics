@@ -278,3 +278,29 @@ def get_tracks_railway(offset=25000, force=False):
         communities=get_community_district_boundaries(),
     )
     return df
+
+
+def process_off_leash_areas(off_leash_areas, communities):
+    off_leash_areas["multipolygon"] = off_leash_areas["multipolygon"].apply(shape)
+    areas = []
+    for g in tqdm(communities["multipolygon"], desc="Counting 2022 Tree Canopy Areas"):
+        area = (
+            off_leash_areas["multipolygon"]
+            .apply(lambda r: transform(project, g.intersection(r)).area)
+            .sum()
+        )
+        areas.append(area)
+    communities["off_leash_areas"] = areas
+    communities["off_leash_areas"] = communities["off_leash_areas"].round(3)
+    return communities[["name", "off_leash_areas"]]
+
+
+def get_off_leash_areas(offset=25000, force=False):
+    df = download(
+        "enr4-crti",
+        offset,
+        force,
+        process_off_leash_areas,
+        communities=get_community_district_boundaries(),
+    )
+    return df
