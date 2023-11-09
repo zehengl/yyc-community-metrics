@@ -256,7 +256,7 @@ def process_tracks_railway(tracks_railway, communities):
     tracks_railway["the_geom"] = tracks_railway["the_geom"].apply(shape)
     lengths = []
     for g in tqdm(
-        communities["multipolygon"], desc="Counting Length of railway Tracks"
+        communities["multipolygon"], desc="Counting Length of Railway Tracks"
     ):
         length = (
             tracks_railway["the_geom"]
@@ -301,6 +301,32 @@ def get_off_leash_areas(offset=25000, force=False):
         offset,
         force,
         process_off_leash_areas,
+        communities=get_community_district_boundaries(),
+    )
+    return df
+
+
+def process_pathways(pathways, communities):
+    pathways["the_geom"] = pathways["the_geom"].apply(shape)
+    lengths = []
+    for g in tqdm(communities["multipolygon"], desc="Counting Length of Pathways"):
+        length = (
+            pathways["the_geom"]
+            .apply(lambda p: transform(project, g.intersection(p)).length)
+            .sum()
+        )
+        lengths.append(length)
+    communities["pathways"] = lengths
+    communities["pathways"] = communities["pathways"].round(3)
+    return communities[["name", "pathways"]]
+
+
+def get_pathways(offset=25000, force=False):
+    df = download(
+        "qndb-27qm",
+        offset,
+        force,
+        process_pathways,
         communities=get_community_district_boundaries(),
     )
     return df
