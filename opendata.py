@@ -66,7 +66,8 @@ def get_community_district_boundaries(offset=25000, force=False):
 def process_school_locations(schools, communities):
     schools["point"] = schools["point"].apply(shape)
     counts = []
-    for g in tqdm(communities["multipolygon"], desc="Counting Number of Schools"):
+    desc = "Counting Number of Schools"
+    for g in tqdm(communities["multipolygon"], desc=desc):
         count = schools["point"].apply(g.contains).sum()
         counts.append(count)
     communities["schools"] = counts
@@ -89,7 +90,8 @@ def process_bikeways(bikeways, communities):
     bikeways = bikeways[bikeways["status"] != "INACTIVE"]
     bikeways["multilinestring"] = bikeways["multilinestring"].apply(shape)
     lengths = []
-    for g in tqdm(communities["multipolygon"], desc="Counting Length of BikeWays"):
+    desc = "Counting Length of BikeWays"
+    for g in tqdm(communities["multipolygon"], desc=desc):
         length = (
             bikeways["multilinestring"]
             .apply(lambda p: transform(project, g.intersection(p)).length)
@@ -116,7 +118,8 @@ def process_bus_stops(bus_stops, communities):
     bus_stops = bus_stops[bus_stops["status"] != "ACTIVE"]
     bus_stops["point"] = bus_stops["point"].apply(shape)
     counts = []
-    for g in tqdm(communities["multipolygon"], desc="Counting Number of Bus Stops"):
+    desc = "Counting Number of Bus Stops"
+    for g in tqdm(communities["multipolygon"], desc=desc):
         count = bus_stops["point"].apply(g.contains).sum()
         counts.append(count)
     communities["bus_stops"] = counts
@@ -138,7 +141,8 @@ def process_tree_canopy_2022(tree_canopy, communities):
     tree_canopy = tree_canopy[~tree_canopy["multipolygon"].isna()]
     tree_canopy["multipolygon"] = tree_canopy["multipolygon"].apply(shape)
     areas = []
-    for g in tqdm(communities["multipolygon"], desc="Counting 2022 Tree Canopy Areas"):
+    desc = "Counting 2022 Tree Canopy Areas"
+    for g in tqdm(communities["multipolygon"], desc=desc):
         area = (
             tree_canopy["multipolygon"]
             .apply(lambda r: transform(project, g.intersection(r)).area)
@@ -164,7 +168,8 @@ def get_tree_canopy_2022(offset=25000, force=False):
 def process_lrt_stations(lrt_stations, communities):
     lrt_stations["the_geom"] = lrt_stations["the_geom"].apply(shape)
     counts = []
-    for g in tqdm(communities["multipolygon"], desc="Counting Number of LRT Stations"):
+    desc = "Counting Number of LRT Stations"
+    for g in tqdm(communities["multipolygon"], desc=desc):
         count = lrt_stations["the_geom"].apply(g.contains).sum()
         counts.append(count)
     communities["lrt_stations"] = counts
@@ -185,7 +190,8 @@ def get_lrt_stations(offset=25000, force=False):
 def process_public_art(public_art, communities):
     public_art["point"] = public_art["point"].apply(shape)
     counts = []
-    for g in tqdm(communities["multipolygon"], desc="Counting Number of Public Art"):
+    desc = "Counting Number of Public Art"
+    for g in tqdm(communities["multipolygon"], desc=desc):
         count = public_art["point"].apply(g.contains).sum()
         counts.append(count)
     communities["public_art"] = counts
@@ -206,9 +212,8 @@ def get_public_art(offset=25000, force=False):
 def process_recreation_facilities(recreation_facilities, communities):
     recreation_facilities["point"] = recreation_facilities["point"].apply(shape)
     counts = []
-    for g in tqdm(
-        communities["multipolygon"], desc="Counting Number of Recreation Facilities"
-    ):
+    desc = "Counting Number of Recreation Facilities"
+    for g in tqdm(communities["multipolygon"], desc=desc):
         count = recreation_facilities["point"].apply(g.contains).sum()
         counts.append(count)
     communities["recreation_facilities"] = counts
@@ -229,7 +234,8 @@ def get_recreation_facilities(offset=25000, force=False):
 def process_tracks_lrt(tracks_lrt, communities):
     tracks_lrt["the_geom"] = tracks_lrt["the_geom"].apply(shape)
     lengths = []
-    for g in tqdm(communities["multipolygon"], desc="Counting Length of LRT Tracks"):
+    desc = "Counting Length of LRT Tracks"
+    for g in tqdm(communities["multipolygon"], desc=desc):
         length = (
             tracks_lrt["the_geom"]
             .apply(lambda p: transform(project, g.intersection(p)).length)
@@ -255,9 +261,8 @@ def get_tracks_lrt(offset=25000, force=False):
 def process_tracks_railway(tracks_railway, communities):
     tracks_railway["the_geom"] = tracks_railway["the_geom"].apply(shape)
     lengths = []
-    for g in tqdm(
-        communities["multipolygon"], desc="Counting Length of Railway Tracks"
-    ):
+    desc = "Counting Length of Railway Tracks"
+    for g in tqdm(communities["multipolygon"], desc=desc):
         length = (
             tracks_railway["the_geom"]
             .apply(lambda p: transform(project, g.intersection(p)).length)
@@ -283,7 +288,8 @@ def get_tracks_railway(offset=25000, force=False):
 def process_off_leash_areas(off_leash_areas, communities):
     off_leash_areas["multipolygon"] = off_leash_areas["multipolygon"].apply(shape)
     areas = []
-    for g in tqdm(communities["multipolygon"], desc="Counting 2022 Tree Canopy Areas"):
+    desc = "Counting 2022 Tree Canopy Areas"
+    for g in tqdm(communities["multipolygon"], desc=desc):
         area = (
             off_leash_areas["multipolygon"]
             .apply(lambda r: transform(project, g.intersection(r)).area)
@@ -309,7 +315,8 @@ def get_off_leash_areas(offset=25000, force=False):
 def process_pathways(pathways, communities):
     pathways["the_geom"] = pathways["the_geom"].apply(shape)
     lengths = []
-    for g in tqdm(communities["multipolygon"], desc="Counting Length of Pathways"):
+    desc = "Counting Length of Pathways"
+    for g in tqdm(communities["multipolygon"], desc=desc):
         length = (
             pathways["the_geom"]
             .apply(lambda p: transform(project, g.intersection(p)).length)
@@ -327,6 +334,46 @@ def get_pathways(offset=25000, force=False):
         offset,
         force,
         process_pathways,
+        communities=get_community_district_boundaries(),
+    )
+    return df
+
+
+def process_community_services(community_services, communities):
+    community_services["point"] = community_services["point"].apply(shape)
+    libraries, hospitals_and_clinics, attractions = [], [], []
+    desc = "Counting Number of Community Services"
+    for g in tqdm(communities["multipolygon"], desc=desc):
+        libraries.append(
+            community_services[community_services["type"] == "Library"]["point"]
+            .apply(g.contains)
+            .sum()
+        )
+        hospitals_and_clinics.append(
+            community_services[
+                community_services["type"].isin(["PHS Clinic", "Hospital"])
+            ]["point"]
+            .apply(g.contains)
+            .sum()
+        )
+        attractions.append(
+            community_services[community_services["type"] == "Attraction"]["point"]
+            .apply(g.contains)
+            .sum()
+        )
+    communities["libraries"] = libraries
+    communities["hospitals_and_clinics"] = hospitals_and_clinics
+    communities["attractions"] = attractions
+
+    return communities[["name", "libraries", "hospitals_and_clinics", "attractions"]]
+
+
+def get_community_services(offset=25000, force=False):
+    df = download(
+        "x34e-bcjz",
+        offset,
+        force,
+        process_community_services,
         communities=get_community_district_boundaries(),
     )
     return df

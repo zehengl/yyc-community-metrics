@@ -8,6 +8,7 @@ from opendata import (
     get_bikeways,
     get_bus_stops,
     get_community_district_boundaries,
+    get_community_services,
     get_lrt_stations,
     get_off_leash_areas,
     get_pathways,
@@ -60,6 +61,9 @@ off_leash_areas = get_off_leash_areas()
 pathways = get_pathways()
 
 # %%
+community_services = get_community_services()
+
+# %%
 for src in [
     schools,
     bikeways,
@@ -72,6 +76,7 @@ for src in [
     tracks_railway,
     off_leash_areas,
     pathways,
+    community_services,
 ]:
     communities = pd.merge(communities, src, on="name")
 
