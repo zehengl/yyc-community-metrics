@@ -15,7 +15,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":21860.841,
     "off_leash_areas":0.0,
-    "pathways":1693.355
+    "pathways":1693.355,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -33,7 +36,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":143.593
+    "pathways":143.593,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -51,7 +57,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -69,7 +78,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":192.67
+    "pathways":192.67,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -87,7 +99,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -105,7 +120,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":4467.77
+    "pathways":4467.77,
+    "libraries":1,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -123,7 +141,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -141,7 +162,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -159,7 +183,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -177,7 +204,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":2382.853
+    "pathways":2382.853,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -195,7 +225,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -213,7 +246,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -231,7 +267,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":7211.945,
     "off_leash_areas":0.0,
-    "pathways":198.022
+    "pathways":198.022,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -249,7 +288,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -267,7 +309,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -285,7 +330,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -303,7 +351,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -321,7 +372,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -339,7 +393,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -357,7 +414,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -375,7 +435,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":5913.856,
     "off_leash_areas":0.0,
-    "pathways":2117.056
+    "pathways":2117.056,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -393,7 +456,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":5698.455,
     "off_leash_areas":0.0,
-    "pathways":3558.216
+    "pathways":3558.216,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -411,7 +477,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":1819.586,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -429,7 +498,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -447,7 +519,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":59325.542,
-    "pathways":7296.548
+    "pathways":7296.548,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -465,7 +540,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -483,7 +561,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -501,7 +582,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":7003.517,
     "off_leash_areas":0.0,
-    "pathways":2205.959
+    "pathways":2205.959,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -519,7 +603,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":3408.622,
     "off_leash_areas":0.0,
-    "pathways":2417.424
+    "pathways":2417.424,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -537,7 +624,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -555,7 +645,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -573,7 +666,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -591,7 +687,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":1660.838
+    "pathways":1660.838,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -609,7 +708,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -627,7 +729,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -645,7 +750,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -663,7 +771,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -681,7 +792,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -699,7 +813,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":246.341
+    "pathways":246.341,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -717,7 +834,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -735,7 +855,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":272.14
+    "pathways":272.14,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -753,7 +876,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residual Sub Area",
@@ -771,7 +897,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":3322.671,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -789,7 +918,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":3125.213
+    "pathways":3125.213,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -807,7 +939,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":107940.822,
-    "pathways":3154.044
+    "pathways":3154.044,
+    "libraries":0,
+    "hospitals_and_clinics":1,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -825,7 +960,10 @@
     "tracks_lrt":5645.724,
     "tracks_railway":0.0,
     "off_leash_areas":102291.058,
-    "pathways":7078.946
+    "pathways":7078.946,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -843,7 +981,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":1793.908
+    "pathways":1793.908,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -861,7 +1002,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":154720.011,
-    "pathways":1335.414
+    "pathways":1335.414,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -879,7 +1023,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":246858.847,
     "off_leash_areas":0.0,
-    "pathways":2934.903
+    "pathways":2934.903,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":1
   },
   {
     "class":"Residential",
@@ -897,7 +1044,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":820.934
+    "pathways":820.934,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -915,7 +1065,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":3050.709,
     "off_leash_areas":0.0,
-    "pathways":5149.154
+    "pathways":5149.154,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -933,7 +1086,10 @@
     "tracks_lrt":3594.621,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":12536.441
+    "pathways":12536.441,
+    "libraries":1,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -951,7 +1107,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":8998.551
+    "pathways":8998.551,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -969,7 +1128,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":85428.659,
-    "pathways":7508.854
+    "pathways":7508.854,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -987,7 +1149,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":24814.107,
-    "pathways":6409.538
+    "pathways":6409.538,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1005,7 +1170,10 @@
     "tracks_lrt":8605.605,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":1593.848
+    "pathways":1593.848,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1023,7 +1191,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":7777.754,
-    "pathways":955.804
+    "pathways":955.804,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1041,7 +1212,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":822.701
+    "pathways":822.701,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1059,7 +1233,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":10.611,
     "off_leash_areas":45591.029,
-    "pathways":4079.8
+    "pathways":4079.8,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1077,7 +1254,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":10.452
+    "pathways":10.452,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1095,7 +1275,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":2724.071,
     "off_leash_areas":0.0,
-    "pathways":8006.343
+    "pathways":8006.343,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1113,7 +1296,10 @@
     "tracks_lrt":5507.068,
     "tracks_railway":16475.915,
     "off_leash_areas":1132.805,
-    "pathways":608.885
+    "pathways":608.885,
+    "libraries":1,
+    "hospitals_and_clinics":1,
+    "attractions":2
   },
   {
     "class":"Residential",
@@ -1131,7 +1317,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":2457.074
+    "pathways":2457.074,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1149,7 +1338,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":113288.385,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1167,7 +1359,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":7444.225,
     "off_leash_areas":0.0,
-    "pathways":9011.33
+    "pathways":9011.33,
+    "libraries":1,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1185,7 +1380,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":49541.172,
-    "pathways":309.757
+    "pathways":309.757,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1203,7 +1401,10 @@
     "tracks_lrt":5406.141,
     "tracks_railway":0.0,
     "off_leash_areas":25675.364,
-    "pathways":2460.086
+    "pathways":2460.086,
+    "libraries":1,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1221,7 +1422,10 @@
     "tracks_lrt":10363.019,
     "tracks_railway":3659.946,
     "off_leash_areas":195080.486,
-    "pathways":10842.65
+    "pathways":10842.65,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":1
   },
   {
     "class":"Residential",
@@ -1239,7 +1443,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":5444.173
+    "pathways":5444.173,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1257,7 +1464,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":15088.198,
-    "pathways":115.222
+    "pathways":115.222,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -1275,7 +1485,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":3884.133,
     "off_leash_areas":0.0,
-    "pathways":2895.432
+    "pathways":2895.432,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -1293,7 +1506,10 @@
     "tracks_lrt":2185.982,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":7709.064
+    "pathways":7709.064,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1311,7 +1527,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":27475.115,
-    "pathways":392.29
+    "pathways":392.29,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Major Park",
@@ -1329,7 +1548,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":374.207
+    "pathways":374.207,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":2
   },
   {
     "class":"Residential",
@@ -1347,7 +1569,10 @@
     "tracks_lrt":11999.526,
     "tracks_railway":4371.077,
     "off_leash_areas":11965.268,
-    "pathways":4479.367
+    "pathways":4479.367,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1365,7 +1590,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":3027.63
+    "pathways":3027.63,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1383,7 +1611,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":8036.48
+    "pathways":8036.48,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1401,7 +1632,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":49.588
+    "pathways":49.588,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1419,7 +1653,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":56015.282,
-    "pathways":2792.819
+    "pathways":2792.819,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1437,7 +1674,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":12915.061
+    "pathways":12915.061,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1455,7 +1695,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":90167.269,
-    "pathways":4265.505
+    "pathways":4265.505,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1473,7 +1716,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":2567.798
+    "pathways":2567.798,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":2
   },
   {
     "class":"Residential",
@@ -1491,7 +1737,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1509,7 +1758,10 @@
     "tracks_lrt":6660.021,
     "tracks_railway":0.0,
     "off_leash_areas":794.823,
-    "pathways":4127.779
+    "pathways":4127.779,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1527,7 +1779,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":6629.634
+    "pathways":6629.634,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1545,7 +1800,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":6446.04
+    "pathways":6446.04,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1563,7 +1821,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":15635.57,
-    "pathways":258.011
+    "pathways":258.011,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1581,7 +1842,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":22290.536,
-    "pathways":1580.237
+    "pathways":1580.237,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1599,7 +1863,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":102031.722,
-    "pathways":3019.47
+    "pathways":3019.47,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1617,7 +1884,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":13048.713
+    "pathways":13048.713,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1635,7 +1905,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":27922.46,
-    "pathways":5330.463
+    "pathways":5330.463,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1653,7 +1926,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":7644.337
+    "pathways":7644.337,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1671,7 +1947,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":5586.764
+    "pathways":5586.764,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1689,7 +1968,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":3198.914,
-    "pathways":6855.956
+    "pathways":6855.956,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1707,7 +1989,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":2948.168
+    "pathways":2948.168,
+    "libraries":1,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1725,7 +2010,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":8148.364
+    "pathways":8148.364,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1743,7 +2031,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":24359.889
+    "pathways":24359.889,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1761,7 +2052,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":32560.172,
-    "pathways":2334.743
+    "pathways":2334.743,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1779,7 +2073,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":5903.812
+    "pathways":5903.812,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1797,7 +2094,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":1003.456
+    "pathways":1003.456,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1815,7 +2115,10 @@
     "tracks_lrt":5974.29,
     "tracks_railway":0.0,
     "off_leash_areas":79770.535,
-    "pathways":5164.684
+    "pathways":5164.684,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1833,7 +2136,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":151246.133,
-    "pathways":910.496
+    "pathways":910.496,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1851,7 +2157,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":24454.976,
-    "pathways":1110.118
+    "pathways":1110.118,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -1869,7 +2178,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":512.005
+    "pathways":512.005,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1887,7 +2199,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":18807.308,
-    "pathways":2241.91
+    "pathways":2241.91,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1905,7 +2220,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":9562.275
+    "pathways":9562.275,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1923,7 +2241,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":19149.242
+    "pathways":19149.242,
+    "libraries":1,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1941,7 +2262,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":2384.367,
     "off_leash_areas":106675.713,
-    "pathways":6299.483
+    "pathways":6299.483,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -1959,7 +2283,10 @@
     "tracks_lrt":10496.161,
     "tracks_railway":7116.51,
     "off_leash_areas":0.0,
-    "pathways":110.794
+    "pathways":110.794,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":10
   },
   {
     "class":"Residential",
@@ -1977,7 +2304,10 @@
     "tracks_lrt":3459.976,
     "tracks_railway":3395.429,
     "off_leash_areas":1254.848,
-    "pathways":2291.84
+    "pathways":2291.84,
+    "libraries":1,
+    "hospitals_and_clinics":0,
+    "attractions":2
   },
   {
     "class":"Residential",
@@ -1995,7 +2325,10 @@
     "tracks_lrt":4417.701,
     "tracks_railway":3089.995,
     "off_leash_areas":0.0,
-    "pathways":1902.612
+    "pathways":1902.612,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":2
   },
   {
     "class":"Residential",
@@ -2013,7 +2346,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":210.916
+    "pathways":210.916,
+    "libraries":0,
+    "hospitals_and_clinics":1,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -2031,7 +2367,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":3494.702
+    "pathways":3494.702,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -2049,7 +2388,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":71705.379,
     "off_leash_areas":0.0,
-    "pathways":16079.078
+    "pathways":16079.078,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -2067,7 +2409,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":1045.755,
     "off_leash_areas":0.0,
-    "pathways":1911.289
+    "pathways":1911.289,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2085,7 +2430,10 @@
     "tracks_lrt":237.834,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":3933.316
+    "pathways":3933.316,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":2
   },
   {
     "class":"Residential",
@@ -2103,7 +2451,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":854701.784,
-    "pathways":17807.963
+    "pathways":17807.963,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2121,7 +2472,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":40806.658,
-    "pathways":2953.163
+    "pathways":2953.163,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2139,7 +2493,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":16838.834,
-    "pathways":780.861
+    "pathways":780.861,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2157,7 +2514,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":1636.849,
     "off_leash_areas":0.0,
-    "pathways":2200.564
+    "pathways":2200.564,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2175,7 +2535,10 @@
     "tracks_lrt":891.171,
     "tracks_railway":0.0,
     "off_leash_areas":9902.965,
-    "pathways":3333.767
+    "pathways":3333.767,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2193,7 +2556,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":14545.101,
-    "pathways":13384.862
+    "pathways":13384.862,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2211,7 +2577,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":15900.422
+    "pathways":15900.422,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2229,7 +2598,10 @@
     "tracks_lrt":314.29,
     "tracks_railway":194.34,
     "off_leash_areas":35335.103,
-    "pathways":440.674
+    "pathways":440.674,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -2247,7 +2619,10 @@
     "tracks_lrt":5401.297,
     "tracks_railway":2859.462,
     "off_leash_areas":49.046,
-    "pathways":491.088
+    "pathways":491.088,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2265,7 +2640,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":51202.149,
-    "pathways":2378.667
+    "pathways":2378.667,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Major Park",
@@ -2283,7 +2661,10 @@
     "tracks_lrt":3128.623,
     "tracks_railway":1322.387,
     "off_leash_areas":242.821,
-    "pathways":57223.279
+    "pathways":57223.279,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":2
   },
   {
     "class":"Industrial",
@@ -2301,7 +2682,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":135289.444,
     "off_leash_areas":0.0,
-    "pathways":3718.342
+    "pathways":3718.342,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2319,7 +2703,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":1346.933
+    "pathways":1346.933,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2337,7 +2724,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":838.736
+    "pathways":838.736,
+    "libraries":1,
+    "hospitals_and_clinics":1,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -2355,7 +2745,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":3166.582,
     "off_leash_areas":0.0,
-    "pathways":1316.679
+    "pathways":1316.679,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -2373,7 +2766,10 @@
     "tracks_lrt":5973.828,
     "tracks_railway":548.46,
     "off_leash_areas":0.0,
-    "pathways":438.044
+    "pathways":438.044,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2391,7 +2787,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":979.21
+    "pathways":979.21,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2409,7 +2808,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":1746.284
+    "pathways":1746.284,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":1
   },
   {
     "class":"Residential",
@@ -2427,7 +2829,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":699.266
+    "pathways":699.266,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2445,7 +2850,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":13023.23,
-    "pathways":1463.967
+    "pathways":1463.967,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2463,7 +2871,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":27038.979,
-    "pathways":323.938
+    "pathways":323.938,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2481,7 +2892,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":645.488
+    "pathways":645.488,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -2499,7 +2913,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Major Park",
@@ -2517,7 +2934,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":9118.083,
     "off_leash_areas":0.0,
-    "pathways":26770.146
+    "pathways":26770.146,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":1
   },
   {
     "class":"Industrial",
@@ -2535,7 +2955,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":1481.983,
     "off_leash_areas":0.0,
-    "pathways":152.133
+    "pathways":152.133,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -2553,7 +2976,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -2571,7 +2997,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2589,7 +3018,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":9372.875,
-    "pathways":301.828
+    "pathways":301.828,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -2607,7 +3039,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":4405.682,
     "off_leash_areas":0.0,
-    "pathways":2493.717
+    "pathways":2493.717,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2625,7 +3060,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":2759.353
+    "pathways":2759.353,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2643,7 +3081,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":5837.507
+    "pathways":5837.507,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2661,7 +3102,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":5872.977
+    "pathways":5872.977,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2679,7 +3123,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":23293.568,
     "off_leash_areas":0.0,
-    "pathways":812.029
+    "pathways":812.029,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2697,7 +3144,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":160242.628,
-    "pathways":4545.498
+    "pathways":4545.498,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2715,7 +3165,10 @@
     "tracks_lrt":9657.49,
     "tracks_railway":3916.43,
     "off_leash_areas":37214.907,
-    "pathways":1524.636
+    "pathways":1524.636,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2733,7 +3186,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":78311.47,
-    "pathways":12210.916
+    "pathways":12210.916,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -2751,7 +3207,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":14705.01,
     "off_leash_areas":0.0,
-    "pathways":1227.221
+    "pathways":1227.221,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":1
   },
   {
     "class":"Residential",
@@ -2769,7 +3228,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":31510.969,
-    "pathways":1390.411
+    "pathways":1390.411,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2787,7 +3249,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":959.005
+    "pathways":959.005,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2805,7 +3270,10 @@
     "tracks_lrt":3046.311,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":3609.343
+    "pathways":3609.343,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":1
   },
   {
     "class":"Residential",
@@ -2823,7 +3291,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":1086.97
+    "pathways":1086.97,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -2841,7 +3312,10 @@
     "tracks_lrt":2642.451,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":5084.797
+    "pathways":5084.797,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2859,7 +3333,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2877,7 +3354,10 @@
     "tracks_lrt":4330.349,
     "tracks_railway":0.0,
     "off_leash_areas":30085.507,
-    "pathways":1714.998
+    "pathways":1714.998,
+    "libraries":1,
+    "hospitals_and_clinics":1,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2895,7 +3375,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":3422.923,
     "off_leash_areas":234713.432,
-    "pathways":8766.871
+    "pathways":8766.871,
+    "libraries":1,
+    "hospitals_and_clinics":1,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2913,7 +3396,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":13239.348,
     "off_leash_areas":28318.762,
-    "pathways":7982.166
+    "pathways":7982.166,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":2
   },
   {
     "class":"Residential",
@@ -2931,7 +3417,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2949,7 +3438,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":923.055
+    "pathways":923.055,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2967,7 +3459,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":1475.003,
-    "pathways":1164.922
+    "pathways":1164.922,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -2985,7 +3480,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":7384.879
+    "pathways":7384.879,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3003,7 +3501,10 @@
     "tracks_lrt":1532.091,
     "tracks_railway":706.941,
     "off_leash_areas":6220.832,
-    "pathways":995.385
+    "pathways":995.385,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3021,7 +3522,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":194644.832,
-    "pathways":766.827
+    "pathways":766.827,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3039,7 +3543,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":90101.226,
-    "pathways":583.812
+    "pathways":583.812,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3057,7 +3564,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":10317.344
+    "pathways":10317.344,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3075,7 +3585,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":886.043
+    "pathways":886.043,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3093,7 +3606,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":3448.161
+    "pathways":3448.161,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3111,7 +3627,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":9113.189
+    "pathways":9113.189,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3129,7 +3648,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":34.966
+    "pathways":34.966,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3147,7 +3669,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":3088.422
+    "pathways":3088.422,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3165,7 +3690,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":17567.842
+    "pathways":17567.842,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3183,7 +3711,10 @@
     "tracks_lrt":6985.445,
     "tracks_railway":1769.567,
     "off_leash_areas":0.0,
-    "pathways":12.237
+    "pathways":12.237,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -3201,7 +3732,10 @@
     "tracks_lrt":11481.565,
     "tracks_railway":28536.256,
     "off_leash_areas":0.0,
-    "pathways":1671.477
+    "pathways":1671.477,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3219,7 +3753,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":195619.988,
-    "pathways":2176.846
+    "pathways":2176.846,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3237,7 +3774,10 @@
     "tracks_lrt":3241.822,
     "tracks_railway":0.0,
     "off_leash_areas":43446.767,
-    "pathways":799.145
+    "pathways":799.145,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3255,7 +3795,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":29906.021,
-    "pathways":2650.958
+    "pathways":2650.958,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3273,7 +3816,10 @@
     "tracks_lrt":9973.094,
     "tracks_railway":0.0,
     "off_leash_areas":17430.55,
-    "pathways":3998.805
+    "pathways":3998.805,
+    "libraries":1,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3291,7 +3837,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":834.743
+    "pathways":834.743,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -3309,7 +3858,10 @@
     "tracks_lrt":2480.767,
     "tracks_railway":9737.42,
     "off_leash_areas":0.606,
-    "pathways":288.604
+    "pathways":288.604,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3327,7 +3879,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":22386.136,
-    "pathways":222.759
+    "pathways":222.759,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -3345,7 +3900,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":59788.477,
-    "pathways":1728.102
+    "pathways":1728.102,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3363,7 +3921,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":13087.504
+    "pathways":13087.504,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3381,7 +3942,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":11890.457
+    "pathways":11890.457,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3399,7 +3963,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":776.642
+    "pathways":776.642,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3417,7 +3984,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":2942.068
+    "pathways":2942.068,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -3435,7 +4005,10 @@
     "tracks_lrt":1875.401,
     "tracks_railway":5061.054,
     "off_leash_areas":0.0,
-    "pathways":2555.663
+    "pathways":2555.663,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3453,7 +4026,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":3334.569
+    "pathways":3334.569,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3471,7 +4047,10 @@
     "tracks_lrt":4076.673,
     "tracks_railway":2030.962,
     "off_leash_areas":0.0,
-    "pathways":3788.256
+    "pathways":3788.256,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3489,7 +4068,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":67.424,
-    "pathways":365.199
+    "pathways":365.199,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3507,7 +4089,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":11987.924
+    "pathways":11987.924,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3525,7 +4110,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":129388.738,
-    "pathways":8169.867
+    "pathways":8169.867,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3543,7 +4131,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":2298.724,
-    "pathways":2566.764
+    "pathways":2566.764,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3561,7 +4152,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":10762.777
+    "pathways":10762.777,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3579,7 +4173,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":8536.943
+    "pathways":8536.943,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -3597,7 +4194,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":1535.936
+    "pathways":1535.936,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3615,7 +4215,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":1360.575
+    "pathways":1360.575,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3633,7 +4236,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":40494.061,
-    "pathways":1270.684
+    "pathways":1270.684,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3651,7 +4257,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":19182.346,
-    "pathways":815.552
+    "pathways":815.552,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Major Park",
@@ -3669,7 +4278,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":3559898.116,
-    "pathways":7781.671
+    "pathways":7781.671,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3687,7 +4299,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":118250.121,
-    "pathways":7235.636
+    "pathways":7235.636,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3705,7 +4320,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":3279.733,
     "off_leash_areas":110653.987,
-    "pathways":6917.132
+    "pathways":6917.132,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -3723,7 +4341,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":68726.863,
     "off_leash_areas":0.0,
-    "pathways":4437.11
+    "pathways":4437.11,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3741,7 +4362,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3759,7 +4383,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":610.999
+    "pathways":610.999,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3777,7 +4404,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":20324.577
+    "pathways":20324.577,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3795,7 +4425,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":15.646,
-    "pathways":3098.681
+    "pathways":3098.681,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3813,7 +4446,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":2185.257,
-    "pathways":1718.847
+    "pathways":1718.847,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3831,7 +4467,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":158225.737,
-    "pathways":223.128
+    "pathways":223.128,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3849,7 +4488,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":4313.953
+    "pathways":4313.953,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -3867,7 +4509,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":24.381
+    "pathways":24.381,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":1
   },
   {
     "class":"Residential",
@@ -3885,7 +4530,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":3169.19,
     "off_leash_areas":0.0,
-    "pathways":2333.834
+    "pathways":2333.834,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3903,7 +4551,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":3010.587
+    "pathways":3010.587,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3921,7 +4572,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":28798.597,
-    "pathways":2966.06
+    "pathways":2966.06,
+    "libraries":1,
+    "hospitals_and_clinics":1,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3939,7 +4593,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":1906.001
+    "pathways":1906.001,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3957,7 +4614,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":4548.323,
-    "pathways":1269.148
+    "pathways":1269.148,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3975,7 +4635,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":23632.844,
-    "pathways":721.187
+    "pathways":721.187,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -3993,7 +4656,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":146646.983,
-    "pathways":48.938
+    "pathways":48.938,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4011,7 +4677,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":2224.576,
     "off_leash_areas":11309.773,
-    "pathways":2850.883
+    "pathways":2850.883,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4029,7 +4698,10 @@
     "tracks_lrt":4226.948,
     "tracks_railway":0.0,
     "off_leash_areas":133316.445,
-    "pathways":4745.994
+    "pathways":4745.994,
+    "libraries":0,
+    "hospitals_and_clinics":1,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4047,7 +4719,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":1832.804
+    "pathways":1832.804,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4065,7 +4740,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4083,7 +4761,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":4745.933
+    "pathways":4745.933,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4101,7 +4782,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":7971.959,
     "off_leash_areas":354061.505,
-    "pathways":4598.54
+    "pathways":4598.54,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":1
   },
   {
     "class":"Residential",
@@ -4119,7 +4803,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":3844.345,
-    "pathways":1632.758
+    "pathways":1632.758,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4137,7 +4824,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":851.417
+    "pathways":851.417,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4155,7 +4845,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":15515.617,
-    "pathways":13214.078
+    "pathways":13214.078,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4173,7 +4866,10 @@
     "tracks_lrt":900.458,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":13113.049
+    "pathways":13113.049,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4191,7 +4887,10 @@
     "tracks_lrt":791.006,
     "tracks_railway":0.0,
     "off_leash_areas":65168.202,
-    "pathways":258.485
+    "pathways":258.485,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4209,7 +4908,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":224.01
+    "pathways":224.01,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4227,7 +4929,10 @@
     "tracks_lrt":6266.119,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":1518.59
+    "pathways":1518.59,
+    "libraries":1,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4245,7 +4950,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":87689.618,
-    "pathways":24.899
+    "pathways":24.899,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4263,7 +4971,10 @@
     "tracks_lrt":1405.697,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":11090.553
+    "pathways":11090.553,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -4281,7 +4992,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":2125.246
+    "pathways":2125.246,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4299,7 +5013,10 @@
     "tracks_lrt":3451.711,
     "tracks_railway":0.0,
     "off_leash_areas":16308.379,
-    "pathways":4710.861
+    "pathways":4710.861,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4317,7 +5034,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":20.695
+    "pathways":20.695,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4335,7 +5055,10 @@
     "tracks_lrt":1990.234,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":17753.809
+    "pathways":17753.809,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -4353,7 +5076,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":5144.888
+    "pathways":5144.888,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4371,7 +5097,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":11441.659
+    "pathways":11441.659,
+    "libraries":1,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4389,7 +5118,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":36183.238,
-    "pathways":2856.285
+    "pathways":2856.285,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4407,7 +5139,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":14785.007,
-    "pathways":31.857
+    "pathways":31.857,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4425,7 +5160,10 @@
     "tracks_lrt":1887.144,
     "tracks_railway":563.856,
     "off_leash_areas":28505.476,
-    "pathways":742.631
+    "pathways":742.631,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4443,7 +5181,10 @@
     "tracks_lrt":5904.984,
     "tracks_railway":5217.445,
     "off_leash_areas":77927.492,
-    "pathways":13739.218
+    "pathways":13739.218,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -4461,7 +5202,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":178.96,
     "off_leash_areas":0.0,
-    "pathways":4084.393
+    "pathways":4084.393,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4479,7 +5223,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":8047.893
+    "pathways":8047.893,
+    "libraries":1,
+    "hospitals_and_clinics":1,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4497,7 +5244,10 @@
     "tracks_lrt":5439.992,
     "tracks_railway":2039.655,
     "off_leash_areas":130651.158,
-    "pathways":2537.547
+    "pathways":2537.547,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4515,7 +5265,10 @@
     "tracks_lrt":2598.453,
     "tracks_railway":1345.77,
     "off_leash_areas":0.0,
-    "pathways":3020.092
+    "pathways":3020.092,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4533,7 +5286,10 @@
     "tracks_lrt":4517.335,
     "tracks_railway":4100.099,
     "off_leash_areas":0.0,
-    "pathways":8743.497
+    "pathways":8743.497,
+    "libraries":1,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -4551,7 +5307,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":15516.891,
     "off_leash_areas":0.0,
-    "pathways":1528.853
+    "pathways":1528.853,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4569,7 +5328,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":8251.7
+    "pathways":8251.7,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4587,7 +5349,10 @@
     "tracks_lrt":1157.959,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":17165.98
+    "pathways":17165.98,
+    "libraries":1,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4605,7 +5370,10 @@
     "tracks_lrt":4226.838,
     "tracks_railway":1765.517,
     "off_leash_areas":362590.489,
-    "pathways":9714.151
+    "pathways":9714.151,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4623,7 +5391,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":5396.887,
     "off_leash_areas":0.0,
-    "pathways":12953.694
+    "pathways":12953.694,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -4641,7 +5412,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -4659,7 +5433,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":5149.987,
     "off_leash_areas":9512.409,
-    "pathways":1320.138
+    "pathways":1320.138,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4677,7 +5454,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":5458.054
+    "pathways":5458.054,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4695,7 +5475,10 @@
     "tracks_lrt":3703.588,
     "tracks_railway":761.107,
     "off_leash_areas":0.0,
-    "pathways":8094.521
+    "pathways":8094.521,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -4713,7 +5496,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":931.958
+    "pathways":931.958,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4731,7 +5517,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":76.063
+    "pathways":76.063,
+    "libraries":1,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -4749,7 +5538,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":9309.143,
     "off_leash_areas":0.0,
-    "pathways":9570.946
+    "pathways":9570.946,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4767,7 +5559,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":91971.691,
-    "pathways":3533.003
+    "pathways":3533.003,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4785,7 +5580,10 @@
     "tracks_lrt":11214.388,
     "tracks_railway":3445.0,
     "off_leash_areas":63608.325,
-    "pathways":3299.739
+    "pathways":3299.739,
+    "libraries":1,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4803,7 +5601,10 @@
     "tracks_lrt":1456.765,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":11756.466
+    "pathways":11756.466,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4821,7 +5622,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":1984.994,
     "off_leash_areas":76626.497,
-    "pathways":1882.641
+    "pathways":1882.641,
+    "libraries":0,
+    "hospitals_and_clinics":1,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4839,7 +5643,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":85828.06,
-    "pathways":2665.856
+    "pathways":2665.856,
+    "libraries":0,
+    "hospitals_and_clinics":1,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -4857,7 +5664,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":7528.729,
     "off_leash_areas":0.0,
-    "pathways":1391.058
+    "pathways":1391.058,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -4875,7 +5685,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":1452.372,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -4893,7 +5706,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":5103.28
+    "pathways":5103.28,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -4911,7 +5727,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":22425.434,
     "off_leash_areas":0.0,
-    "pathways":6986.562
+    "pathways":6986.562,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -4929,7 +5748,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":5726.537
+    "pathways":5726.537,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -4947,7 +5769,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":2004.19
+    "pathways":2004.19,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -4965,7 +5790,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":2734.661,
     "off_leash_areas":0.0,
-    "pathways":1020.968
+    "pathways":1020.968,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -4983,7 +5811,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":104156.107,
-    "pathways":10823.335
+    "pathways":10823.335,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5001,7 +5832,10 @@
     "tracks_lrt":5360.831,
     "tracks_railway":3213.695,
     "off_leash_areas":26435.844,
-    "pathways":3171.686
+    "pathways":3171.686,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5019,7 +5853,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":2080.075
+    "pathways":2080.075,
+    "libraries":0,
+    "hospitals_and_clinics":1,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5037,7 +5874,10 @@
     "tracks_lrt":4193.266,
     "tracks_railway":0.0,
     "off_leash_areas":175288.645,
-    "pathways":5632.396
+    "pathways":5632.396,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -5055,7 +5895,10 @@
     "tracks_lrt":3452.075,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":3249.225
+    "pathways":3249.225,
+    "libraries":0,
+    "hospitals_and_clinics":1,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5073,7 +5916,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5091,7 +5937,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":13312.829,
-    "pathways":9512.351
+    "pathways":9512.351,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5109,7 +5958,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":3104.821
+    "pathways":3104.821,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5127,7 +5979,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":227537.301,
-    "pathways":4374.126
+    "pathways":4374.126,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5145,7 +6000,10 @@
     "tracks_lrt":2233.74,
     "tracks_railway":0.0,
     "off_leash_areas":163223.647,
-    "pathways":28674.073
+    "pathways":28674.073,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5163,7 +6021,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":237.837
+    "pathways":237.837,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5181,7 +6042,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5199,7 +6063,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":4833.75
+    "pathways":4833.75,
+    "libraries":0,
+    "hospitals_and_clinics":1,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5217,7 +6084,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":1385.688
+    "pathways":1385.688,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5235,7 +6105,10 @@
     "tracks_lrt":2045.123,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":2477.133
+    "pathways":2477.133,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":3
   },
   {
     "class":"Residential",
@@ -5253,7 +6126,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":390.906
+    "pathways":390.906,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5271,7 +6147,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":5691.588
+    "pathways":5691.588,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -5289,7 +6168,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":4388.348,
     "off_leash_areas":0.0,
-    "pathways":358.43
+    "pathways":358.43,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5307,7 +6189,10 @@
     "tracks_lrt":10421.287,
     "tracks_railway":0.0,
     "off_leash_areas":249130.032,
-    "pathways":6339.833
+    "pathways":6339.833,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5325,7 +6210,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":3164.269
+    "pathways":3164.269,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5343,7 +6231,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":8802.072
+    "pathways":8802.072,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5361,7 +6252,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":59896.973,
-    "pathways":4901.516
+    "pathways":4901.516,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5379,7 +6273,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":10222.272
+    "pathways":10222.272,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5397,7 +6294,10 @@
     "tracks_lrt":3680.025,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":1047.018
+    "pathways":1047.018,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Industrial",
@@ -5415,7 +6315,10 @@
     "tracks_lrt":18271.928,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":7161.609
+    "pathways":7161.609,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":1
   },
   {
     "class":"Residential",
@@ -5433,7 +6336,10 @@
     "tracks_lrt":4399.109,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":4360.36
+    "pathways":4360.36,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5451,7 +6357,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":6485.607,
     "off_leash_areas":240183.51,
-    "pathways":2064.568
+    "pathways":2064.568,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5469,7 +6378,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":20298.552,
-    "pathways":957.498
+    "pathways":957.498,
+    "libraries":1,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5487,7 +6399,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":0.0
+    "pathways":0.0,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5505,7 +6420,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":4230.209,
     "off_leash_areas":135320.129,
-    "pathways":6012.712
+    "pathways":6012.712,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5523,7 +6441,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":1531.162
+    "pathways":1531.162,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5541,7 +6462,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":6287.966
+    "pathways":6287.966,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5559,7 +6483,10 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":2919.09
+    "pathways":2919.09,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   },
   {
     "class":"Residential",
@@ -5577,6 +6504,9 @@
     "tracks_lrt":0.0,
     "tracks_railway":0.0,
     "off_leash_areas":0.0,
-    "pathways":3679.867
+    "pathways":3679.867,
+    "libraries":0,
+    "hospitals_and_clinics":0,
+    "attractions":0
   }
 ]
