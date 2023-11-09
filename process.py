@@ -2,7 +2,6 @@
 from pathlib import Path
 
 import pandas as pd
-import pyproj
 import seaborn as sns
 
 from opendata import (
@@ -13,6 +12,8 @@ from opendata import (
     get_public_art,
     get_recreation_facilities,
     get_school_locations,
+    get_tracks_lrt,
+    get_tracks_railway,
     get_tree_canopy_2022,
 )
 
@@ -45,6 +46,12 @@ recreation_facilities = get_recreation_facilities()
 tree_canopy = get_tree_canopy_2022()
 
 # %%
+tracks_lrt = get_tracks_lrt(force=True)
+
+# %%
+tracks_railway = get_tracks_railway(force=True)
+
+# %%
 for src in [
     schools,
     bikeways,
@@ -53,6 +60,8 @@ for src in [
     public_art,
     recreation_facilities,
     tree_canopy,
+    tracks_lrt,
+    tracks_railway,
 ]:
     communities = pd.merge(communities, src, on="name")
 

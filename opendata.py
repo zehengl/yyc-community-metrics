@@ -222,5 +222,59 @@ def get_recreation_facilities(offset=25000, force=False):
         force,
         process_recreation_facilities,
         communities=get_community_district_boundaries(),
-    )  # , func, **kwargs)
+    )
+    return df
+
+
+def process_tracks_lrt(tracks_lrt, communities):
+    tracks_lrt["the_geom"] = tracks_lrt["the_geom"].apply(shape)
+    lengths = []
+    for g in tqdm(communities["multipolygon"], desc="Counting Length of LRT Tracks"):
+        length = (
+            tracks_lrt["the_geom"]
+            .apply(lambda p: transform(project, g.intersection(p)).length)
+            .sum()
+        )
+        lengths.append(length)
+    communities["tracks_lrt"] = lengths
+    communities["tracks_lrt"] = communities["tracks_lrt"].round(3)
+    return communities[["name", "tracks_lrt"]]
+
+
+def get_tracks_lrt(offset=25000, force=False):
+    df = download(
+        "ic67-rkd7",
+        offset,
+        force,
+        process_tracks_lrt,
+        communities=get_community_district_boundaries(),
+    )
+    return df
+
+
+def process_tracks_railway(tracks_railway, communities):
+    tracks_railway["the_geom"] = tracks_railway["the_geom"].apply(shape)
+    lengths = []
+    for g in tqdm(
+        communities["multipolygon"], desc="Counting Length of railway Tracks"
+    ):
+        length = (
+            tracks_railway["the_geom"]
+            .apply(lambda p: transform(project, g.intersection(p)).length)
+            .sum()
+        )
+        lengths.append(length)
+    communities["tracks_railway"] = lengths
+    communities["tracks_railway"] = communities["tracks_railway"].round(3)
+    return communities[["name", "tracks_railway"]]
+
+
+def get_tracks_railway(offset=25000, force=False):
+    df = download(
+        "cq6k-mmku",
+        offset,
+        force,
+        process_tracks_railway,
+        communities=get_community_district_boundaries(),
+    )
     return df
