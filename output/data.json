@@ -18,7 +18,8 @@
     "pathways":1693.355,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":4
   },
   {
     "class":"Residual Sub Area",
@@ -39,7 +40,8 @@
     "pathways":143.593,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":4
   },
   {
     "class":"Residual Sub Area",
@@ -60,7 +62,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":2
   },
   {
     "class":"Residual Sub Area",
@@ -81,7 +84,8 @@
     "pathways":192.67,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":1
   },
   {
     "class":"Residual Sub Area",
@@ -102,7 +106,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residual Sub Area",
@@ -123,7 +128,8 @@
     "pathways":4467.77,
     "libraries":1,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":10
   },
   {
     "class":"Residual Sub Area",
@@ -144,7 +150,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":1
   },
   {
     "class":"Residual Sub Area",
@@ -165,7 +172,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":12
   },
   {
     "class":"Residual Sub Area",
@@ -186,7 +194,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":82
   },
   {
     "class":"Residual Sub Area",
@@ -207,7 +216,8 @@
     "pathways":2382.853,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":6
   },
   {
     "class":"Residual Sub Area",
@@ -228,7 +238,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":4
   },
   {
     "class":"Residual Sub Area",
@@ -249,7 +260,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residual Sub Area",
@@ -270,7 +282,8 @@
     "pathways":198.022,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":8
   },
   {
     "class":"Residual Sub Area",
@@ -291,7 +304,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":8
   },
   {
     "class":"Residual Sub Area",
@@ -312,7 +326,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":1
   },
   {
     "class":"Residual Sub Area",
@@ -333,7 +348,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residual Sub Area",
@@ -354,7 +370,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residual Sub Area",
@@ -375,7 +392,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":3
   },
   {
     "class":"Residual Sub Area",
@@ -396,7 +414,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residual Sub Area",
@@ -417,7 +436,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residual Sub Area",
@@ -438,7 +458,8 @@
     "pathways":2117.056,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residual Sub Area",
@@ -459,7 +480,8 @@
     "pathways":3558.216,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":5
   },
   {
     "class":"Residual Sub Area",
@@ -480,7 +502,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":13
   },
   {
     "class":"Residual Sub Area",
@@ -501,7 +524,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":4
   },
   {
     "class":"Residual Sub Area",
@@ -522,7 +546,8 @@
     "pathways":7296.548,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":7
   },
   {
     "class":"Residual Sub Area",
@@ -543,7 +568,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":3
   },
   {
     "class":"Residual Sub Area",
@@ -564,7 +590,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":17
   },
   {
     "class":"Residual Sub Area",
@@ -585,7 +612,8 @@
     "pathways":2205.959,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":59
   },
   {
     "class":"Residual Sub Area",
@@ -606,7 +634,8 @@
     "pathways":2417.424,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":3
   },
   {
     "class":"Residual Sub Area",
@@ -627,7 +656,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":4
   },
   {
     "class":"Residual Sub Area",
@@ -648,7 +678,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residual Sub Area",
@@ -669,7 +700,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":16
   },
   {
     "class":"Residual Sub Area",
@@ -690,7 +722,8 @@
     "pathways":1660.838,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":1
   },
   {
     "class":"Residual Sub Area",
@@ -711,7 +744,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":7
   },
   {
     "class":"Residual Sub Area",
@@ -732,7 +766,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residual Sub Area",
@@ -753,7 +788,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residual Sub Area",
@@ -774,7 +810,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residual Sub Area",
@@ -795,7 +832,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":4
   },
   {
     "class":"Residual Sub Area",
@@ -816,7 +854,8 @@
     "pathways":246.341,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":4
   },
   {
     "class":"Residual Sub Area",
@@ -837,7 +876,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residual Sub Area",
@@ -858,7 +898,8 @@
     "pathways":272.14,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residual Sub Area",
@@ -879,7 +920,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residual Sub Area",
@@ -900,7 +942,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":6
   },
   {
     "class":"Residential",
@@ -921,7 +964,8 @@
     "pathways":3125.213,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":125
   },
   {
     "class":"Residential",
@@ -942,7 +986,8 @@
     "pathways":3154.044,
     "libraries":0,
     "hospitals_and_clinics":1,
-    "attractions":0
+    "attractions":0,
+    "crime_count":366
   },
   {
     "class":"Residential",
@@ -963,7 +1008,8 @@
     "pathways":7078.946,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":378
   },
   {
     "class":"Residential",
@@ -984,7 +1030,8 @@
     "pathways":1793.908,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":5
   },
   {
     "class":"Residential",
@@ -1005,7 +1052,8 @@
     "pathways":1335.414,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":222
   },
   {
     "class":"Industrial",
@@ -1026,7 +1074,8 @@
     "pathways":2934.903,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":1
+    "attractions":1,
+    "crime_count":99
   },
   {
     "class":"Residential",
@@ -1047,7 +1096,8 @@
     "pathways":820.934,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":4
   },
   {
     "class":"Residential",
@@ -1068,7 +1118,8 @@
     "pathways":5149.154,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":133
   },
   {
     "class":"Residential",
@@ -1089,7 +1140,8 @@
     "pathways":12536.441,
     "libraries":1,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":251
   },
   {
     "class":"Residential",
@@ -1110,7 +1162,8 @@
     "pathways":8998.551,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":101
   },
   {
     "class":"Residential",
@@ -1131,7 +1184,8 @@
     "pathways":7508.854,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":184
   },
   {
     "class":"Industrial",
@@ -1152,7 +1206,8 @@
     "pathways":6409.538,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":14
   },
   {
     "class":"Residential",
@@ -1173,7 +1228,8 @@
     "pathways":1593.848,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":242
   },
   {
     "class":"Residential",
@@ -1194,7 +1250,8 @@
     "pathways":955.804,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":267
   },
   {
     "class":"Residential",
@@ -1215,7 +1272,8 @@
     "pathways":822.701,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":12
   },
   {
     "class":"Residential",
@@ -1236,7 +1294,8 @@
     "pathways":4079.8,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":214
   },
   {
     "class":"Residential",
@@ -1257,7 +1316,8 @@
     "pathways":10.452,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":7
   },
   {
     "class":"Residential",
@@ -1278,7 +1338,8 @@
     "pathways":8006.343,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":8
   },
   {
     "class":"Residential",
@@ -1299,7 +1360,8 @@
     "pathways":608.885,
     "libraries":1,
     "hospitals_and_clinics":1,
-    "attractions":2
+    "attractions":2,
+    "crime_count":1807
   },
   {
     "class":"Residential",
@@ -1320,7 +1382,8 @@
     "pathways":2457.074,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":37
   },
   {
     "class":"Residential",
@@ -1341,7 +1404,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":6
   },
   {
     "class":"Residential",
@@ -1362,7 +1426,8 @@
     "pathways":9011.33,
     "libraries":1,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":478
   },
   {
     "class":"Residential",
@@ -1383,7 +1448,8 @@
     "pathways":309.757,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":99
   },
   {
     "class":"Residential",
@@ -1404,7 +1470,8 @@
     "pathways":2460.086,
     "libraries":1,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":274
   },
   {
     "class":"Residential",
@@ -1425,7 +1492,8 @@
     "pathways":10842.65,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":1
+    "attractions":1,
+    "crime_count":388
   },
   {
     "class":"Residential",
@@ -1446,7 +1514,8 @@
     "pathways":5444.173,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":102
   },
   {
     "class":"Residential",
@@ -1467,7 +1536,8 @@
     "pathways":115.222,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":20
   },
   {
     "class":"Industrial",
@@ -1488,7 +1558,8 @@
     "pathways":2895.432,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":73
   },
   {
     "class":"Industrial",
@@ -1509,7 +1580,8 @@
     "pathways":7709.064,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":175
   },
   {
     "class":"Residential",
@@ -1530,7 +1602,8 @@
     "pathways":392.29,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":46
   },
   {
     "class":"Major Park",
@@ -1551,7 +1624,8 @@
     "pathways":374.207,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":2
+    "attractions":2,
+    "crime_count":7
   },
   {
     "class":"Residential",
@@ -1572,7 +1646,8 @@
     "pathways":4479.367,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":158
   },
   {
     "class":"Residential",
@@ -1593,7 +1668,8 @@
     "pathways":3027.63,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":241
   },
   {
     "class":"Residential",
@@ -1614,7 +1690,8 @@
     "pathways":8036.48,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":27
   },
   {
     "class":"Residential",
@@ -1635,7 +1712,8 @@
     "pathways":49.588,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":174
   },
   {
     "class":"Residential",
@@ -1656,7 +1734,8 @@
     "pathways":2792.819,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":70
   },
   {
     "class":"Residential",
@@ -1677,7 +1756,8 @@
     "pathways":12915.061,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":112
   },
   {
     "class":"Residential",
@@ -1698,7 +1778,8 @@
     "pathways":4265.505,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":76
   },
   {
     "class":"Residential",
@@ -1719,7 +1800,8 @@
     "pathways":2567.798,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":2
+    "attractions":2,
+    "crime_count":76
   },
   {
     "class":"Residential",
@@ -1740,7 +1822,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":33
   },
   {
     "class":"Residential",
@@ -1761,7 +1844,8 @@
     "pathways":4127.779,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":32
   },
   {
     "class":"Residential",
@@ -1782,7 +1866,8 @@
     "pathways":6629.634,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":69
   },
   {
     "class":"Residential",
@@ -1803,7 +1888,8 @@
     "pathways":6446.04,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":45
   },
   {
     "class":"Residential",
@@ -1824,7 +1910,8 @@
     "pathways":258.011,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":155
   },
   {
     "class":"Residential",
@@ -1845,7 +1932,8 @@
     "pathways":1580.237,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":39
   },
   {
     "class":"Residential",
@@ -1866,7 +1954,8 @@
     "pathways":3019.47,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":62
   },
   {
     "class":"Residential",
@@ -1887,7 +1976,8 @@
     "pathways":13048.713,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":137
   },
   {
     "class":"Residential",
@@ -1908,7 +1998,8 @@
     "pathways":5330.463,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":77
   },
   {
     "class":"Residential",
@@ -1929,7 +2020,8 @@
     "pathways":7644.337,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":96
   },
   {
     "class":"Residential",
@@ -1950,7 +2042,8 @@
     "pathways":5586.764,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":65
   },
   {
     "class":"Residential",
@@ -1971,7 +2064,8 @@
     "pathways":6855.956,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":51
   },
   {
     "class":"Residential",
@@ -1992,7 +2086,8 @@
     "pathways":2948.168,
     "libraries":1,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":112
   },
   {
     "class":"Residential",
@@ -2013,7 +2108,8 @@
     "pathways":8148.364,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":210
   },
   {
     "class":"Residential",
@@ -2034,7 +2130,8 @@
     "pathways":24359.889,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":193
   },
   {
     "class":"Residential",
@@ -2055,7 +2152,8 @@
     "pathways":2334.743,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":384
   },
   {
     "class":"Residential",
@@ -2076,7 +2174,8 @@
     "pathways":5903.812,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":18
   },
   {
     "class":"Residential",
@@ -2097,7 +2196,8 @@
     "pathways":1003.456,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":13
   },
   {
     "class":"Residential",
@@ -2118,7 +2218,8 @@
     "pathways":5164.684,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":185
   },
   {
     "class":"Residential",
@@ -2139,7 +2240,8 @@
     "pathways":910.496,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":71
   },
   {
     "class":"Residential",
@@ -2160,7 +2262,8 @@
     "pathways":1110.118,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":52
   },
   {
     "class":"Industrial",
@@ -2181,7 +2284,8 @@
     "pathways":512.005,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":60
   },
   {
     "class":"Residential",
@@ -2202,7 +2306,8 @@
     "pathways":2241.91,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":7
   },
   {
     "class":"Residential",
@@ -2223,7 +2328,8 @@
     "pathways":9562.275,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":47
   },
   {
     "class":"Residential",
@@ -2244,7 +2350,8 @@
     "pathways":19149.242,
     "libraries":1,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":180
   },
   {
     "class":"Residential",
@@ -2265,7 +2372,8 @@
     "pathways":6299.483,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":383
   },
   {
     "class":"Residential",
@@ -2286,7 +2394,8 @@
     "pathways":110.794,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":10
+    "attractions":10,
+    "crime_count":1311
   },
   {
     "class":"Residential",
@@ -2307,7 +2416,8 @@
     "pathways":2291.84,
     "libraries":1,
     "hospitals_and_clinics":0,
-    "attractions":2
+    "attractions":2,
+    "crime_count":346
   },
   {
     "class":"Residential",
@@ -2328,7 +2438,8 @@
     "pathways":1902.612,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":2
+    "attractions":2,
+    "crime_count":107
   },
   {
     "class":"Residential",
@@ -2349,7 +2460,8 @@
     "pathways":210.916,
     "libraries":0,
     "hospitals_and_clinics":1,
-    "attractions":0
+    "attractions":0,
+    "crime_count":48
   },
   {
     "class":"Industrial",
@@ -2370,7 +2482,8 @@
     "pathways":3494.702,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":86
   },
   {
     "class":"Industrial",
@@ -2391,7 +2504,8 @@
     "pathways":16079.078,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":180
   },
   {
     "class":"Industrial",
@@ -2412,7 +2526,8 @@
     "pathways":1911.289,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":45
   },
   {
     "class":"Residential",
@@ -2433,7 +2548,8 @@
     "pathways":3933.316,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":2
+    "attractions":2,
+    "crime_count":96
   },
   {
     "class":"Residential",
@@ -2454,7 +2570,8 @@
     "pathways":17807.963,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":161
   },
   {
     "class":"Residential",
@@ -2475,7 +2592,8 @@
     "pathways":2953.163,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":83
   },
   {
     "class":"Residential",
@@ -2496,7 +2614,8 @@
     "pathways":780.861,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":60
   },
   {
     "class":"Residential",
@@ -2517,7 +2636,8 @@
     "pathways":2200.564,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":205
   },
   {
     "class":"Residential",
@@ -2538,7 +2658,8 @@
     "pathways":3333.767,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":61
   },
   {
     "class":"Residential",
@@ -2559,7 +2680,8 @@
     "pathways":13384.862,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":132
   },
   {
     "class":"Residential",
@@ -2580,7 +2702,8 @@
     "pathways":15900.422,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":145
   },
   {
     "class":"Residential",
@@ -2601,7 +2724,8 @@
     "pathways":440.674,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":120
   },
   {
     "class":"Industrial",
@@ -2622,7 +2746,8 @@
     "pathways":491.088,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":117
   },
   {
     "class":"Residential",
@@ -2643,7 +2768,8 @@
     "pathways":2378.667,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":390
   },
   {
     "class":"Major Park",
@@ -2664,7 +2790,8 @@
     "pathways":57223.279,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":2
+    "attractions":2,
+    "crime_count":22
   },
   {
     "class":"Industrial",
@@ -2685,7 +2812,8 @@
     "pathways":3718.342,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":268
   },
   {
     "class":"Residential",
@@ -2706,7 +2834,8 @@
     "pathways":1346.933,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":254
   },
   {
     "class":"Residential",
@@ -2727,7 +2856,8 @@
     "pathways":838.736,
     "libraries":1,
     "hospitals_and_clinics":1,
-    "attractions":0
+    "attractions":0,
+    "crime_count":591
   },
   {
     "class":"Industrial",
@@ -2748,7 +2878,8 @@
     "pathways":1316.679,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":111
   },
   {
     "class":"Industrial",
@@ -2769,7 +2900,8 @@
     "pathways":438.044,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":210
   },
   {
     "class":"Residential",
@@ -2790,7 +2922,8 @@
     "pathways":979.21,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":25
   },
   {
     "class":"Residential",
@@ -2811,7 +2944,8 @@
     "pathways":1746.284,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":1
+    "attractions":1,
+    "crime_count":29
   },
   {
     "class":"Residential",
@@ -2832,7 +2966,8 @@
     "pathways":699.266,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":2
   },
   {
     "class":"Residential",
@@ -2853,7 +2988,8 @@
     "pathways":1463.967,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":159
   },
   {
     "class":"Residential",
@@ -2874,7 +3010,8 @@
     "pathways":323.938,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":153
   },
   {
     "class":"Residential",
@@ -2895,7 +3032,8 @@
     "pathways":645.488,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":92
   },
   {
     "class":"Industrial",
@@ -2916,7 +3054,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":7
   },
   {
     "class":"Major Park",
@@ -2937,7 +3076,8 @@
     "pathways":26770.146,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":1
+    "attractions":1,
+    "crime_count":36
   },
   {
     "class":"Industrial",
@@ -2958,7 +3098,8 @@
     "pathways":152.133,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":28
   },
   {
     "class":"Industrial",
@@ -2979,7 +3120,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":54
   },
   {
     "class":"Industrial",
@@ -3000,7 +3142,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residential",
@@ -3021,7 +3164,8 @@
     "pathways":301.828,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":74
   },
   {
     "class":"Industrial",
@@ -3042,7 +3186,8 @@
     "pathways":2493.717,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":172
   },
   {
     "class":"Residential",
@@ -3063,7 +3208,8 @@
     "pathways":2759.353,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":17
   },
   {
     "class":"Residential",
@@ -3084,7 +3230,8 @@
     "pathways":5837.507,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":57
   },
   {
     "class":"Residential",
@@ -3105,7 +3252,8 @@
     "pathways":5872.977,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":124
   },
   {
     "class":"Residential",
@@ -3126,7 +3274,8 @@
     "pathways":812.029,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":14
   },
   {
     "class":"Residential",
@@ -3147,7 +3296,8 @@
     "pathways":4545.498,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":87
   },
   {
     "class":"Residential",
@@ -3168,7 +3318,8 @@
     "pathways":1524.636,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":257
   },
   {
     "class":"Residential",
@@ -3189,7 +3340,8 @@
     "pathways":12210.916,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":127
   },
   {
     "class":"Industrial",
@@ -3210,7 +3362,8 @@
     "pathways":1227.221,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":1
+    "attractions":1,
+    "crime_count":143
   },
   {
     "class":"Residential",
@@ -3231,7 +3384,8 @@
     "pathways":1390.411,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":202
   },
   {
     "class":"Residential",
@@ -3252,7 +3406,8 @@
     "pathways":959.005,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":95
   },
   {
     "class":"Residential",
@@ -3273,7 +3428,8 @@
     "pathways":3609.343,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":1
+    "attractions":1,
+    "crime_count":350
   },
   {
     "class":"Residential",
@@ -3294,7 +3450,8 @@
     "pathways":1086.97,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":6
   },
   {
     "class":"Industrial",
@@ -3315,7 +3472,8 @@
     "pathways":5084.797,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":236
   },
   {
     "class":"Residential",
@@ -3336,7 +3494,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":3
   },
   {
     "class":"Residential",
@@ -3357,7 +3516,8 @@
     "pathways":1714.998,
     "libraries":1,
     "hospitals_and_clinics":1,
-    "attractions":0
+    "attractions":0,
+    "crime_count":178
   },
   {
     "class":"Residential",
@@ -3378,7 +3538,8 @@
     "pathways":8766.871,
     "libraries":1,
     "hospitals_and_clinics":1,
-    "attractions":0
+    "attractions":0,
+    "crime_count":370
   },
   {
     "class":"Residential",
@@ -3399,7 +3560,8 @@
     "pathways":7982.166,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":2
+    "attractions":2,
+    "crime_count":203
   },
   {
     "class":"Residential",
@@ -3420,7 +3582,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":63
   },
   {
     "class":"Residential",
@@ -3441,7 +3604,8 @@
     "pathways":923.055,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residential",
@@ -3462,7 +3626,8 @@
     "pathways":1164.922,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":284
   },
   {
     "class":"Residential",
@@ -3483,7 +3648,8 @@
     "pathways":7384.879,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":61
   },
   {
     "class":"Residential",
@@ -3504,7 +3670,8 @@
     "pathways":995.385,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":232
   },
   {
     "class":"Residential",
@@ -3525,7 +3692,8 @@
     "pathways":766.827,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":224
   },
   {
     "class":"Residential",
@@ -3546,7 +3714,8 @@
     "pathways":583.812,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":92
   },
   {
     "class":"Residential",
@@ -3567,7 +3736,8 @@
     "pathways":10317.344,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":86
   },
   {
     "class":"Residential",
@@ -3588,7 +3758,8 @@
     "pathways":886.043,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residential",
@@ -3609,7 +3780,8 @@
     "pathways":3448.161,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":67
   },
   {
     "class":"Residential",
@@ -3630,7 +3802,8 @@
     "pathways":9113.189,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":49
   },
   {
     "class":"Residential",
@@ -3651,7 +3824,8 @@
     "pathways":34.966,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":202
   },
   {
     "class":"Residential",
@@ -3672,7 +3846,8 @@
     "pathways":3088.422,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":51
   },
   {
     "class":"Residential",
@@ -3693,7 +3868,8 @@
     "pathways":17567.842,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":122
   },
   {
     "class":"Residential",
@@ -3714,7 +3890,8 @@
     "pathways":12.237,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":124
   },
   {
     "class":"Industrial",
@@ -3735,7 +3912,8 @@
     "pathways":1671.477,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":425
   },
   {
     "class":"Residential",
@@ -3756,7 +3934,8 @@
     "pathways":2176.846,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":33
   },
   {
     "class":"Residential",
@@ -3777,7 +3956,8 @@
     "pathways":799.145,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":428
   },
   {
     "class":"Residential",
@@ -3798,7 +3978,8 @@
     "pathways":2650.958,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":244
   },
   {
     "class":"Residential",
@@ -3819,7 +4000,8 @@
     "pathways":3998.805,
     "libraries":1,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":347
   },
   {
     "class":"Residential",
@@ -3840,7 +4022,8 @@
     "pathways":834.743,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":7
   },
   {
     "class":"Industrial",
@@ -3861,7 +4044,8 @@
     "pathways":288.604,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":66
   },
   {
     "class":"Residential",
@@ -3882,7 +4066,8 @@
     "pathways":222.759,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":240
   },
   {
     "class":"Industrial",
@@ -3903,7 +4088,8 @@
     "pathways":1728.102,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":91
   },
   {
     "class":"Residential",
@@ -3924,7 +4110,8 @@
     "pathways":13087.504,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":147
   },
   {
     "class":"Residential",
@@ -3945,7 +4132,8 @@
     "pathways":11890.457,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":245
   },
   {
     "class":"Residential",
@@ -3966,7 +4154,8 @@
     "pathways":776.642,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":164
   },
   {
     "class":"Residential",
@@ -3987,7 +4176,8 @@
     "pathways":2942.068,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":6
   },
   {
     "class":"Industrial",
@@ -4008,7 +4198,8 @@
     "pathways":2555.663,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":164
   },
   {
     "class":"Residential",
@@ -4029,7 +4220,8 @@
     "pathways":3334.569,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":129
   },
   {
     "class":"Residential",
@@ -4050,7 +4242,8 @@
     "pathways":3788.256,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":100
   },
   {
     "class":"Residential",
@@ -4071,7 +4264,8 @@
     "pathways":365.199,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":245
   },
   {
     "class":"Residential",
@@ -4092,7 +4286,8 @@
     "pathways":11987.924,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":173
   },
   {
     "class":"Residential",
@@ -4113,7 +4308,8 @@
     "pathways":8169.867,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":273
   },
   {
     "class":"Residential",
@@ -4134,7 +4330,8 @@
     "pathways":2566.764,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":280
   },
   {
     "class":"Residential",
@@ -4155,7 +4352,8 @@
     "pathways":10762.777,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":121
   },
   {
     "class":"Residential",
@@ -4176,7 +4374,8 @@
     "pathways":8536.943,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":67
   },
   {
     "class":"Industrial",
@@ -4197,7 +4396,8 @@
     "pathways":1535.936,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":97
   },
   {
     "class":"Residential",
@@ -4218,7 +4418,8 @@
     "pathways":1360.575,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":58
   },
   {
     "class":"Residential",
@@ -4239,7 +4440,8 @@
     "pathways":1270.684,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":36
   },
   {
     "class":"Residential",
@@ -4260,7 +4462,8 @@
     "pathways":815.552,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":6
   },
   {
     "class":"Major Park",
@@ -4281,7 +4484,8 @@
     "pathways":7781.671,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":38
   },
   {
     "class":"Residential",
@@ -4302,7 +4506,8 @@
     "pathways":7235.636,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":70
   },
   {
     "class":"Residential",
@@ -4323,7 +4528,8 @@
     "pathways":6917.132,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":265
   },
   {
     "class":"Industrial",
@@ -4344,7 +4550,8 @@
     "pathways":4437.11,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":8
   },
   {
     "class":"Residential",
@@ -4365,7 +4572,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residential",
@@ -4386,7 +4594,8 @@
     "pathways":610.999,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":64
   },
   {
     "class":"Residential",
@@ -4407,7 +4616,8 @@
     "pathways":20324.577,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":236
   },
   {
     "class":"Residential",
@@ -4428,7 +4638,8 @@
     "pathways":3098.681,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":71
   },
   {
     "class":"Residential",
@@ -4449,7 +4660,8 @@
     "pathways":1718.847,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":84
   },
   {
     "class":"Residential",
@@ -4470,7 +4682,8 @@
     "pathways":223.128,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":38
   },
   {
     "class":"Residential",
@@ -4491,7 +4704,8 @@
     "pathways":4313.953,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":68
   },
   {
     "class":"Industrial",
@@ -4512,7 +4726,8 @@
     "pathways":24.381,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":1
+    "attractions":1,
+    "crime_count":22
   },
   {
     "class":"Residential",
@@ -4533,7 +4748,8 @@
     "pathways":2333.834,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":298
   },
   {
     "class":"Residential",
@@ -4554,7 +4770,8 @@
     "pathways":3010.587,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":12
   },
   {
     "class":"Residential",
@@ -4575,7 +4792,8 @@
     "pathways":2966.06,
     "libraries":1,
     "hospitals_and_clinics":1,
-    "attractions":0
+    "attractions":0,
+    "crime_count":395
   },
   {
     "class":"Residential",
@@ -4596,7 +4814,8 @@
     "pathways":1906.001,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":14
   },
   {
     "class":"Residential",
@@ -4617,7 +4836,8 @@
     "pathways":1269.148,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":26
   },
   {
     "class":"Residential",
@@ -4638,7 +4858,8 @@
     "pathways":721.187,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":10
   },
   {
     "class":"Residential",
@@ -4659,7 +4880,8 @@
     "pathways":48.938,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":69
   },
   {
     "class":"Residential",
@@ -4680,7 +4902,8 @@
     "pathways":2850.883,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":78
   },
   {
     "class":"Residential",
@@ -4701,7 +4924,8 @@
     "pathways":4745.994,
     "libraries":0,
     "hospitals_and_clinics":1,
-    "attractions":0
+    "attractions":0,
+    "crime_count":106
   },
   {
     "class":"Residential",
@@ -4722,7 +4946,8 @@
     "pathways":1832.804,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":11
   },
   {
     "class":"Residential",
@@ -4743,7 +4968,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":43
   },
   {
     "class":"Residential",
@@ -4764,7 +4990,8 @@
     "pathways":4745.933,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":69
   },
   {
     "class":"Residential",
@@ -4785,7 +5012,8 @@
     "pathways":4598.54,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":1
+    "attractions":1,
+    "crime_count":296
   },
   {
     "class":"Residential",
@@ -4806,7 +5034,8 @@
     "pathways":1632.758,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":176
   },
   {
     "class":"Residential",
@@ -4827,7 +5056,8 @@
     "pathways":851.417,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":19
   },
   {
     "class":"Residential",
@@ -4848,7 +5078,8 @@
     "pathways":13214.078,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":123
   },
   {
     "class":"Residential",
@@ -4869,7 +5100,8 @@
     "pathways":13113.049,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":65
   },
   {
     "class":"Residential",
@@ -4890,7 +5122,8 @@
     "pathways":258.485,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":48
   },
   {
     "class":"Residential",
@@ -4911,7 +5144,8 @@
     "pathways":224.01,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":28
   },
   {
     "class":"Residential",
@@ -4932,7 +5166,8 @@
     "pathways":1518.59,
     "libraries":1,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":222
   },
   {
     "class":"Residential",
@@ -4953,7 +5188,8 @@
     "pathways":24.899,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":8
   },
   {
     "class":"Residential",
@@ -4974,7 +5210,8 @@
     "pathways":11090.553,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":115
   },
   {
     "class":"Industrial",
@@ -4995,7 +5232,8 @@
     "pathways":2125.246,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":23
   },
   {
     "class":"Residential",
@@ -5016,7 +5254,8 @@
     "pathways":4710.861,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":374
   },
   {
     "class":"Residential",
@@ -5037,7 +5276,8 @@
     "pathways":20.695,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":54
   },
   {
     "class":"Residential",
@@ -5058,7 +5298,8 @@
     "pathways":17753.809,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":385
   },
   {
     "class":"Industrial",
@@ -5079,7 +5320,8 @@
     "pathways":5144.888,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":50
   },
   {
     "class":"Residential",
@@ -5100,7 +5342,8 @@
     "pathways":11441.659,
     "libraries":1,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":115
   },
   {
     "class":"Residential",
@@ -5121,7 +5364,8 @@
     "pathways":2856.285,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":59
   },
   {
     "class":"Residential",
@@ -5142,7 +5386,8 @@
     "pathways":31.857,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":27
   },
   {
     "class":"Residential",
@@ -5163,7 +5408,8 @@
     "pathways":742.631,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":6
   },
   {
     "class":"Residential",
@@ -5184,7 +5430,8 @@
     "pathways":13739.218,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":91
   },
   {
     "class":"Industrial",
@@ -5205,7 +5452,8 @@
     "pathways":4084.393,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":17
   },
   {
     "class":"Residential",
@@ -5226,7 +5474,8 @@
     "pathways":8047.893,
     "libraries":1,
     "hospitals_and_clinics":1,
-    "attractions":0
+    "attractions":0,
+    "crime_count":104
   },
   {
     "class":"Residential",
@@ -5247,7 +5496,8 @@
     "pathways":2537.547,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":78
   },
   {
     "class":"Residential",
@@ -5268,7 +5518,8 @@
     "pathways":3020.092,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":53
   },
   {
     "class":"Residential",
@@ -5289,7 +5540,8 @@
     "pathways":8743.497,
     "libraries":1,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":229
   },
   {
     "class":"Industrial",
@@ -5310,7 +5562,8 @@
     "pathways":1528.853,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":100
   },
   {
     "class":"Residential",
@@ -5331,7 +5584,8 @@
     "pathways":8251.7,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":83
   },
   {
     "class":"Residential",
@@ -5352,7 +5606,8 @@
     "pathways":17165.98,
     "libraries":1,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":236
   },
   {
     "class":"Residential",
@@ -5373,7 +5628,8 @@
     "pathways":9714.151,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":126
   },
   {
     "class":"Residential",
@@ -5394,7 +5650,8 @@
     "pathways":12953.694,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":68
   },
   {
     "class":"Industrial",
@@ -5415,7 +5672,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":18
   },
   {
     "class":"Industrial",
@@ -5436,7 +5694,8 @@
     "pathways":1320.138,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":36
   },
   {
     "class":"Residential",
@@ -5457,7 +5716,8 @@
     "pathways":5458.054,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":233
   },
   {
     "class":"Residential",
@@ -5478,7 +5738,8 @@
     "pathways":8094.521,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":108
   },
   {
     "class":"Industrial",
@@ -5499,7 +5760,8 @@
     "pathways":931.958,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":185
   },
   {
     "class":"Residential",
@@ -5520,7 +5782,8 @@
     "pathways":76.063,
     "libraries":1,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":208
   },
   {
     "class":"Industrial",
@@ -5541,7 +5804,8 @@
     "pathways":9570.946,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":61
   },
   {
     "class":"Residential",
@@ -5562,7 +5826,8 @@
     "pathways":3533.003,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":146
   },
   {
     "class":"Residential",
@@ -5583,7 +5848,8 @@
     "pathways":3299.739,
     "libraries":1,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":273
   },
   {
     "class":"Residential",
@@ -5604,7 +5870,8 @@
     "pathways":11756.466,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":111
   },
   {
     "class":"Residential",
@@ -5625,7 +5892,8 @@
     "pathways":1882.641,
     "libraries":0,
     "hospitals_and_clinics":1,
-    "attractions":0
+    "attractions":0,
+    "crime_count":96
   },
   {
     "class":"Residential",
@@ -5646,7 +5914,8 @@
     "pathways":2665.856,
     "libraries":0,
     "hospitals_and_clinics":1,
-    "attractions":0
+    "attractions":0,
+    "crime_count":107
   },
   {
     "class":"Industrial",
@@ -5667,7 +5936,8 @@
     "pathways":1391.058,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":36
   },
   {
     "class":"Industrial",
@@ -5688,7 +5958,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Industrial",
@@ -5709,7 +5980,8 @@
     "pathways":5103.28,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":20
   },
   {
     "class":"Industrial",
@@ -5730,7 +6002,8 @@
     "pathways":6986.562,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":28
   },
   {
     "class":"Industrial",
@@ -5751,7 +6024,8 @@
     "pathways":5726.537,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":127
   },
   {
     "class":"Industrial",
@@ -5772,7 +6046,8 @@
     "pathways":2004.19,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":33
   },
   {
     "class":"Industrial",
@@ -5793,7 +6068,8 @@
     "pathways":1020.968,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":18
   },
   {
     "class":"Residential",
@@ -5814,7 +6090,8 @@
     "pathways":10823.335,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":70
   },
   {
     "class":"Residential",
@@ -5835,7 +6112,8 @@
     "pathways":3171.686,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":265
   },
   {
     "class":"Residential",
@@ -5856,7 +6134,8 @@
     "pathways":2080.075,
     "libraries":0,
     "hospitals_and_clinics":1,
-    "attractions":0
+    "attractions":0,
+    "crime_count":109
   },
   {
     "class":"Residential",
@@ -5877,7 +6156,8 @@
     "pathways":5632.396,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":208
   },
   {
     "class":"Industrial",
@@ -5898,7 +6178,8 @@
     "pathways":3249.225,
     "libraries":0,
     "hospitals_and_clinics":1,
-    "attractions":0
+    "attractions":0,
+    "crime_count":413
   },
   {
     "class":"Residential",
@@ -5919,7 +6200,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":9
   },
   {
     "class":"Residential",
@@ -5940,7 +6222,8 @@
     "pathways":9512.351,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":285
   },
   {
     "class":"Residential",
@@ -5961,7 +6244,8 @@
     "pathways":3104.821,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":329
   },
   {
     "class":"Residential",
@@ -5982,7 +6266,8 @@
     "pathways":4374.126,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":266
   },
   {
     "class":"Residential",
@@ -6003,7 +6288,8 @@
     "pathways":28674.073,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":164
   },
   {
     "class":"Residential",
@@ -6024,7 +6310,8 @@
     "pathways":237.837,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":305
   },
   {
     "class":"Residential",
@@ -6045,7 +6332,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":null
   },
   {
     "class":"Residential",
@@ -6066,7 +6354,8 @@
     "pathways":4833.75,
     "libraries":0,
     "hospitals_and_clinics":1,
-    "attractions":0
+    "attractions":0,
+    "crime_count":40
   },
   {
     "class":"Residential",
@@ -6087,7 +6376,8 @@
     "pathways":1385.688,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":79
   },
   {
     "class":"Residential",
@@ -6108,7 +6398,8 @@
     "pathways":2477.133,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":3
+    "attractions":3,
+    "crime_count":75
   },
   {
     "class":"Residential",
@@ -6129,7 +6420,8 @@
     "pathways":390.906,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":81
   },
   {
     "class":"Residential",
@@ -6150,7 +6442,8 @@
     "pathways":5691.588,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":53
   },
   {
     "class":"Industrial",
@@ -6171,7 +6464,8 @@
     "pathways":358.43,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":57
   },
   {
     "class":"Residential",
@@ -6192,7 +6486,8 @@
     "pathways":6339.833,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":341
   },
   {
     "class":"Residential",
@@ -6213,7 +6508,8 @@
     "pathways":3164.269,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":109
   },
   {
     "class":"Residential",
@@ -6234,7 +6530,8 @@
     "pathways":8802.072,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":68
   },
   {
     "class":"Residential",
@@ -6255,7 +6552,8 @@
     "pathways":4901.516,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":235
   },
   {
     "class":"Residential",
@@ -6276,7 +6574,8 @@
     "pathways":10222.272,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":111
   },
   {
     "class":"Residential",
@@ -6297,7 +6596,8 @@
     "pathways":1047.018,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":56
   },
   {
     "class":"Industrial",
@@ -6318,7 +6618,8 @@
     "pathways":7161.609,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":1
+    "attractions":1,
+    "crime_count":212
   },
   {
     "class":"Residential",
@@ -6339,7 +6640,8 @@
     "pathways":4360.36,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":327
   },
   {
     "class":"Residential",
@@ -6360,7 +6662,8 @@
     "pathways":2064.568,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":59
   },
   {
     "class":"Residential",
@@ -6381,7 +6684,8 @@
     "pathways":957.498,
     "libraries":1,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":201
   },
   {
     "class":"Residential",
@@ -6402,7 +6706,8 @@
     "pathways":0.0,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":213
   },
   {
     "class":"Residential",
@@ -6423,7 +6728,8 @@
     "pathways":6012.712,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":182
   },
   {
     "class":"Residential",
@@ -6444,7 +6750,8 @@
     "pathways":1531.162,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":7
   },
   {
     "class":"Residential",
@@ -6465,7 +6772,8 @@
     "pathways":6287.966,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":104
   },
   {
     "class":"Residential",
@@ -6486,7 +6794,8 @@
     "pathways":2919.09,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":115
   },
   {
     "class":"Residential",
@@ -6507,6 +6816,7 @@
     "pathways":3679.867,
     "libraries":0,
     "hospitals_and_clinics":0,
-    "attractions":0
+    "attractions":0,
+    "crime_count":8
   }
 ]
