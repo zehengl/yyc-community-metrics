@@ -377,3 +377,36 @@ def get_community_services(offset=25000, force=False):
         communities=get_community_district_boundaries(),
     )
     return df
+
+
+def process_community_crime_statistics(community_crime_statistics, communities):
+    community_crime_statistics["crime_count"] = pd.to_numeric(
+        community_crime_statistics["crime_count"]
+    )
+    community_crime_statistics = (
+        community_crime_statistics.groupby(["community_name", "year"])
+        .sum(numeric_only=True)
+        .reset_index()
+        .groupby("community_name")
+        .mean(numeric_only=True)
+        .reset_index()
+    )
+    df = communities.merge(
+        community_crime_statistics,
+        left_on="name",
+        right_on="community_name",
+        how="left",
+    )[["name", "crime_count"]]
+    df["crime_count"] = df["crime_count"].round(0).astype("Int64")
+    return df
+
+
+def get_community_crime_statistics(offset=25000, force=False):
+    df = download(
+        "78gh-n26t",
+        offset,
+        force,
+        process_community_crime_statistics,
+        communities=get_community_district_boundaries(),
+    )
+    return df

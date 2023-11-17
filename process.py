@@ -7,6 +7,7 @@ import seaborn as sns
 from opendata import (
     get_bikeways,
     get_bus_stops,
+    get_community_crime_statistics,
     get_community_district_boundaries,
     get_community_services,
     get_lrt_stations,
@@ -64,6 +65,9 @@ pathways = get_pathways()
 community_services = get_community_services()
 
 # %%
+community_crime_statistics = get_community_crime_statistics()
+
+# %%
 for src in [
     schools,
     bikeways,
@@ -77,6 +81,7 @@ for src in [
     off_leash_areas,
     pathways,
     community_services,
+    community_crime_statistics,
 ]:
     communities = pd.merge(communities, src, on="name")
 
@@ -148,5 +153,11 @@ ax = sns.histplot(data=communities, x="schools")
 # %%
 ax = sns.boxplot(data=communities, y="bikeways", x="sector")
 ax.set_xticklabels(ax.get_xticklabels(), rotation=45)
+
+
+# %%
+ax = sns.boxplot(data=communities, y="crime_count", x="sector")
+ax.set_xticklabels(ax.get_xticklabels(), rotation=45)
+
 
 # %%
