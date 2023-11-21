@@ -23,6 +23,8 @@ theme:
   features:
     - header.autohide
     - navigation.top
+repo_name: yyc-community-metrics
+repo_url: https://github.com/zehengl/yyc-community-metrics
 plugins:
   - search
   - tags
@@ -36,3 +38,7 @@ plugins:
 markdown_extensions:
   - attr_list
   - md_in_html
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/zehengl
