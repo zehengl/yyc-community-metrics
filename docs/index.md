@@ -25,3 +25,11 @@ Use UTM projection for area / length calculation.
 ![WGS84](wgs84.png)
 
 ![UTM](utm.png)
+
+## Outcome
+
+See the [:fontawesome-solid-file-csv:][1]{:target="\_blank"} and/or [:material-code-json:][2]{:target="\_blank"} files. Also check out a guessing game [:simple-streamlit:][3] that is based on the aggregation result.
+
+[1]: https://github.com/zehengl/yyc-community-metrics/blob/main/output/data.csv
+[2]: https://github.com/zehengl/yyc-community-metrics/blob/main/output/data.json
+[3]: https://yyc-community-game.streamlit.app/
