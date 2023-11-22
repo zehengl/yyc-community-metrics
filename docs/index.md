@@ -17,3 +17,11 @@ See the following examples where we use a <span style="color:blue">blue polygon<
 ![Example 2](example2.png)
 
 ![Example 3](example3.png)
+
+## Projection
+
+Use UTM projection for area / length calculation.
+
+![WGS84](wgs84.png)
+
+![UTM](utm.png)

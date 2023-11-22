@@ -3,6 +3,8 @@ import math
 import random
 from typing import List, Tuple
 
+random.seed(2023)
+
 
 def generate_polygon(
     center: Tuple[float, float],
@@ -104,6 +106,7 @@ import io
 import folium
 from PIL import Image
 from shapely.geometry import LineString, Point, Polygon
+from tqdm import tqdm
 
 center = (51.0447, -114.0719)
 blue = "#0000FF"
@@ -111,7 +114,7 @@ green = "#3BB143"
 orange = "#FF7F50"
 red = "#800000"
 
-for i in range(3):
+for i in tqdm(range(3), desc="Making examples"):
     m = folium.Map(location=center, zoom_start=12)
 
     poly1 = Polygon(
@@ -191,5 +194,40 @@ for i in range(3):
     img = Image.open(io.BytesIO(img_data))
     img.save(f"docs/example{i+1}.png")
 
+
+# %%
+import io
+
+import folium
+import matplotlib.pyplot as plt
+import pyproj
+from PIL import Image
+from shapely.geometry import Polygon
+from shapely.ops import transform
+
+from opendata import project
+
+m = folium.Map(location=center, zoom_start=12)
+poly1 = Polygon(
+    generate_polygon(
+        center=center[::-1],
+        avg_radius=0.01,
+        irregularity=0.35,
+        spikiness=0.2,
+        num_vertices=8,
+    )
+)
+folium.GeoJson(poly1, lambda _: {"fillColor": blue, "color": blue}).add_to(m)
+m.fit_bounds([poly1.bounds[:2][::-1], poly1.bounds[2:][::-1]])
+img_data = m._to_png(10)
+img = Image.open(io.BytesIO(img_data))
+img.save("docs/wgs84.png")
+
+
+# %%
+g = transform(project, poly1)
+fig = plt.figure()
+plt.plot(*g.exterior.xy)
+fig.savefig("docs/utm.png")
 
 # %%
