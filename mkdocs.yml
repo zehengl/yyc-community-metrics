@@ -1,6 +1,7 @@
 site_name: yyc-community-metrics
 nav:
   - Home: index.md
+  - Data Sources: data_sources.md
 theme:
   name: material
   favicon: https://cdn1.iconfinder.com/data/icons/flat-and-simple-part-1/128/location-512.png
@@ -23,6 +24,8 @@ theme:
   features:
     - header.autohide
     - navigation.top
+    - navigation.tabs
+    - navigation.footer
 repo_name: yyc-community-metrics
 repo_url: https://github.com/zehengl/yyc-community-metrics
 plugins:
@@ -36,6 +39,7 @@ plugins:
       type: timeago
       enable_creation_date: true
 markdown_extensions:
+  - def_list
   - attr_list
   - md_in_html
   - pymdownx.emoji:
