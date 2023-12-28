@@ -19,6 +19,7 @@ An aggregation of community-related data for City of Calgary
     .venv\Scripts\activate
     python -m pip install -U pip
     pip install -r requirements.txt
+    python process.py
 
 > Use `pip install -r requirements-dev.txt` for development and docs.
 
