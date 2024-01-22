@@ -1,4 +1,4 @@
-pandas==2.1.4
+pandas==2.2.0
 pyproj==3.6.1
 requests==2.31.0
 seaborn==0.13.1
