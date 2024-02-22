@@ -1,5 +1,5 @@
 <figure markdown>
-![Logo](https://cdn1.iconfinder.com/data/icons/flat-and-simple-part-1/128/location-512.png){ width="100" }
+![Logo](https://cdn2.iconfinder.com/data/icons/round-varieties/60/Rounded_-_High_Ultra_Colour02_-_Maps-512.png){ width="100" }
 </figure>
 
 # yyc-community-metrics

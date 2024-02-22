@@ -4,20 +4,26 @@ nav:
   - Data Sources: data_sources.md
 theme:
   name: material
-  favicon: https://cdn1.iconfinder.com/data/icons/flat-and-simple-part-1/128/location-512.png
-  logo: https://cdn1.iconfinder.com/data/icons/flat-and-simple-part-1/128/location-512.png
+  favicon: https://cdn2.iconfinder.com/data/icons/round-varieties/60/Rounded_-_High_Ultra_Colour02_-_Maps-512.png
+  logo: https://cdn2.iconfinder.com/data/icons/round-varieties/60/Rounded_-_High_Ultra_Colour02_-_Maps-512.png
   font:
     text: Roboto
   palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: red
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
-    - scheme: slate
-      primary: indigo
-      accent: indigo
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: pink
+      accent: pink
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
@@ -35,9 +41,10 @@ plugins:
       auto_caption: true
   - minify:
       minify_html: true
-  - git-revision-date-localized:
-      type: timeago
-      enable_creation_date: true
+  - neoteroi.contribs:
+      contributors:
+        - email: imzehengl@gmail.com
+          image: https://avatars.githubusercontent.com/u/6238966?v=4
 markdown_extensions:
   - def_list
   - attr_list
@@ -51,3 +58,5 @@ extra:
       link: https://github.com/zehengl
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/zehengl
+extra_css:
+  - css/neoteroi-mkdocs.css

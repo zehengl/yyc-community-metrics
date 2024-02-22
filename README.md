@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://cdn1.iconfinder.com/data/icons/flat-and-simple-part-1/128/location-512.png" alt="logo" height="128">
+    <img src="https://cdn2.iconfinder.com/data/icons/round-varieties/60/Rounded_-_High_Ultra_Colour02_-_Maps-512.png" alt="logo" height="128">
 </div>
 
 # yyc-community-metrics
@@ -29,7 +29,7 @@ An aggregation of community-related data for City of Calgary
 
 ## Credits
 
-- [Logo][1] by [Alex Timashenka][2]
+- [Logo][1] by [Creaticca Ltd][2]
 - [Community District Boundaries][3]
 - [Schools][4]
 - [Calgary Bikeways][5]
@@ -45,8 +45,8 @@ An aggregation of community-related data for City of Calgary
 - [Tree Canopy 2022][15]
 - [Community Crime Statistics][16]
 
-[1]: https://www.iconfinder.com/icons/718953/location_maps_navigation_pin_place_icon
-[2]: https://www.iconfinder.com/Oppossume
+[1]: https://www.iconfinder.com/icons/2250024/direct_directions_map_maps_navigate_mintie_icon
+[2]: https://www.iconfinder.com/bendavis
 [3]: https://data.calgary.ca/Base-Maps/Community-District-Boundaries/surr-xmvs
 [4]: https://data.calgary.ca/Services-and-Amenities/Schools/fd9t-tdn2
 [5]: https://data.calgary.ca/Transportation-Transit/Calgary-Bikeways/jjqk-9b73
