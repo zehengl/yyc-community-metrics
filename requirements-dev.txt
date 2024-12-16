@@ -1,6 +1,6 @@
 -r requirements.txt
 -r requirements-docs.txt
-folium==0.18.0
-jupyterlab==4.3.2
+folium==0.19.2
+jupyterlab==4.3.3
 pip-check-updates==0.27.0
 selenium==4.27.1
