@@ -1,6 +1,6 @@
 pandas==2.3.0
 pyproj==3.7.1
-requests==2.32.3
+requests==2.32.4
 seaborn==0.13.2
 shapely==2.1.1
 tqdm==4.67.1
