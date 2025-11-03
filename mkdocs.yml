@@ -4,8 +4,6 @@ nav:
   - Data Sources: data_sources.md
 theme:
   name: material
-  favicon: https://cdn2.iconfinder.com/data/icons/round-varieties/60/Rounded_-_High_Ultra_Colour02_-_Maps-512.png
-  logo: https://cdn2.iconfinder.com/data/icons/round-varieties/60/Rounded_-_High_Ultra_Colour02_-_Maps-512.png
   font:
     text: Roboto
   palette:
