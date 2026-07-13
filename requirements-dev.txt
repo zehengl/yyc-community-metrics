@@ -3,4 +3,4 @@
 folium==0.20.0
 jupyterlab==4.6.1
 pip-check-updates==0.29.0
-selenium==4.45.0
+selenium==4.46.0
